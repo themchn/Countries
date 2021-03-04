@@ -12,7 +12,7 @@ http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bulgarska Svobodna TV" tvg-logo="https://i.imgur.com/Ugl3Pq5.png" group-title="BULGARIA",Bulgarska Svobodna TV
 https://e203-ts.cdn.bg/bstv/fls/bstv.stream/playlist.m3u8?at=27dbed3689bce270f5ce305e550588f2
 #EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="https://i.imgur.com/BjRTbrU.png" group-title="BULGARIA",City TV
-https://tv.city.bg/play/tshls/citytv/index.m3u8
+https://tv.city.bg/play/tshls/citytv/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Evrokom" tvg-logo="https://i.imgur.com/3s7qchh.png" group-title="BULGARIA",Evrokom
 https://live.ecomservice.bg/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Light Channel" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="BULGARIA",Light Channel
