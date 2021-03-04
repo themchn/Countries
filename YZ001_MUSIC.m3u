@@ -49,6 +49,8 @@ https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 tvg-name="Chill AF (US)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",Chill AF (US)
 https://10999-1.b.cdn13.com/streams/masters-v3/djset/654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="City TV (BG)" tvg-logo="https://i.imgur.com/BjRTbrU.png" group-title="MUSIC",City TV (BG)
+https://tv.city.bg/play/tshls/citytv/1.m3u8
 #EXTINF:-1 tvg-name="CMC (US)" tvg-id="CMC 2" group-title="MUSIC" tvg-logo="https://i.imgur.com/aDReLcK.png",CMC 2 (US)
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 tvg-name="Conecta TV HD (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/9TGQZzk.png",Conecta TV HD (BR)
