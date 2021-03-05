@@ -6,20 +6,18 @@ Some really bad guys have been really pissing me off lately so my repo wasn't av
 
 If you like my M3U's, I am very happy about a small donation, you can find it in the readme below in my repository
 
-Thursday, 4 March 21_
+Friday, 5 March 21_
 
-HU01_HUNGARY - Thanks to Zhoro-111
-Change stream address: MUSIC +
+EE01_ESTONIA
+Added: Life TV
 
-LT01_LITHUANIA - Thanks to spil99
-Removed, wrong country: ETV, ETV2, ETV+
+FR01_FRANCE
+Added: CGTN France, LEEEKO TV
 
-YZ001_MUSIC 
-Added: Chau TV (LV)
-Corrected address: Baraza Music TV (GR)
+UK01_UNITED_KINGDOM
+Added: Spotlight TV, TJC
 
-LV01_LATVIA
-Removed: LTV1 (GEO-Blocked)
-Some changes, streams, logos
+YZ001_MUSIC - Thanks to Zhoro-111 :-)
+Added: City TV (BG), LEEEKO TV (FR), MUSIC + (HU)
 
 :-)
