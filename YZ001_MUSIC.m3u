@@ -49,6 +49,8 @@ https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 tvg-name="Chill AF (US)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",Chill AF (US)
 https://10999-1.b.cdn13.com/streams/masters-v3/djset/654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="City TV (BG)" tvg-logo="https://i.imgur.com/BjRTbrU.png" group-title="MUSIC",City TV (BG)
+https://tv.city.bg/play/tshls/citytv/1.m3u8
 #EXTINF:-1 tvg-name="CMC (US)" tvg-id="CMC 2" group-title="MUSIC" tvg-logo="https://i.imgur.com/aDReLcK.png",CMC 2 (US)
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 tvg-name="Conecta TV HD (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/9TGQZzk.png",Conecta TV HD (BR)
@@ -111,6 +113,8 @@ https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57
 https://5b38ce71f1f00.streamlock.net/8196/8196/.m3u8
 #EXTINF:-1 tvg-name="Latinos UP (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/RoT3z9H.jpg",Latinos UP (BR)
 https://5b38ce71f1f00.streamlock.net/8082/8082/playlist.m3u8
+#EXTINF:-1 tvg-name="LEEEKO TV (FR)" tvg-id="" tvg-logo="https://i.imgur.com/3qPONzi.jpg" group-title="MUSIC",LEEEKO TV (FR)
+http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LFM (CH)" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="MUSIC",LFM (CH)
 https://edge7.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1230106190_b3000000.m3u8?spark=625bf5d7-210c-49c0-96af-3663c8de1d1d&token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PsrGxob.png" group-title="MUSIC",Like Yesterday (US)
@@ -151,6 +155,8 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/master.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-name="MTV Norway (NO) (Free from akamaihd.net!)" tvg-id="MTV Norway" group-title="MUSIC" tvg-logo="https://i.imgur.com/peq4OaE.png",MTV Norway (NO) (Free from akamaihd.net!)
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC + (HU)" tvg-logo="https://i.imgur.com/yKJmkNk.png" group-title="MUSIC",MUSIC + (HU)
+http://s02.diazol.hu:10192/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Muzzik AMVA 2020 Serbia (RS)" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIC",Muzzik AMVA 2020 Serbia (RS)
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Muzzik Cafe&Club Serbia (RS)" tvg-id="" group-title="MUSIC" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik Cafe&Club Serbia (RS)
