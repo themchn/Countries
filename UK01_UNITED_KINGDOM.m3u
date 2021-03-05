@@ -183,10 +183,12 @@ https://sparktv-samsunguk.amagi.tv/playlist.m3u8
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Spotlight" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="UK",Spotlight
 https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Sports Tonight" tvg-id="FreeSports.uk" group-title="UK" tvg-logo="https://i.imgur.com/Nh4LyPv.png",Sports Tonight
-http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight TV" tvg-logo="https://i.imgur.com/uTFF0F5.png" group-title="UK",Spotlight TV
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
 #EXTINF:-1 tvg-name="Spotlight TV" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/FIuR49I.png",Spotlight TV
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:-1 tvg-name="Sports Tonight" tvg-id="FreeSports.uk" group-title="UK" tvg-logo="https://i.imgur.com/Nh4LyPv.png",Sports Tonight
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sterling Drama" tvg-logo="https://i.imgur.com/PyQvqlw.jpg" group-title="UK",Sterling Drama
 https://endemol-sterlingdrama-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Karaoke" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="UK",Stingray Karaoke
@@ -207,6 +209,8 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Time Line" tvg-logo="https://i.imgur.com/AzZhwWR.jpg" group-title="UK",Time Line
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TJC" tvg-logo="https://i.imgur.com/cFlNhjV.png" group-title="UK",TJC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Toongoggles" tvg-logo="https://i.imgur.com/8PEf3Vn.jpg" group-title="UK",Toongoggles
 https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="UK",Travel XP
