@@ -3428,67 +3428,75 @@ https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunkl
 https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jca1GLL.png" group-title="BRAZIL",YEEAAH TV
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:-1 tvg-name="****************** PLUTO BR ***********" group-title="BRAZIL PLUTO" tvg-logo="https://i.imgur.com/4IRPTyM.png",***************** PLUTO BR ***********
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-name="****************** PLUTO BR ***********" tvg-logo="https://i.imgur.com/4IRPTyM.png" ,***************** PLUTO BR ***********
 https://
-#EXTINF:-1 tvg-name="A vida moderna de Rocko" tvg-id="5f6df6293a12e10007017396" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png",A vida moderna de Rocko
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f6df6293a12e10007017396" tvg-name="A vida moderna de Rocko" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" ,A vida moderna de Rocko
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="As  Pistas de Blue" tvg-id="5f99aad4e82db50007fac4b2" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png",As  Pistas de Blue
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f99aad4e82db50007fac4b2" tvg-name="As  Pistas de Blue" tvg-logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png" ,As  Pistas de Blue
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="FailArmy" tvg-id="5f5141c1605ddf000748eb1b" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png",FailArmy
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f4fb4cf605ddf000748e16f" tvg-name="Babyfirst" tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" ,Babyfirst
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f5141c1605ddf000748eb1b" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" ,FailArmy
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Filmes Suspense" tvg-id="5f171d3442a0500007362f22" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png",Filmes Suspense
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f171d3442a0500007362f22" tvg-name="Filmes Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" ,Filmes Suspense
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="MTV Are you the One?" tvg-id="5f6108d8cc331900075e98e4" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png",MTV Are you the One?
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f6108d8cc331900075e98e4" tvg-name="MTV Are you the One?" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" ,MTV Are you the One?
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="MTV Pluto TV" tvg-id="5f1212fb81e85c00077ae9ef" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png",MTV Pluto TV
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f1212fb81e85c00077ae9ef" tvg-name="MTV Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" ,MTV Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Naruto" tvg-id="5f6df5a173d7340007c559f7" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png",Naruto
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f6df5a173d7340007c559f7" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" ,Naruto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Nick Clássico" tvg-id="5f12151794c1800007a8ae63" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png",Nick Clássico
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f12151794c1800007a8ae63" tvg-name="Nick Clássico" tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" ,Nick Clássico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Nick Jr. Club" tvg-id="5f121460b73ac6000719fbaf" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png",Nick Jr. Club
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f121460b73ac6000719fbaf" tvg-name="Nick Jr. Club" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" ,Nick Jr. Club
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Os Três Patetas" tvg-id="5f1eed3c29b39600073e2ec0" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png",Os Três Patetas
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f5c216df68f920007888315" tvg-name="O Reino Infantil" tvg-logo="https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" ,O Reino Infantil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f1eed3c29b39600073e2ec0" tvg-name="Os Três Patetas" tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png" ,Os Três Patetas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="People are Awesome" tvg-id="5f515d080e738d000739e19c" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f515d080e738d000739e19c/colorLogoPNG.png",People are Awesome
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="60072798dcf437000755b4f3" tvg-name="Paramount+ Apresenta" tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" ,Paramount+ Apresenta
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f515d080e738d000739e19c" tvg-name="People are Awesome" tvg-logo="https://images.pluto.tv/channels/5f515d080e738d000739e19c/colorLogoPNG.png" ,People are Awesome
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-id="5f12136385bccc00070142ed" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png",Pluto TV Anime
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f12136385bccc00070142ed" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" ,Pluto TV Anime
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Cine Comédia" tvg-id="5f12101f0b12f00007844c7c" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png",Pluto TV Cine Comédia
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f12101f0b12f00007844c7c" tvg-name="Pluto TV Cine Comédia" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" ,Pluto TV Cine Comédia
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Cine Drama" tvg-id="5f1210d14ae1f80007bafb1d" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png",Pluto TV Cine Drama
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f1210d14ae1f80007bafb1d" tvg-name="Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" ,Pluto TV Cine Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Cine Família" tvg-id="5f171f032cd22e0007f17f3d" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png",Pluto TV Cine Família
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f171f032cd22e0007f17f3d" tvg-name="Pluto TV Cine Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" ,Pluto TV Cine Família
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Cine Sucessos" tvg-id="5f120e94a5714d00074576a1" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png",Pluto TV Cine Sucessos
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f120e94a5714d00074576a1" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" ,Pluto TV Cine Sucessos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Cine Terror" tvg-id="5f12111c9e6c2c00078ef3bb" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png",Pluto TV Cine Terror
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f12111c9e6c2c00078ef3bb" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" ,Pluto TV Cine Terror
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Fashionbox" tvg-id="5f516730b78b7600079294f5" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png",Pluto TV Fashionbox
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f516730b78b7600079294f5" tvg-name="Pluto TV Fashionbox" tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png" ,Pluto TV Fashionbox
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Filmes Ação" tvg-id="5f120f41b7d403000783a6d6" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png",Pluto TV Filmes Ação
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f120f41b7d403000783a6d6" tvg-name="Pluto TV Filmes Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" ,Pluto TV Filmes Ação
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Investigação" tvg-id="5f32cf37c9ff2b00082adbc8" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png",Pluto TV Investigação
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f5a545d0dbf7f0007c09408" tvg-name="Pluto TV Filmes Nacionais" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" ,Pluto TV Filmes Nacionais
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f32cf37c9ff2b00082adbc8" tvg-name="Pluto TV Investigação" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" ,Pluto TV Investigação
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Junior" tvg-id="5f12141b146d760007934ea7" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png",Pluto TV Junior
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f12141b146d760007934ea7" tvg-name="Pluto TV Junior" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" ,Pluto TV Junior
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Kids" tvg-id="5f1214a637c6fd00079c652f" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",Pluto TV Kids
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f1214a637c6fd00079c652f" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" ,Pluto TV Kids
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Natureza" tvg-id="5f1213ba0ecebc00070e170f" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png",Pluto TV Natureza
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f1213ba0ecebc00070e170f" tvg-name="Pluto TV Natureza" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" ,Pluto TV Natureza
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Retrô" tvg-id="5f1212ad1728050007a523b8" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png",Pluto TV Retrô
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f1212ad1728050007a523b8" tvg-name="Pluto TV Retrô" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" ,Pluto TV Retrô
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Séries" tvg-id="5f121262a189a800076b9386" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png",Pluto TV Séries
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f121262a189a800076b9386" tvg-name="Pluto TV Séries" tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" ,Pluto TV Séries
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Pluto TV Vida Real" tvg-id="5f32d4d9ec194100070c7449" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png",Pluto TV Vida Real
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f32d4d9ec194100070c7449" tvg-name="Pluto TV Vida Real" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" ,Pluto TV Vida Real
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Porta dos Fundos" tvg-id="5f36f2346ede750007332d11" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png",Porta dos Fundos
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f36f2346ede750007332d11" tvg-name="Porta dos Fundos" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" ,Porta dos Fundos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Tastemade" tvg-id="5fd1419a3b4f4b000773ba85" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png",Tastemade
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5fd1419a3b4f4b000773ba85" tvg-name="Tastemade" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" ,Tastemade
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="The Pet Collective" tvg-id="5f515ebac01c0f00080e8439" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png",The Pet Collective
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f515ebac01c0f00080e8439" tvg-name="The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" ,The Pet Collective
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Turma da Mônica" tvg-id="5f997e44949bc70007a6941e" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png",Turma da Mônica
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f997e44949bc70007a6941e" tvg-name="Turma da Mônica" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" ,Turma da Mônica
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="************** MEXICO *********" group-title="MEXICO" tvg-logo="https://i.imgur.com/O8x5LLR.jpg",************** MEXICO *********
 https://
@@ -4422,10 +4430,12 @@ https://sparktv-samsunguk.amagi.tv/playlist.m3u8
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Spotlight" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="UK",Spotlight
 https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Sports Tonight" tvg-id="FreeSports.uk" group-title="UK" tvg-logo="https://i.imgur.com/Nh4LyPv.png",Sports Tonight
-http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight TV" tvg-logo="https://i.imgur.com/uTFF0F5.png" group-title="UK",Spotlight TV
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
 #EXTINF:-1 tvg-name="Spotlight TV" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/FIuR49I.png",Spotlight TV
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:-1 tvg-name="Sports Tonight" tvg-id="FreeSports.uk" group-title="UK" tvg-logo="https://i.imgur.com/Nh4LyPv.png",Sports Tonight
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sterling Drama" tvg-logo="https://i.imgur.com/PyQvqlw.jpg" group-title="UK",Sterling Drama
 https://endemol-sterlingdrama-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Karaoke" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="UK",Stingray Karaoke
@@ -4446,6 +4456,8 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Time Line" tvg-logo="https://i.imgur.com/AzZhwWR.jpg" group-title="UK",Time Line
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TJC" tvg-logo="https://i.imgur.com/cFlNhjV.png" group-title="UK",TJC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Toongoggles" tvg-logo="https://i.imgur.com/8PEf3Vn.jpg" group-title="UK",Toongoggles
 https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="UK",Travel XP
@@ -4974,6 +4986,8 @@ https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval2/index.m3u8
 https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ETV 2" tvg-logo="https://i.imgur.com/wY6Pz37.png" group-title="ESTONIA",ETV 2
 https://errstreams4.cdn.eurovisioncdn.net/live/etv2-kval2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Life TV" tvg-logo="https://i.imgur.com/RBUmENQ.png" group-title="ESTONIA",Life TV
+https://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Riigikogu" tvg-logo="https://i.imgur.com/xuySaSN.png" group-title="ESTONIA",Riigikogu
 https://riigikogu.babahhcdn.com/bb1027/smil:riigikogu_ch1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Taevas TV 7 " tvg-logo="https://i.imgur.com/FaQQdzz.png" group-title="ESTONIA",Taevas TV 7
@@ -5688,6 +5702,46 @@ https://waw2.artiyerelmedya.net/kanalv/bant1/chunks.m3u8
 https://waw1.artiyerelmedya.net/yesilyurttv/bant1/chunks.m3u8?hash=2ed1974639ec674a33ed440298136dcd
 #EXTINF:-1 tvg-name="YOL TV" tvg-id="" tvg-logo="https://i.imgur.com/ZhU6FcH.png" group-title="TURKEY",YOL TV
 https://stream.yol.tv:9443/medialive/yol.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
+#EXTINF:-1 tvg-name=vg-name="***************** IRAN ***********" group-title="IRAN" tvg-logo="https://i.imgur.com/6Fb1ysK.jpg",***************** IRAN ***********
+http://
+#EXTINF:-1 tvg-id="" tvg-name="4 KURD" tvg-logo="https://i.imgur.com/MPVcUbP.png" group-title="IRAN",4 KURD
+http://51.210.199.28/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4 TURK BILLBOARD" tvg-logo="https://i.imgur.com/ZGSSnbX.png" group-title="IRAN",4 TURK BILLBOARD
+http://51.210.199.29/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4 TURK MUSIC" tvg-logo="https://i.imgur.com/hHv1tSI.png" group-title="IRAN",4 TURK MUSIC
+http://51.210.199.30/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA + HD" tvg-logo="https://i.imgur.com/QaMnpKx.jpg" group-title="IRAN",PERSIANA + HD
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA BILLBOARD" tvg-logo="https://i.imgur.com/ytII1cO.png" group-title="IRAN",PERSIANA BILLBOARD
+http://51.210.199.10/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA CINEMA" tvg-logo="https://i.imgur.com/PNgDL7b.png" group-title="IRAN",PERSIANA CINEMA
+http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA CLASSIC" tvg-logo="https://i.imgur.com/2r7qMfh.png" group-title="IRAN",PERSIANA CLASSIC
+http://51.210.199.26/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA COMEDY" tvg-logo="https://i.imgur.com/byxZkMi.png" group-title="IRAN",PERSIANA COMEDY
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA DOCUMENTARY" tvg-logo="https://i.imgur.com/uCPv1KT.png" group-title="IRAN",PERSIANA DOCUMENTARY
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA ENTERTAINMENT" tvg-logo="https://i.imgur.com/LeLkpDr.png" group-title="IRAN",PERSIANA ENTERTAINMENT
+http://51.210.199.14/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA FAMILY" tvg-logo="https://i.imgur.com/OG2nMRk.png" group-title="IRAN",PERSIANA FAMILY
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA FAMILY + " tvg-logo="https://i.imgur.com/1EFkWsZ.png" group-title="IRAN",PERSIANA FAMILY +
+http://51.210.199.13/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA GAME & TECH" tvg-logo="https://i.imgur.com/0y1p9G5.png" group-title="IRAN",PERSIANA GAME & TECH
+http://51.210.199.25/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA IRANIAN" tvg-logo="https://i.imgur.com/gIihZfT.png" group-title="IRAN",PERSIANA IRANIAN
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA JUNIOR" tvg-logo="https://i.imgur.com/LmbNidk.png" group-title="IRAN",PERSIANA JUNIOR
+http://51.210.199.18/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA MUSIC" tvg-logo="https://i.imgur.com/pMrAvY6.png" group-title="IRAN",PERSIANA MUSIC
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA NOSTALGIA" tvg-logo="https://i.imgur.com/lmqXkwa.png" group-title="IRAN",PERSIANA NOSTALGIA
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POKER TV" tvg-logo="https://i.imgur.com/l5fZQ3V.png" group-title="IRAN",POKER TV
+http://51.210.199.17/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VARZESH TV FARSI" tvg-logo="https://i.imgur.com/ADQM8Pk.png" group-title="IRAN",VARZESH TV FARSI
+http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1 tvg-name="*********** AFGHANISTAN PASHTO ********" group-title="AFGHANISTAN" tvg-logo="https://i.imgur.com/f7pAUiw.png",*********** AFGHANISTAN PASHTO ********
 https://
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Andisheh
@@ -5902,6 +5956,8 @@ https://biptv.tv/live/biptvstream_orig/index.m3u8
 https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Caillou" tvg-logo="https://i.imgur.com/4zJqmw6.png" group-title="FRANCE",Caillou
 https://dhx-caillou-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN France" tvg-logo="https://i.imgur.com/yXc4j9J.png" group-title="FRANCE",CGTN France
+http://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Classical Harmony" tvg-logo="https://i.imgur.com/JQaZblm.jpg" group-title="FRANCE",Classical Harmony
 https://alchimie-classical-harmony-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="FRANCE",Comedy Movies
@@ -5944,6 +6000,8 @@ https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LCI" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="FRANCE",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-name="LEEEKO TV" tvg-id="" tvg-logo="https://i.imgur.com/3qPONzi.jpg" group-title="FRANCE",LEEEKO TV
+http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Luxe TV" tvg-logo="https://i.imgur.com/8tWhfap.png" group-title="FRANCE",Luxe TV
 https://alchimie-luxe-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MDL" tvg-logo="https://i.imgur.com/QjjVd1M.jpg" group-title="FRANCE",MDL
@@ -7042,6 +7100,8 @@ https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 tvg-name="Chill AF (US)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",Chill AF (US)
 https://10999-1.b.cdn13.com/streams/masters-v3/djset/654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="City TV (BG)" tvg-logo="https://i.imgur.com/BjRTbrU.png" group-title="MUSIC",City TV (BG)
+https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1 tvg-name="CMC (US)" tvg-id="CMC 2" group-title="MUSIC" tvg-logo="https://i.imgur.com/aDReLcK.png",CMC 2 (US)
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 tvg-name="Conecta TV HD (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/9TGQZzk.png",Conecta TV HD (BR)
@@ -7104,6 +7164,8 @@ https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57
 https://5b38ce71f1f00.streamlock.net/8196/8196/.m3u8
 #EXTINF:-1 tvg-name="Latinos UP (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/RoT3z9H.jpg",Latinos UP (BR)
 https://5b38ce71f1f00.streamlock.net/8082/8082/playlist.m3u8
+#EXTINF:-1 tvg-name="LEEEKO TV (FR)" tvg-id="" tvg-logo="https://i.imgur.com/3qPONzi.jpg" group-title="MUSIC",LEEEKO TV (FR)
+http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LFM (CH)" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="MUSIC",LFM (CH)
 https://edge7.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1230106190_b3000000.m3u8?spark=625bf5d7-210c-49c0-96af-3663c8de1d1d&token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PsrGxob.png" group-title="MUSIC",Like Yesterday (US)
@@ -7144,6 +7206,8 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/master.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-name="MTV Norway (NO) (Free from akamaihd.net!)" tvg-id="MTV Norway" group-title="MUSIC" tvg-logo="https://i.imgur.com/peq4OaE.png",MTV Norway (NO) (Free from akamaihd.net!)
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC + (HU)" tvg-logo="https://i.imgur.com/yKJmkNk.png" group-title="MUSIC",MUSIC + (HU)
+http://s02.diazol.hu:10192/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Muzzik AMVA 2020 Serbia (RS)" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIC",Muzzik AMVA 2020 Serbia (RS)
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Muzzik Cafe&Club Serbia (RS)" tvg-id="" group-title="MUSIC" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik Cafe&Club Serbia (RS)
