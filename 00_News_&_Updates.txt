@@ -6,18 +6,21 @@ Some really bad guys have been really pissing me off lately so my repo wasn't av
 
 If you like my M3U's, I am very happy about a small donation, you can find it in the readme below in my repository
 
-Friday, 5 March 21_
+Saturday,  6 March 21
 
-EE01_ESTONIA
-Added: Life TV
+NEW! IR01_IRAN - Thanks to Zhoro-111. :-)
 
-FR01_FRANCE
-Added: CGTN France, LEEEKO TV
+He has create this new m3u with 19 new streams. The streams come from Persiana Group TV, which also includes other subsidiaries such as 4Group TV.
 
-UK01_UNITED_KINGDOM
-Added: Spotlight TV, TJC
+The streams are in Persian, Turkish and Kurdish. The streams are freely available on various websites of the media group. A big thank you to Zhoro-111 for this great job. 
 
-YZ001_MUSIC - Thanks to Zhoro-111 :-)
-Added: City TV (BG), LEEEKO TV (FR), MUSIC + (HU)
+BR02_BRAZIL_Pluto - Thanks to joseanderson1995silva :-)
+Added: Filmes Nacionais, Baby First, O reino infantil
 
-:-)
+Since we've just published something NEW here that doesn't exist anywhere else, we're keeping a special eye on a very specific guy there:
+
+https://www.vuplus-support.org/wbb4/index.php?board/46-settings/&s=d210fbd3343b7e35e84fd8ea52ac0ccf7d00ebc8
+
+It is not allowed to copy our m3u's and post it new elsewhere, it is clear in the readme. They are ONLY intended for private use!
+
+Happy Weekend 4 all. :-)
