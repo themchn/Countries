@@ -47,6 +47,8 @@ http://176.9.123.140:1935/messinia/messinia/master.m3u8
 http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nea TV" tvg-logo="https://i.imgur.com/MCElZyr.jpg" group-title="GREECE",Nea TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETMAX TV" tvg-logo="https://i.imgur.com/NltCTD1.png" group-title="GREECE",NETMAX TV
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NG RADIO" tvg-logo="http://i.imgur.com/pK2p5ey.png" group-title="GREECE",NG RADIO
 http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Play TV" tvg-logo="http://i.imgur.com/100uuWA.png" group-title="GREECE",Play TV
