@@ -1,26 +1,24 @@
 Free-IPTV - Only legal streams are the way to go :-)
 
-To make it easier for you, you will find the daily updates and information about my project here from today- :-)
+To make it easier for you, you will find the daily updates and information about my project here
+from today- :-)
 
-Some really bad guys have been really pissing me off lately so my repo wasn't available, sorry for that. I will of course continue!
+If you like my M3U's, I am very happy about a small donation, you can find it in the readme below
+in my repository.
 
-If you like my M3U's, I am very happy about a small donation, you can find it in the readme below in my repository
+Sunday, 7. March 21
 
-Saturday,  6 March 21
+IR01_IRAN
+Added: AVA Series, AVA Family, Barya TV, Helal TV, Iran Beauty (Webradio), Irane Farda, 
+Iranintl.Radio (Webradio), Iran International, Maah TV, OXIR TV, Radio Yar (Webradio),
+Radio Javan, Sharo, VOX1 TVG, VOX2 TVG
 
-NEW! IR01_IRAN - Thanks to Zhoro-111. :-)
+Two channels of MTV make problems, i has make changes to test it!
 
-He has create this new m3u with 19 new streams. The streams come from Persiana Group TV, which also includes other subsidiaries such as 4Group TV.
+YZ001_MUSIC
+Added: Radio Javan (IR), PERSIANA BILLBOARD (IR), PERSIANA MUSIC (IR)
+Parameter removed: MTV Germany (DE)
+Change to https: MTV Norway (NO)
 
-The streams are in Persian, Turkish and Kurdish. The streams are freely available on various websites of the media group. A big thank you to Zhoro-111 for this great job. 
+:-)
 
-BR02_BRAZIL_Pluto - Thanks to joseanderson1995silva :-)
-Added: Filmes Nacionais, Baby First, O reino infantil
-
-Since we've just published something NEW here that doesn't exist anywhere else, we're keeping a special eye on a very specific guy there:
-
-https://www.vuplus-support.org/wbb4/index.php?board/46-settings/&s=d210fbd3343b7e35e84fd8ea52ac0ccf7d00ebc8
-
-It is not allowed to copy our m3u's and post it new elsewhere, it is clear in the readme. They are ONLY intended for private use!
-
-Happy Weekend 4 all. :-)
