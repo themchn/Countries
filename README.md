@@ -21,7 +21,7 @@ https://www.matthuisman.nz/2019/02/iptv-merge-kodi-add-on.html
 
 Without Kodi you can use the lists in the VLC-Media Player. :-)
 
-You can also use the ZZ_PLAYLIST_ALL_TV.m3u, there you have all TV stations in one list (.m3u).
+You can also use the `ZZ_PLAYLIST_ALL_TV.m3u`, there you have all TV stations in one list (.m3u).
 
 The correct link to use the Playlist-ALL in the VLC-Player or with the IPTV Simple Client in Kodi is:
 
@@ -35,7 +35,7 @@ Important! Some streams (very few) only work in Kodi with the Youtube add-on ;-)
 
 Should a channel stop working, just leave a message. You can do this with the Menu "Issues". :-)
 
-My ZZ_PLAYLIST_ALL_TV is also used in the pre-configuration of the new Hypnotix app. This app comes from the Linux Mint team. :-)
+My `ZZ_PLAYLIST_ALL_TV.m3u` is also used in the pre-configuration of the new Hypnotix app. This app comes from the Linux Mint team. :-)
 
 https://itsfoss.com/hypnotix-iptv-app/
 
@@ -49,7 +49,7 @@ If you add streams to in your current fork and make a pull request, please note 
 2. Add the same Group-Name, it is the Country
 3. Do not add any GEO-Blocked streams, the streams in my M3U's can be seen by anyone, anywhere.
 4. Don't add illegal streams. But there are idiots who already do it and then give the name Kodi a bad reputation with the ignorant.
-5. Don´t add parameters, use only #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", an no more!
+5. Don´t add parameters, use only #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", and no more!
 
 I'm always grateful for any help, it's a lot of work. If everything fits, your pull request will also be accepted. :-)
 
