@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="************* JAPAN **********" tvg-logo="https://i.imgur.com/RCEdG3K.png" group-title="JAPAN",********** JAPAN **********
+#EXTINF:-1 tvg-name="*** JAPAN - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/RCEdG3K.png" group-title="JAPAN",*** JAPAN - github.com/Free-IPTV
 plugin://
 #EXTINF:-1 tvg-id="" tvg-name="ANN News" tvg-logo="https://i.imgur.com/WXjmhdZ.jpg" group-title="JAPAN",ANN News
 plugin://plugin.video.youtube/play/?video_id=coYw-eVU0Ks
@@ -17,7 +17,7 @@ https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playli
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK Chinese Vision" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="JAPAN",NHK Chinese Vision
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://i.imgur.com/db41qjL.jpg" group-title="JAPAN",NHK World
+#EXTINF:-1 tvg-id="" tvg-name="NHK World - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/db41qjL.jpg" group-title="JAPAN",NHK World - github.com/Free-IPTV
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV News24" tvg-logo="https://i.imgur.com/qjVpiub.jpg" group-title="JAPAN",NTV News24
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8

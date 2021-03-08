@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*************** ITALY ************" group-title="ITALY" tvg-logo="https://i.imgur.com/PzFJG5f.png",*************** ITALY ************
+#EXTINF:-1 tvg-name="*** ITALY - github.com/Free-IPTV" group-title="ITALY" tvg-logo="https://i.imgur.com/PzFJG5f.png",*** ITALY - github.com/Free-IPTV
 https://
 #EXTINF:-1 tvg-id="" tvg-name="20 Mediaset" tvg-logo="https://i.imgur.com/8SoOefS.png" group-title="ITALY",20 Mediaset
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
@@ -43,7 +43,7 @@ https://rakuten-family-6-it.samsung.wurl.com/manifest/playlist.m3u8
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://i.imgur.com/RuuGNzX.png" group-title="ITALY",Food Network
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Giallo" tvg-logo="https://i.imgur.com/Zs8LcoY.png" group-title="ITALY",Giallo
+#EXTINF:-1 tvg-id="" tvg-name="Giallo - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/Zs8LcoY.png" group-title="ITALY",Giallo - github.com/Free-IPTV
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Giallo" tvg-logo="" group-title="ITALY",HGTV Italia
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
@@ -89,7 +89,7 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 http://radio24-lh.akamaihd.net/i/radio24video_1@379914/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Capital TV" tvg-logo="https://i.imgur.com/0bv1gID.png" group-title="ITALY",Radio Capital TV
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO FRECCIA" tvg-logo="https://i.imgur.com/O8ByUjT.png" group-title="ITALY",RADIO FRECCIA
+#EXTINF:-1 tvg-id="" tvg-name="RADIO FRECCIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/O8ByUjT.png" group-title="ITALY",RADIO FRECCIA - github.com/Free-IPTV
 https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist_1.m3u8
 #EXTINF:-1 tvg-name="Radio Italia TV" tvg-id="" tvg-logo="https://i.imgur.com/7eWrVUH.jpg" group-title="ITALY",Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
@@ -133,7 +133,7 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Teletubbies" tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="ITALY",Teletubbies
 https://dhx-teletubbies-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TGCOM24" tvg-logo="https://i.imgur.com/kDDYZ7Q.png" group-title="ITALY",TGCOM24
+#EXTINF:-1 tvg-id="" tvg-name="TGCOM24 - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/kDDYZ7Q.png" group-title="ITALY",TGCOM24 - github.com/Free-IPTV
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
 #EXTINF:-1 tvg-name="Top Crime" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/MLCYwWD.png",Top Crime
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8

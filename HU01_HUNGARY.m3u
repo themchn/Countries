@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="****************** HUNGARY **********" tvg-logo="https://i.imgur.com/l7pTHPu.png" group-title="HUNGARY",****************** HUNGARY **********
+#EXTINF:-1 tvg-name="*** HUNGARY - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/l7pTHPu.png" group-title="HUNGARY",*** HUNGARY - github.com/Free-IPTV
 http://
 #EXTINF:-1 tvg-id="" tvg-name="1Music Hungary" tvg-logo="https://i.imgur.com/6CNlnpY.jpg" group-title="HUNGARY",1Music Hungary
 http://1music.hu/1music.m3u8
@@ -17,7 +17,7 @@ https://c401-node62-cdn.connectmedia.hu/1102/924075b7acff53873b53a3935f053206/60
 https://c401-node61-cdn.connectmedia.hu/1103/cbd47a8f4abdd2bf92a54344344dfcf8/60388aa2/index.m3u8?v=5i
 #EXTINF:-1 tvg-id="" tvg-name="H!T Music HU" tvg-logo="https://i.imgur.com/rw2C3DY.jpg" group-title="HUNGARY",H!T Music HU
 http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Halom TV" tvg-logo="https://i.imgur.com/F2bSjDY.png" group-title="HUNGARY",Halom TV
+#EXTINF:-1 tvg-id="" tvg-name="Halom TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/F2bSjDY.png" group-title="HUNGARY",Halom TV - github.com/Free-IPTV
 http://stream.battanet.hu:8080/hls/livestream1/1_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hatoscsatorna" tvg-logo="https://i.imgur.com/vraAfd7.png" group-title="HUNGARY",Hatoscsatorna
 rtmp://lpmedia.hu:1935/Hatoscsatorna/livestream
@@ -35,7 +35,7 @@ https://c201-node62-cdn.connectmedia.hu/1105/14684cc0a69055f31083b7e129699c7a/60
 http://s02.diazol.hu:10192/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ozdi Varosi TV" tvg-logo="https://i.imgur.com/5cOpdRp.jpg" group-title="HUNGARY",Ozdi Varosi TV
 https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pannon RTV" tvg-logo="https://i.imgur.com/iD5tCjX.png" group-title="HUNGARY",Pannon RTV
+#EXTINF:-1 tvg-id="" tvg-name="Pannon RTV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/iD5tCjX.png" group-title="HUNGARY",Pannon RTV - github.com/Free-IPTV
 https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV7 Bekescsaba" tvg-logo="https://i.imgur.com/G9Ib5K3.png" group-title="HUNGARY",TV7 Bekescsaba
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8

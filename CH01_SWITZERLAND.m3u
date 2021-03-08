@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="************** SWITZERLAND **********" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/eqVr8td.jpg",*************** SWITZERLAND **********
+#EXTINF:-1 tvg-name="*** SWITZERLAND - github.com/Free-IPTV" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/eqVr8td.jpg",*** SWITZERLAND - github.com/Free-IPTV
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index-s32.m3u8
 #EXTINF:-1 tvg-name="Canal 9" tvg-id="Kanal9.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/nQVDOVb.png",Canal 9
 https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
@@ -35,7 +35,7 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSS
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="SWITZERLAND",Radio Pilatus (Webradio)
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Rouge TV" tvg-id="RougeTV.ch" tvg-logo="https://i.imgur.com/PzF6q9I.png" group-title="SWITZERLAND",Rouge TV
+#EXTINF:-1 tvg-name="Rouge TV - github.com/Free-IPTV" tvg-id="RougeTV.ch" tvg-logo="https://i.imgur.com/PzF6q9I.png" group-title="SWITZERLAND",Rouge TV - github.com/Free-IPTV
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTS Couleur 3 (Webradio)" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="SWITZERLAND",RTS Couleur 3 (Webradio)
 https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8

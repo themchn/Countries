@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="************** USA PLEX *********" group-title="USA PLEX" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",************** USA PLEX *********
+#EXTINF:-1 tvg-name="*** USA PLEX - github.com/Free-IPTV" group-title="USA PLEX" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA PLEX - github.com/Free-IPTV
 https://
 #EXTINF:-1 tvg-ID="PLEX.TV.24.Hour.Free.Movies" tvg-name="24 Hour Free Movies" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="USA PLEX",24 Hour Free Movies
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d?X-Plex-Token=MorUy57ijWhGe4ixZb_T
@@ -47,7 +47,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea60547408
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d45252710041e0ccb9?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.Electric.Now" tvg-name="Electric Now" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/electric-now.png" group-title="USA PLEX",Electric Now
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170d61b898490041b49360?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1 tvg-ID="PLEX.TV.FailArmy" tvg-name="FailArmy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/failarmy_linear_.png" group-title="USA PLEX",FailArmy
+#EXTINF:-1 tvg-ID="PLEX.TV.FailArmy" tvg-name="FailArmy - github.com/Free-IPTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/failarmy_linear_.png" group-title="USA PLEX",FailArmy - github.com/Free-IPTV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc791?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.Filmstream" tvg-name="Filmstream" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/spi_filmstream_1.png" group-title="USA PLEX",Filmstream
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e162fe160040f26bdb?X-Plex-Token=MorUy57ijWhGe4ixZb_T
@@ -121,7 +121,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf81ffbe
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff263d71dcb00449ec01e?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.pocket.watch" tvg-name="pocket.watch" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/pocketwatch-logo.png" group-title="USA PLEX",pocket.watch
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1 tvg-ID="PLEX.TV.PopStar!.TV" tvg-name="PopStar! TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/popstar-tv.png" group-title="USA PLEX",PopStar! TV
+#EXTINF:-1 tvg-ID="PLEX.TV.PopStar!.TV" tvg-name="PopStar! TV - github.com/Free-IPTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/popstar-tv.png" group-title="USA PLEX",PopStar! TV - github.com/Free-IPTV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d6?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.Real.Families" tvg-name="Real Families" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/realfamilies_logo_dark.png" group-title="USA PLEX",Real Families
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd9089d102006002d33c0fc?X-Plex-Token=MorUy57ijWhGe4ixZb_T
@@ -183,7 +183,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0641d3e8ff
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a3?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.The.Pet.Collective" tvg-name="The Pet Collective" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/the_pet_collective_samsung_.png" group-title="USA PLEX",The Pet Collective
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc78e?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1 tvg-ID="PLEX.TV.Timeline" tvg-name="Timeline" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/timeline-logo.png" group-title="USA PLEX",Timeline
+#EXTINF:-1 tvg-ID="PLEX.TV.Timeline" tvg-name="Timeline - github.com/Free-IPTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/timeline-logo.png" group-title="USA PLEX",Timeline - github.com/Free-IPTV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.Toon.Goggles" tvg-name="Toon Goggles" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-toon-goggles-us.png" group-title="USA PLEX",Toon Goggles
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170d60b898490041b49359?X-Plex-Token=MorUy57ijWhGe4ixZb_T

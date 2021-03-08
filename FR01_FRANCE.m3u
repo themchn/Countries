@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="************ FRANCE *********" group-title="FRANCE" tvg-logo="https://i.imgur.com/OPau00Q.png",************ FRANCE *********
+#EXTINF:-1 tvg-id="" tvg-name="*** FRANCE - github.com/Free-IPTV" group-title="FRANCE" tvg-logo="https://i.imgur.com/OPau00Q.png",*** FRANCE - github.com/Free-IPTV
 https://
 #EXTINF:-1 tvg-id="" tvg-name="A2i TV" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="FRANCE",A2i TV
 https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
@@ -49,7 +49,7 @@ https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DBM" tvg-logo="https://i.imgur.com/KOlCUJ9.jpg" group-title="FRANCE",DBM
 https://edge6.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dieu TV" tvg-logo="https://i.imgur.com/CCvzqLJ.png" group-title="FRANCE",Dieu TV
+#EXTINF:-1 tvg-id="" tvg-name="Dieu TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/CCvzqLJ.png" group-title="FRANCE",Dieu TV - github.com/Free-IPTV
 https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Drama Movies" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="FRANCE",Drama Movies
 https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
@@ -115,7 +115,7 @@ https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
 https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Qwest TV MIX" tvg-logo="https://i.imgur.com/R8TT3Ld.png" group-title="FRANCE",Qwest TV MIX
 https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Contact" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="FRANCE",Radio Contact
+#EXTINF:-1 tvg-id="" tvg-name="Radio Contact - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="FRANCE",Radio Contact - github.com/Free-IPTV
 https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RMC" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="FRANCE",RMC
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
