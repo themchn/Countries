@@ -3,7 +3,7 @@
 https://
 #EXTINF:-1 tvg-name="Alex Berlin" tvg-id="" group-title="GERMANY LOCAL" tvg-logo="https://i.imgur.com/eTmHk4e.png",Alex Berlin
 https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="allgäu.tv Kempen" tvg-id="allgäu.tv" group-title="GERMANY LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png",allg�u.tv Kempen
+#EXTINF:-1 tvg-name="allgäu.tv Kempen" tvg-id="allgäu.tv" group-title="GERMANY LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png",allgäu.tv Kempen
 https://stream01.stream.welocal.world/stream/alg/ngrp:alg.stream_all/chunklist_w1838873546_b446000.m3u8
 #EXTINF:-1 tvg-name="Arcadia TV" tvg-id="Arcadia TV" tvg-logo="https://i.imgur.com/UR4E82q.jpg" group-title="GERMANY LOCAL",Arcadia TV
 plugin://plugin.video.youtube/play/?video_id=WVoUozYtdgI
