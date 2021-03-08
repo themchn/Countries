@@ -3750,7 +3750,7 @@ https://waypointtv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="World Poker Tour" tvg-logo="https://i.imgur.com/ZqB9etQ.png" group-title="CANADA",World Poker Tour
 https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="*** GEM ONLINE - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/XO7BLqf.png" group-title="*** GEM ONLINE",GEM ONLINE - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="*** GEM ONLINE - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/XO7BLqf.png" group-title="GEM ONLINE",*** GEM ONLINE - github.com/Free-IPTV
 https://
 #EXTINF:-1 tvg-name="GEM 24B" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM 24B
 https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist.m3u8
@@ -3802,7 +3802,7 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist.m3u8
 #EXTINF:-1 tvg-name="GEM TV" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM TV
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
-#EXTINF:-1 tvg-name="*** BRAZIL - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/4IRPTyM.png" group-title="*** BRAZIL",BRAZIL - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="*** BRAZIL - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/4IRPTyM.png" group-title="BRAZIL",*** BRAZIL - github.com/Free-IPTV
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DXwyj7S.png" group-title="BRAZIL",98 Live
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
@@ -6382,6 +6382,28 @@ https://unirtmp.tulix.tv/tintv/tintv/playlist.m3u8
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",WATAN-E-MAA
 http://cdn24.live247stream.com/watanemaa/tv/playlist.m3u8
+#EXTINF:-1 tvg-name=vg-name="*** PAKISTAN - github.com/Free-IPTV" group-title="PAKISTAN" tvg-logo="https://i.imgur.com/mX0sUfc.png",*** PAKISTAN - github.com/Free-IPTV
+http://
+#EXTINF:-1 tvg-id="" tvg-name="92 News" tvg-logo="https://i.imgur.com/Ji563Ed.jpg" group-title="PAKISTAN",92 News
+https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARY News" tvg-logo="https://i.imgur.com/R4KtTbJ.jpg" group-title="PAKISTAN",ARY News
+https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Avt Khyber" tvg-logo="https://i.imgur.com/k3skdFb.jpg" group-title="PAKISTAN",Avt Khyber
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dunya News" tvg-logo="https://i.imgur.com/NtZKzM6.png" group-title="PAKISTAN",Dunya News
+https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kay2 TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/ORHUv4C.jpg" group-title="PAKISTAN",Kay2 TV - github.com/Free-IPTV
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Khyber Middle East" tvg-logo="https://i.imgur.com/Wzvdqu9.png" group-title="PAKISTAN",Khyber Middle East
+https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Khyber News" tvg-logo="https://i.imgur.com/Cj2pLFf.png" group-title="PAKISTAN",Khyber News
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Minhaj TV" tvg-logo="https://i.imgur.com/3YKWGUq.png" group-title="PAKISTAN",Minhaj TV
+https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/SgzkCOG.jpg" group-title="PAKISTAN",PTV Sports
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zindagi TV" tvg-logo="https://i.imgur.com/BUktuHW.png" group-title="PAKISTAN",Zindagi TV
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
 #EXTINF:-1 tvg-name="*** ISRAEL - github.com/Free-IPTV" group-title="ISRAEL" tvg-logo="https://i.imgur.com/IZCtGmD.png",*** ISRAEL - github.com/Free-IPTV
 http://
 #EXTINF:-1 tvg-id="" tvg-name="Hala TV Israel" tvg-logo="https://i.imgur.com/iZ6qgDg.png" group-title="ISRAEL",Hala TV Israel
