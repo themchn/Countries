@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="************** CANADA ************" tvg-logo="https://i.imgur.com/XO7BLqf.png" group-title="CANADA",************** CANADA ************
+#EXTINF:-1 tvg-name="*** CANADA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/XO7BLqf.png" group-title="CANADA",*** CANADA - github.com/Free-IPTV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="5AAB TV" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="CANADA",5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
@@ -37,7 +37,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/uafvsq.png" group-title="CANADA",CTV Toronto
 https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deal or no Deal" tvg-logo="https://i.imgur.com/soOgFFc.jpg" group-title="CANADA",Deal or no Deal
+#EXTINF:-1 tvg-id="" tvg-name="Deal or no Deal - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/soOgFFc.jpg" group-title="CANADA",Deal or no Deal - github.com/Free-IPTV
 https://endemol-dealornodeal-1-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DryBar Comedy" tvg-logo="https://i.imgur.com/a3mGVRE.jpg" group-title="CANADA",DryBar Comedy
 https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8

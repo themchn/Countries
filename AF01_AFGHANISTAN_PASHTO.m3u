@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*********** AFGHANISTAN PASHTO ********" group-title="AFGHANISTAN" tvg-logo="https://i.imgur.com/f7pAUiw.png",*********** AFGHANISTAN PASHTO ********
+#EXTINF:-1 tvg-name="*** AFGHANISTAN - github.com/Free-IPTV" group-title="AFGHANISTAN" tvg-logo="https://i.imgur.com/f7pAUiw.png",*** AFGHANISTAN - github.com/Free-IPTV
 https://
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Andisheh
 http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
@@ -65,7 +65,7 @@ http://rtmp.abnsat.com/hls/txministry.m3u8
 https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Simaye Azadi
 https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Tapesh
+#EXTINF:-1 group-title="AFGHANISTAN",Tapesh - github.com/Free-IPTV
 http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",TIN TV
 https://unirtmp.tulix.tv/tintv/tintv/playlist.m3u8
