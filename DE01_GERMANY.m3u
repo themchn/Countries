@@ -21,7 +21,7 @@ https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
 https://rbfs-lh.akamaihd.net/i/rb_fs@438960/master.m3u8
 #EXTINF:-1 tvg-name="NDR Niedersachsen" tvg-id="ndr.de" tvg-logo="http://logos.zattic.com/images/channels/logos/29a7c6a23050e3820a3b/black/84x48.png" group-title="GERMANY",NDR Niedersachsen
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?set-segment-duration=responsive
-#EXTINF:-1 tvg-name="WDR Koeln" tvg-id="WDR.de" tvg-logo="http://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png" group-title="GERMANY",WDR Koeln
+#EXTINF:-1 tvg-name="WDR Köln" tvg-id="WDR.de" tvg-logo="http://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png" group-title="GERMANY",WDR Köln
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
 #EXTINF:-1 tvg-name="HR" tvg-id="HR.de" tvg-logo="http://logos.zattic.com/images/channels/logos/f9fce1487da75bf65159/black/84x48.png" group-title="GERMANY",HR
 https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8?set-segment-duration=responsive

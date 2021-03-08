@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name=vg-name="***************** IRAN ***********" group-title="IRAN" tvg-logo="https://i.imgur.com/6Fb1ysK.jpg",***************** IRAN ***********
 http://
+#EXTINF:-1 tvg-id="" tvg-name="11 TV" tvg-logo="https://i.imgur.com/Uo3iDXN.jpg" group-title="IRAN",11 TV
+http://51.210.199.43/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4 KURD" tvg-logo="https://i.imgur.com/MPVcUbP.png" group-title="IRAN",4 KURD
 http://51.210.199.28/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4 TURK BILLBOARD" tvg-logo="https://i.imgur.com/ZGSSnbX.png" group-title="IRAN",4 TURK BILLBOARD
@@ -15,6 +17,10 @@ http://51.210.199.5/hls/stream.m3u8
 http://51.210.199.56/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Helal TV" tvg-logo="https://i.imgur.com/mfTccwm.png" group-title="IRAN",Helal TV
 http://51.210.199.54/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hewad TV" tvg-logo="https://i.imgur.com/RkcUtMK.jpg" group-title="IRAN",Hewad TV
+http://51.210.199.58/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HodHod TV" tvg-logo="https://i.imgur.com/TMxCgX1.jpg" group-title="IRAN",HodHod TV
+http://51.210.199.12/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Iran Beauty (Webradio)" tvg-logo="https://i.imgur.com/e8vc8vh.jpg" group-title="IRAN",Iran Beauty (Webradio)
 http://51.210.199.57/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Iran International" tvg-logo="https://i.imgur.com/gUzGZK7.png" group-title="IRAN",Iran International
@@ -25,6 +31,8 @@ http://51.210.199.46/hls/stream.m3u8
 http://51.210.199.53/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Maah TV" tvg-logo="https://i.imgur.com/MRWFcox.jpg" group-title="IRAN",Maah TV
 http://51.210.199.33/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nojoum TV" tvg-logo="https://i.imgur.com/6ttWNu0.jpg" group-title="IRAN",Nojoum TV
+http://51.210.199.41/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OXIR TV" tvg-logo="https://i.imgur.com/q3cxxW3.jpg" group-title="IRAN",OXIR TV
 http://51.210.199.36/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PERSIANA + HD" tvg-logo="https://i.imgur.com/QaMnpKx.jpg" group-title="IRAN",PERSIANA + HD
@@ -63,6 +71,12 @@ http://51.210.199.55/hls/stream.m3u8
 http://51.210.199.6/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sharo" tvg-logo="https://i.imgur.com/2nxSMHi.jpg" group-title="IRAN",Sharo
 http://51.210.199.50/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SL 1" tvg-logo="https://i.imgur.com/n9cuM2W.jpg" group-title="IRAN",SL 1
+http://51.210.199.3/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SL 2" tvg-logo="https://i.imgur.com/BVuUx5R.jpg" group-title="IRAN",SL 2
+http://51.210.199.2/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Solh TV" tvg-logo="https://i.imgur.com/bAbNyIt.jpg" group-title="IRAN",Solh TV
+http://51.210.199.42/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VARZESH TV FARSI" tvg-logo="https://i.imgur.com/ADQM8Pk.png" group-title="IRAN",VARZESH TV FARSI
 http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOX1 TVG" tvg-logo="https://i.imgur.com/OFuIRFI.jpg" group-title="IRAN",VOX1 TVG

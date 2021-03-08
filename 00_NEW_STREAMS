@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="********** NEW STREAMS **********" group-title="NEW STREAMS" tvg-logo="https://i.imgur.com/hppDI79.jpg",********** NEW STREAMS *******
-https://
-#EXTINF:-1 tvg-id="" tvg-name="NETMAX TV (GR)" tvg-logo="https://i.imgur.com/NltCTD1.png" group-title="NEW STREAMS",NETMAX TV (GR) 
-http://live.netmaxtv.com:8080/live/live/playlist.m3u8
