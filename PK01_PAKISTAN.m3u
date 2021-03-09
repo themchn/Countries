@@ -3,6 +3,10 @@
 http://
 #EXTINF:-1 tvg-id="" tvg-name="92 News" tvg-logo="https://i.imgur.com/Ji563Ed.jpg" group-title="PAKISTAN",92 News
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARY Digita" tvg-logo="https://i.imgur.com/TVP7g03.png" group-title="PAKISTAN",ARY Digital
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/stream1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARY Music" tvg-logo="https://i.imgur.com/eIlDHgS.png" group-title="PAKISTAN",ARY Music
+https://stream.arylive.com/MusikLive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARY News" tvg-logo="https://i.imgur.com/R4KtTbJ.jpg" group-title="PAKISTAN",ARY News
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Avt Khyber" tvg-logo="https://i.imgur.com/k3skdFb.jpg" group-title="PAKISTAN",Avt Khyber
@@ -17,7 +21,11 @@ https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Minhaj TV" tvg-logo="https://i.imgur.com/3YKWGUq.png" group-title="PAKISTAN",Minhaj TV
 https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV Home" tvg-logo="https://i.imgur.com/YKiV4yR.png" group-title="PAKISTAN",PTV Home
+https://live.ptv.com.pk/live/stream/ptvhome/chunklist_w289980971.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/SgzkCOG.jpg" group-title="PAKISTAN",PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV World" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="PAKISTAN",PTV World
+https://live.ptv.com.pk/live/ptvworld/chunklist_w2115026263.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zindagi TV" tvg-logo="https://i.imgur.com/BUktuHW.png" group-title="PAKISTAN",Zindagi TV
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
