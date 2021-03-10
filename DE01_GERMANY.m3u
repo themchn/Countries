@@ -63,13 +63,13 @@ https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_event1_1@409295/master.m3u8
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 #EXTINF:-1 tvg-name="Deutsche Welle+" tvg-id="DeutscheWelle+DE.de" group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle+
 http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="*** SPORT DE - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/2FpMtZ5.jpg",*** SPORT DE - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="*** SPORT DE - github.com/Free-IPTV" group-title="GERMANY" tvg-logo="https://i.imgur.com/2FpMtZ5.jpg",*** SPORT DE - github.com/Free-IPTV
 http://
 #EXTINF:-1 tvg-name="FIFA Club WM" tvg-id="" group-title="GERMANY" tvg-logo="https://i.imgur.com/5RDKZk5.jpg",FIFA Club WM
 https://bildlivehls-lh.akamaihd.net/i/fifa0208_1@330807/index_2328_av-p.m3u8?sd=10&b=0-2500&rebase=on
 #EXTINF:-1 tvg-name="Sky Sport News HD - github.com/Free-IPTV" tvg-id="SkySportNewsHD.de" group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png",Sky Sport News HD - github.com/Free-IPTV
 https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
-#EXTINF:-1 tvg-name="*** KIDS DE - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/ZrMKFWa.png" group-title="GERMANY",*** KIDS DE - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="*** KIDS DE - github.com/Free-IPTV" group-title="GERMANY" tvg-logo="https://i.imgur.com/ZrMKFWa.png" group-title="GERMANY",*** KIDS DE - github.com/Free-IPTV
 http://
 #EXTINF:-1 tvg-name="Kika" tvg-id="Kika.de" group-title="GERMANY" tvg-logo="https://i.imgur.com/qodAT7g.jpg",Kika
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8

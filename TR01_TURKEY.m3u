@@ -71,14 +71,12 @@ https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlis
 https://waw2.artiyerelmedya.net/ciftcitv/bant1/chunks.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
 #EXTINF:-1 tvg-name="DIM TV" tvg-id="" tvg-logo="https://i.imgur.com/LdecnDA.jpg" group-title="TURKEY",DIM TV
 https://waw2.artiyerelmedya.net/dimtv/bant1/chunks.m3u8
-#EXTINF:-1 tvg-name="DREAM TURK" tvg-id="" tvg-logo="https://i.imgur.com/Di9E05q.jpg" group-title="TURKEY",DREAM TURK
-https://2122248074.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-name="DRT TV" tvg-id="" tvg-logo="https://i.imgur.com/uOMuhrI.jpg" group-title="TURKEY",DRT TV
 https://broadcasttr.com:446/drt/bant1/chunklist_w172830844.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
 #EXTINF:-1 tvg-name="Ege A Turk TV" tvg-id="" tvg-logo="https://i.imgur.com/DdJWGOk.jpg" group-title="TURKEY",Ege A Turk TV
 https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8
-#EXTINF:0 tvg-logo="http://elittv.ch/images/elityenilogokucuk2opy.png" group-title="TURKEY",ELIT TV Isvicre
-#http://source2.primetime.ch:2981/play/elittv/index.m3u8
+#EXTINF:-1 tvg-logo="http://elittv.ch/images/elityenilogokucuk2opy.png" group-title="TURKEY",ELIT TV Isvicre
+http://source2.primetime.ch:2981/play/elittv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Em TV" tvg-logo="https://i.imgur.com/pHlRi8m.jpg" group-title="TURKEY",Em TV
 https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 #EXTINF:-1 tvg-name="ER TV" tvg-id="" tvg-logo="https://i.imgur.com/eXWRKyq.png" group-title="TURKEY",ER TV

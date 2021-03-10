@@ -69,11 +69,7 @@ https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2
 https://edge6.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
 #EXTINF:-1 tvg-name="Ditty TV (US)" tvg-id="DittyTV.com" group-title="MUSIC" tvg-logo="https://i.imgur.com/p5rREUo.png",Ditty TV (US)
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
-#EXTINF:-1 tvg-name="DREAM TURK (TR)" tvg-id="" tvg-logo="https://i.imgur.com/Di9E05q.jpg" group-title="MUSIC",DREAM TURK (TR)
-https://2122248074.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8
-EXTINF:-1 tvg-id="" tvg-name="DSTV (BG)" tvg-logo="https://i.imgur.com/2vRfj1D.png" group-title="MUSIC",DSTV (BG)
-http://46.249.95.140:8081/hls/data.m3u8
-EXTINF:-1 tvg-id="" tvg-name="DSTV (BG)" tvg-logo="https://i.imgur.com/2vRfj1D.png" group-title="MUSIC",DSTV (BG)
+#EXTINF:-1 tvg-name="DSTV (BG)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/2vRfj1D.png",DSTV (BG)
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-name="EDM Mainstage (US)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",EDM Mainstage (US)
 https://10999-1.b.cdn13.com/streams/masters-v3/djset/417.m3u8
@@ -213,9 +209,9 @@ http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-1 tvg-name="PANIK TV (GR)" tvg-id="" tvg-logo="https://i.imgur.com/8tiiDJJ.jpg" group-title="MUSIC",PANIK TV (GR)
 https://panik.cast-control.eu:1936/paniktv/paniktv//playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERSIANA BILLBOARD (IR)" tvg-logo="https://i.imgur.com/ytII1cO.png" group-title=""MUSIC",PERSIANA BILLBOARD (IR)
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA BILLBOARD (IR)" tvg-logo="https://i.imgur.com/ytII1cO.png" group-title="MUSIC",PERSIANA BILLBOARD (IR)
 http://51.210.199.10/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERSIANA MUSIC (IR) - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/pMrAvY6.png" group-title=""MUSIC",PERSIANA MUSIC (IR) - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA MUSIC (IR) - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/pMrAvY6.png" group-title="MUSIC",PERSIANA MUSIC (IR) - github.com/Free-IPTV
 http://51.210.199.24/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EAkvIw8.jpg" group-title="MUSIC",Pure Rock (US)
 http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8
@@ -273,7 +269,7 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.
 https://18a6ff4fa5424e6797030b139ca98e6c.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_plex/19b70c9a-59d0-418c-9cbc-80be9698c16b/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xbLho4R.jpg" group-title="MUSIC",That's Hot (US)
 https://fd80a2d7c3fb4580b4cb8ef661a96d49.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_plex/6fd86144-5938-4c3a-bda9-14ae30d6e38b/5.m3u8
-#EXTINF:-1 tvg-name="The Box (UK)" tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="UK",The Box (UK)
+#EXTINF:-1 tvg-name="The Box (UK)" tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="MUSIC",The Box (UK)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 tvg-name="The Retro Channel HD (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/t3i1HtE.jpg",The Retro Channel HD (BR)
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8

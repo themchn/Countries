@@ -20,7 +20,7 @@ https://edge2.vedge.infomaniak.com/livecast/ik:naxoo/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LFM TV" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="SWITZERLAND",LFM TV
 https://edge4.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8?spark=cf45faac-ae15-4c71-92c5-6c3527ed8e0f&token=
 #EXTINF:-1 tvg-id="" tvg-name="Meteonews" tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="SWITZERLAND",Meteonews
-https://streaming.meteonews.net/hls/stream.m3u8 
+https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Musig24" tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="SWITZERLAND",Musig24
 https://playback2.akamaized.net/streams/16598383_8687407_lsin7mfbawvyji8z19o_1/master.m3u8?dw=14400&hdnts=exp=1605428280~acl=/streams/16598383_8687407_lsin7mfbawvyji8z19o_1/master.m3u8*~hmac=073ce4b0d92471b2f87e3786620b8bc6eb0c98e131334e32ff9394fa72cc3d71
 #EXTINF:-1 tvg-id="" tvg-name="One TV" tvg-logo="https://i.imgur.com/YEQ957V.png" group-title="SWITZERLAND",One TV
@@ -61,7 +61,7 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_4dmq
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-name="TVO (CH)" tvg-id="TVO.ch" group-title="SWITZERLAND" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo_ch.png",TVO (CH)
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-name="********** RK SWITZERLAND *****" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/7krfGOy.jpg",********** RK SWITZERLAND *****
+#EXTINF:-1 tvg-name="*** RK CH - github.com/Free-IPTV" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/7krfGOy.jpg",*** RK CH - github.com/Free-IPTV
 https://
 #EXTINF:-1 tvg-id="" tvg-name="Action Movies - CH" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="SWITZERLAND",Action Movies - CH
 https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8

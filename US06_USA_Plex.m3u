@@ -209,7 +209,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea60547408
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.YUYU.TV" tvg-name="YUYU TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/yuyu_samsung.png" group-title="USA PLEX",YUYU TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442d?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1 tvg-ID="" tvg-name="************ PLEX MUSIC USA *********",************ PLEX MUSIC USA *********
+#EXTINF:-1 tvg-ID="" tvg-name="***PLEX MUSIC USA - github.com/Free-IPTV" group-title="USA PLEX",*** PLEX MUSIC USA - github.com/Free-IPTV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f598c33465f860041cd2dee?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.Latido.Music" tvg-name="Latido Music" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/latido-music-logo.png" group-title="USA PLEX",Latido Music
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f598c33465f860041cd2dee?X-Plex-Token=MorUy57ijWhGe4ixZb_T
