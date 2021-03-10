@@ -73,6 +73,8 @@ https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 https://2122248074.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8
 EXTINF:-1 tvg-id="" tvg-name="DSTV (BG)" tvg-logo="https://i.imgur.com/2vRfj1D.png" group-title="MUSIC",DSTV (BG)
 http://46.249.95.140:8081/hls/data.m3u8
+EXTINF:-1 tvg-id="" tvg-name="DSTV (BG)" tvg-logo="https://i.imgur.com/2vRfj1D.png" group-title="MUSIC",DSTV (BG)
+http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-name="EDM Mainstage (US)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",EDM Mainstage (US)
 https://10999-1.b.cdn13.com/streams/masters-v3/djset/417.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RAtVhO4.jpg" group-title="MUSIC",Electro Anthems (US)
