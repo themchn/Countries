@@ -55,8 +55,6 @@ https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.strea
 https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Glendale 11 - Arizona" tvg-logo="https://i.imgur.com/TAGILVe.png" group-title="USA LOCAL",Glendale 11 - Arizona
 https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globesville (Stream sometimes)" tvg-logo="https://i.imgur.com/ffTmXdk.png" group-title="USA LOCAL",Globesville  (Stream sometimes)
-http://link.frontlayer.com/services/hls2/fl592468/index.m3u8
 #EXTINF:-1 tvg-name="Greenbelt TV - github.com/Free-IPTV" tvg-id="greenbeltaccesstv.org" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/uxUqIVT.png",Greenbelt TV - github.com/Free-IPTV
 https://t07113a-lh.akamaihd.net/i/t07113a_1@756729/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
 #EXTINF:-1 tvg-name="Greensboro TV Network" tvg-id="Greensboro TV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/fuf9HAz.png",Greensboro TV Network
@@ -121,8 +119,6 @@ https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 https://wowzaprod188-i.akamaihd.net/hls/live/730322/3fa8d5f5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Southeastern Channel" tvg-logo="https://i.imgur.com/5yAdX7E.png" group-title="USA LOCAL",Southeastern Channel
 http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 47" tvg-logo="" group-title="USA LOCAL",Telemundo 47 New York
-https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/master.m3u8
 #EXTINF:-1 tvg-name="The Rockville Channel" tvg-id="The Rockville Channel" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/0mvGibX.jpg",The Rockville Channel
 http://granicusliveus12-a.akamaihd.net/rockvillemd/G0458_001/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TSTV" tvg-logo="https://i.imgur.com/tV8tVxQ.png" group-title="USA LOCAL",TSTV
@@ -131,8 +127,6 @@ http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 https://wowzaprod13-i.akamaihd.net/hls/live/254985/29c28f19/persisTarget_9375922947_TVWAIR_247_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="UCTV - University of California" tvg-id="UCTV - University of California" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/ehMz9T5.png",UCTV - University of California
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UWW-TV (Stream sometimes)" tvg-logo="https://i.imgur.com/bF9jznS.png" group-title="USA LOCAL",UWW-TV (Stream sometimes)
-http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WCCA-TV (Worcester)" tvg-logo="https://i.imgur.com/EX5hpVY.png" group-title="USA LOCAL",WCCA-TV (Worcester)
 http://worcester.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 tvg-name="WFTV Channel 9 - Florida - Orlando" tvg-id="WFTV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/S3fqmWY.png",WFTV Channel 9 - Florida - Orlando

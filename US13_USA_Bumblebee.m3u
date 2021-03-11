@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** USA BUMBLEBEE - github.com/Free-IPTV" group-title="USA BUMBLEBEE" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA BUMBLEBEE - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="*** USA BUMBLEBEE - github.com/Free-IPTV" group-title="USA Bumblebee" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA BUMBLEBEE - github.com/Free-IPTV
 https://
 #EXTINF:-1 tvg-name="Animals Live" tvg-logo="https://i.imgur.com/mJZHoUj.png" group-title="USA Bumblebee",Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
@@ -75,8 +75,6 @@ https://b29da26d9a17436eafe339c08e488f33.mediatailor.us-east-1.amazonaws.com/v1/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
 #EXTINF:-1 tvg-name="Smosh" tvg-logo="https://i.imgur.com/PbkQkhq.png" group-title="USA Bumblebee",Smosh
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625af5748670f12a3bee9/playlist.m3u8
-#EXTINF:-1 tvg-name="Sports News" tvg-logo="https://i.imgur.com/DWcfDc5.png" group-title="USA Bumblebee",Sports News
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf221fad5eeee0f5a40941c/playlist.m3u8
 #EXTINF:-1 tvg-name="Steve Wilkos" tvg-logo="https://i.imgur.com/CzrTxt2.png" group-title="USA Bumblebee",Steve Wilkos
 https://ff025cd3f4b44af9915c7303489f823c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e84c95ee0253b97679d7/playlist.m3u8
 #EXTINF:-1 tvg-name="Sunsets Live" tvg-logo="https://i.imgur.com/O7gIg07.png" group-title="USA Bumblebee",Sunsets Live
