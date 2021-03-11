@@ -17,6 +17,8 @@ https://cdn01.yowi.tv/GGGGGGGGGG/master.m3u8
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DOTB" tvg-logo="https://i.imgur.com/3Kj02Io.png" group-title="SPAIN YOWI",DOTB
 https://cdn01.yowi.tv/AAAAAAAAAA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXIL3D TV" tvg-logo="https://i.imgur.com/CASV8bq.png" group-title="SPAIN YOWI",EXIL3D TV
+https://cdn01.yowi.tv/FFFFFFFFFF/live-1500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hermes TV" tvg-logo="https://i.imgur.com/9vL1zZW.png" group-title="SPAIN YOWI",Hermes TV
 https://cdn01.yowi.tv/1H23S04G4M/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Imas TV" tvg-logo="https://i.imgur.com/2e6K5t2.jpg" group-title="SPAIN YOWI",Imas TV
