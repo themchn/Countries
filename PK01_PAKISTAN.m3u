@@ -5,14 +5,8 @@ http://
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARY Digita" tvg-logo="https://i.imgur.com/TVP7g03.png" group-title="PAKISTAN",ARY Digital
 https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARY Music" tvg-logo="https://i.imgur.com/eIlDHgS.png" group-title="PAKISTAN",ARY Music
-https://stream.arylive.com/MusikLive/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARY News" tvg-logo="https://i.imgur.com/R4KtTbJ.jpg" group-title="PAKISTAN",ARY News
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ary QTV" tvg-logo="https://i.imgur.com/c9QWHkK.jpg" group-title="PAKISTAN",Ary QTV
-https://stream.arylive.com/QtvLive/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ary Zindagi" tvg-logo="https://i.imgur.com/EBYrMNq.jpg" group-title="PAKISTAN",Ary Zindagi
-https://stream.arylive.com/ZindagiLive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Avt Khyber" tvg-logo="https://i.imgur.com/k3skdFb.jpg" group-title="PAKISTAN",Avt Khyber
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dunya News" tvg-logo="https://i.imgur.com/NtZKzM6.png" group-title="PAKISTAN",Dunya News

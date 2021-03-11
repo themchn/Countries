@@ -11,8 +11,6 @@ https://nn.geo.joj.sk/hls/joj-720.m3u8
 https://nn.geo.joj.sk/hls/family-540.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kosice:dnes" tvg-logo="https://i.imgur.com/ypZ4H5m.jpg" group-title="SLOVAKIA",Kosice:dnes
 http://lb.streaming.sk/tvnasa/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Life.tv" tvg-logo="https://i.imgur.com/Rvy8Wdu.png" group-title="SLOVAKIA",Life.tv
-http://86.110.233.68:1935/lifetv/lifetv.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LocAll" tvg-logo="https://i.imgur.com/zaemQoz.png" group-title="SLOVAKIA",LocAll
 http://tv.geniusnet.sk:8081/localltv/pl.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Plus" tvg-logo="https://i.imgur.com/1hKwMpt.png" group-title="SLOVAKIA",Plus

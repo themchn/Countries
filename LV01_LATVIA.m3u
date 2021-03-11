@@ -7,7 +7,5 @@ http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 http://5a44e5b800a41.streamlock.net:1935/liveVLR1/mp4:LR1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latvijas Radio 3 Klasika (Webradio)" tvg-logo="https://i.imgur.com/MxAVEYZ.png" group-title="LATVIA",Latvijas Radio 3 Klasika (Webradio)
 http://5a44e5b800a41.streamlock.net:1935/liveVLR3/mp4:Klasika/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DDTbDtG.png" group-title="LATVIA",Ren TV Baltic - github.com/Free-IPTV
-http://ott-cdn.ucom.am/s85/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVNET" tvg-logo="https://i.imgur.com/B4HuyOk.png" group-title="LATVIA",TVNET
+#EXTINF:-1 tvg-id="" tvg-name="TVNET - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/B4HuyOk.png" group-title="LATVIA",TVNET - github.com/Free-IPTV
 https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8

@@ -5,8 +5,6 @@ https://
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="8 La Marina TV" tvg-logo="https://i.imgur.com/4v9dDDx.png" group-title="SPAIN YOWI",8 La Marina TV
 https://cdn01.yowi.tv/ZH5FGIEUAV/master.m3u8
-#EXTINF:-1 tvg-name="Campiña Sur TV" tvg-logo="https://i.imgur.com/87KGlQz.png" group-title="SPAIN YOWI",Campiña Sur TV
-https://cdn01.yowi.tv/4131RI73I9/master.m3u8
 #EXTINF:-1 tvg-name="Canal 45 Andujar" tvg-logo="https://i.imgur.com/Qx5NTQN.png" group-title="SPAIN YOWI",Canal 45 Andujar
 https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Diocesano" tvg-logo="https://i.imgur.com/XA0uKMY.jpg" group-title="SPAIN YOWI",Canal Diocesano
@@ -33,8 +31,6 @@ https://cdn01.yowi.tv/36MLCJRAR2/master.m3u8
 https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TeleSur Madrid" tvg-logo="https://i.imgur.com/7SDZ9Ai.png" group-title="SPAIN YOWI",TeleSur Madrid
 https://cdn01.yowi.tv/W3GH8E4B5V/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Television de San Vicente" tvg-logo="https://i.imgur.com/qNbvsWq.jpg" group-title="SPAIN YOWI",Television de San Vicente
-https://cdn01.yowi.tv/L4Y5ILBY62/master.m3u8
 #EXTINF:-1 tvg-name="TeVe4" tvg-logo="https://i.imgur.com/IprxjLs.jpg" group-title="SPAIN YOWI",TeVe4
 https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Familia" tvg-logo="https://i.imgur.com/ixIePRp.png" group-title="SPAIN YOWI",TV Familia

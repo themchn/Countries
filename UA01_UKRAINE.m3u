@@ -67,8 +67,6 @@ http://live.m2.tv/hls3/stream.m3u8
 http://93.78.206.172:8080/stream3/stream.m3u8
 #EXTINF:-1 tvg-id="millet-tv" tvg-name="Millet" tvg-logo="https://i.imgur.com/vdXsJgo.png" group-title="UKRAINE",Millet
 http://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:-1 tvg-id="mostvideo" tvg-name="MostVideo TV" tvg-logo="https://i.imgur.com/0w7uJUT.jpg" group-title="UKRAINE",MostVideo TV
-http://w4.mostvideo.tv/tv/ch1.m3u8
 #EXTINF:-1 tvg-id="newsone-ua" tvg-name="NewsOne" tvg-logo="https://i.imgur.com/njpGp3R.jpg" group-title="UKRAINE",NewsOne
 plugin://plugin.video.youtube/play/?video_id=3e0FsU1N6OQ
 #EXTINF:-1 tvg-id="nta-ua" tvg-name="NTA" tvg-logo="https://i.imgur.com/AGzWPZv.png" group-title="UKRAINE",NTA

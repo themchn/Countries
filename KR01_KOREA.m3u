@@ -21,8 +21,6 @@ rtsp://ebsonair.ebs.co.kr/ebsutablet500k/tablet500k
 http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7K7zmoE.png" group-title="KOREA",EBS Plus 2
 http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DFrJTOr.jpg" group-title="KOREA",G1
-http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QUxuHA1.png" group-title="KOREA",GCN
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
 #EXTINF:-1 tvg-name="KBS LiveCam DokDo" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/b7uMB9T.png",KBS LiveCam DokDo
