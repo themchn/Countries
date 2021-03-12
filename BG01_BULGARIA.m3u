@@ -3,18 +3,12 @@
 http://
 #EXTINF:-1 tvg-id="" tvg-name="100% Auto Moto TV" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" group-title="BULGARIA",100% Auto Moto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Balkanika Music TV" tvg-logo="https://i.imgur.com/S0GrDsQ.png" group-title="BULGARIA",Balkanika Music TV
-rtsp://stream.teracomm.bg/balkanika
 #EXTINF:-1 tvg-id="" tvg-name="BTK" tvg-logo="https://i.imgur.com/5Sl6bKi.png" group-title="BULGARIA",BTK
 http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bulgaria On Air" tvg-logo="https://i.imgur.com/fawQSJN.jpg" group-title="BULGARIA",Bulgaria On Air
 http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bulgarska Svobodna TV" tvg-logo="https://i.imgur.com/Ugl3Pq5.png" group-title="BULGARIA",Bulgarska Svobodna TV
-https://e203-ts.cdn.bg/bstv/fls/bstv.stream/playlist.m3u8?at=27dbed3689bce270f5ce305e550588f2
 #EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="https://i.imgur.com/BjRTbrU.png" group-title="BULGARIA",City TV
 https://tv.city.bg/play/tshls/citytv/index.m3u8
-#EXTINF:-1 tvg-name="DSTV" tvg-id="" group-title="BULGARIA" tvg-logo="https://i.imgur.com/2vRfj1D.png",DSTV
-http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Evrokom" tvg-logo="https://i.imgur.com/3s7qchh.png" group-title="BULGARIA",Evrokom
 https://live.ecomservice.bg/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Light Channel" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="BULGARIA",Light Channel

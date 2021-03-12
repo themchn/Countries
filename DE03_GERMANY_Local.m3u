@@ -47,8 +47,6 @@ https://stream7.sehradar.de/jenatv/ngrp:livestream_all/playlist.m3u8
 https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
 #EXTINF: -1 tvg-name="KulturMD Magdeburg" tvg-id="KulturMD" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="GERMANY LOCAL",KulturMD Magdeburg
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=661069
-#EXTINF:-1 tvg-name="KW TV Wildau" tvg-id="" group-title="GERMANY LOCAL" tvg-logo="https://i.imgur.com/882I3h8.png",KW TV Wildau
-https://58af0c57eaf3e.streamlock.net/easycast11-live/_definst_/mp4:livestream/playlist.m3u8?&ref=&seid=199961
 #EXTINF:-1 tvg-name="L-TV Ludwigsburg" tvg-id="L-TV.de" group-title="GERMANY LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ltv.png",L-TV Ludwigsburg
 https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:ltv-live/playlist.m3u8
 #EXTINF:-1 tvg-name="Lausitzwelle Fernsehen" tvg-id="" group-title="GERMANY LOCAL" tvg-logo="https://i.imgur.com/GNMaGZE.png",Lausitzwelle Fernsehen

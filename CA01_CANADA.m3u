@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="*** CANADA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/XO7BLqf.png" group-title="CANADA",*** CANADA - github.com/Free-IPTV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+http://
 #EXTINF:-1 tvg-id="" tvg-name="5AAB TV" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="CANADA",5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adventure Sports Network" tvg-logo="https://i.imgur.com/ZbPFZOV.png" group-title="CANADA",Adventure Sports Network
@@ -9,8 +9,6 @@ https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/ma
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-alltime/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Amazing Discoveries TV" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="CANADA",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Assemblee Nationale du Quebec" tvg-logo="https://i.imgur.com/dNQUbok.png" group-title="CANADA",Assemblee Nationale du Quebec
-http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Asylum" tvg-logo="https://i.imgur.com/j98vGQp.jpg" group-title="CANADA",Asylum
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC Toronto Gaunda Punjab" tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="CANADA",BBC Toronto Gaunda Punjab
@@ -71,7 +69,7 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GurSikh Sabha TV Scarborough" tvg-logo="https://i.imgur.com/2EKCtQm.png" group-title="CANADA",GurSikh Sabha TV Scarborough
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HollyWire" tvg-logo="https://i.imgur.com/BT31YWz.png" group-title="CANADA",HollyWire
+#EXTINF:-1 tvg-id="" tvg-name="HollyWire  - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/BT31YWz.png" group-title="CANADA",HollyWire  - github.com/Free-IPTV
 https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="ICI Montreal" tvg-id="ICI Montreal" group-title="CANADA" tvg-logo="",ICI Montreal
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
@@ -145,7 +143,7 @@ https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele-V" tvg-logo="https://i.imgur.com/ENLiXkJ.png" group-title="CANADA",Tele-V
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TMZ" tvg-logo="https://i.imgur.com/j09QMqL.png" group-title="CANADA",TMZ
+#EXTINF:-1 tvg-id="" tvg-name="TMZ  - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/j09QMqL.png" group-title="CANADA",TMZ  - github.com/Free-IPTV
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/master.m3u8
 #EXTINF:-1 tvg-name="Toronto 360" tvg-id="Toronto 360" group-title="CANADA" tvg-logo="https://i.imgur.com/PkWndsv.png",Toronto 360
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
@@ -153,8 +151,6 @@ http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
 #EXTINF:-1 tvg-name="TVO Kids" tvg-logo="https://i.imgur.com/JgRDyaB.png" group-title="CANADA",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Urdu TV Toronto" tvg-logo="https://i.imgur.com/7768lwn.jpg" group-title="CANADA",Urdu TV Toronto
-http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="VBS" tvg-id="VBS" group-title="CANADA" tvg-logo="https://i.imgur.com/IWpevBp.jpg",VBS
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Waypoint TV" tvg-logo="https://i.imgur.com/yBTz6JA.png" group-title="CANADA",Waypoint TV
