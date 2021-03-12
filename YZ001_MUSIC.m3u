@@ -205,6 +205,10 @@ https://panik.cast-control.eu:1936/paniktv/paniktv//playlist.m3u8
 http://51.210.199.10/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PERSIANA MUSIC (IR) - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/pMrAvY6.png" group-title="MUSIC",PERSIANA MUSIC (IR) - github.com/Free-IPTV
 http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Power Turk (TR)"  tvg-logo="https://i.imgur.com/9OPoXQG.png" group-title="MUSIC",Power Turk (TR)
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Power TV (TR)"  tvg-logo="https://i.imgur.com/291uOcR.png" group-title="MUSIC",Power TV (TR)
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EAkvIw8.jpg" group-title="MUSIC",Pure Rock (US)
 http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yz3LSXo.png" group-title="MUSIC",Radio 51 Lombardia (IT)
