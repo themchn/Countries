@@ -183,6 +183,10 @@ http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
 plugin://plugin.video.youtube/play/?video_id=8P21JVD8Z2w
 #EXTINF:-1 tvg-name="Öncü TV" tvg-id="" tvg-logo="https://i.imgur.com/TGPNYrD.jpg" group-title="TURKEY",Öncü TV
 https://broadcasttr.com:446/oncurtv/bant1/chunklist_w882499504.m3u8
+#EXTINF:-1 tvg-name="Power Turk" tvg-logo="https://i.imgur.com/9OPoXQG.png" group-title="TURKEY",Power Turk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Power TV" tvg-logo="https://i.imgur.com/291uOcR.png" group-title="TURKEY",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-name="Rehber TV" tvg-id="" tvg-logo="https://i.imgur.com/1MtmwGc.png" group-title="TURKEY",Rehber TV
 https://yayin.canliyayin.net.tr/P871000884/rehbertv/chunklist.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
 #EXTINF:-1 tvg-id="" tvg-name="Rudaw - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/FzTqH0m.jpg" group-title="TURKEY",Rudaw - github.com/Free-IPTV
