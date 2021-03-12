@@ -225,6 +225,8 @@ http://51.210.199.6/hls/stream.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uCQNwdW.jpg" group-title="MUSIC",Radio Number One TV (IT)
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Radionorba TV (IT)" tvg-logo="https://i.imgur.com/er4rnlQ.png" group-title="MUSIC",Radionorba TV (IT)
+https://stream7.xdevel.com/video0s975885-472/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="MUSIC",Radio Pilatus (Webradio) (CH)
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Radiou TV (US)" tvg-id="Radiou TV" group-title="MUSIC" tvg-logo="https://i.imgur.com/236PqNm.jpg",Radiou TV (US)
