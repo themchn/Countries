@@ -79,6 +79,8 @@ http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Number One" tvg-logo="https://i.imgur.com/8cpuaG5.png" group-title="ITALY LOCAL",Radio Number One
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Radionorba TV" tvg-logo="https://i.imgur.com/er4rnlQ.png" group-title="ITALY LOCAL",Radionorba TV
+https://stream7.xdevel.com/video0s975885-472/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Piterpan" tvg-logo="https://i.imgur.com/DfugVgy.png" group-title="ITALY LOCAL",Radio Piterpan
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Taormina Sicilia" tvg-logo="https://i.imgur.com/SrhtocV.png" group-title="ITALY LOCAL",Radio Taormina Sicilia
