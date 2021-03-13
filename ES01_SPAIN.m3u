@@ -137,6 +137,8 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 #EXTINF:-1 tvg-id="8Burgos.TV" tvg-name="La 8 Burgos" tvg-logo="https://i.imgur.com/eu4LTuy.png" group-title="SPAIN",La 8 Burgos
 https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La Mega Mundial" tvg-logo="https://i.imgur.com/LIIWKYT.png" group-title="SPAIN",La Mega Mundial
+https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
 #EXTINF:-1 tvg-name="La Moncloa (Presidente)" tvg-logo="https://i.imgur.com/k2Iebw6.jpg" group-title="SPAIN",La Moncloa (Presidente)
 https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=y3-IxQxNk4XjlfJDtBjIh7tfO628d9gbkd010uKioms&output=ginkIjHWeyffMLRZNMVovht3RnH_feedjshkMm7sr14&channel=D1tXjvcs_5NeEEMxP6mrmSggh3Uyu3kE5jyqGlgCZ4A&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
 #EXTINF:-1 tvg-name="Lancelot TV" tvg-id="" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hCZUn3g.png" group-title="SPAIN",Lancelot TV
@@ -267,6 +269,8 @@ http://momentog-crtvg.flumotion.com/playlist.m3u8
 http://musigal-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-name="Une Vinalopó" tvg-logo="https://i.imgur.com/bucFtkN.png" group-title="SPAIN",Une Vinalopó
 http://78.41.83.88:8880/hls/unesd.m3u8
+#EXTINF:-1 tvg-name="Urban Revolution" tvg-logo="https://i.imgur.com/cgL1Y50.png" group-title="SPAIN",Urban Revolution
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 #EXTINF:-1 tvg-name="Urola Telebista" tvg-id="" tvg-logo="https://i.imgur.com/w83wr1S.png" group-title="SPAIN",Urola Telebista
 https://5940924978228.streamlock.net/j_Directo1/smil:j_Directo1.smil/master.m3u8
 #EXTINF:-1 tvg-name="Visión 6 TV" tvg-logo="https://i.imgur.com/TB1wMQ7.jpg" group-title="SPAIN",Visión 6 TV
