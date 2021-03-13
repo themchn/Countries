@@ -157,7 +157,7 @@ https://58d921499d3d3.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
 https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TeleBoario" tvg-logo="https://i.imgur.com/br64bvb.jpg" group-title="ITALY LOCAL",TeleBoario
 http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Teleblu Foggia" tvg-logo"https://i.imgur.com/elkcKum.png" group-title="ITALY",Teleblu Foggia
+#EXTINF:-1 tvg-id="" tvg-name="Teleblu Foggia" tvg-logo="https://i.imgur.com/elkcKum.png" group-title="ITALY",Teleblu Foggia
 https://58d921499d3d3.streamlock.net/Teleblu/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TeleChiara Vicenza" tvg-logo="https://i.imgur.com/l4J7tM7.png" group-title="ITALY LOCAL",TeleChiara Vicenza
 http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
