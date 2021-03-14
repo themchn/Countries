@@ -51,6 +51,18 @@ http://webmobile.xdev.ro:81/tv13/playlist.m3u8
 http://novapress.ro:1935/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Prima TV" tvg-logo="https://i.imgur.com/G03w5XQ.png" group-title="ROMANIA",Prima TV
 https://netstreaming.eu:8080/hls/unutv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pro TV" tvg-logo="https://i.imgur.com/wyhkBLg.png" group-title="ROMANIA",Pro TV
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-protv/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pro TV International" tvg-logo="https://i.imgur.com/qfuIKGW.png" group-title="ROMANIA",Pro TV International
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-protv-international/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pro 2" tvg-logo="https://i.imgur.com/DJFS9u3.png" group-title="ROMANIA",Pro 2
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-pro2/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pro Cinema" tvg-logo="https://i.imgur.com/VWOlfl1.png" group-title="ROMANIA",Pro Cinema
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-procinema/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pro Gold" tvg-logo="https://i.imgur.com/qoxyR3Q.png" group-title="ROMANIA",Pro Gold
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-progold/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pro X" tvg-logo="https://i.imgur.com/z6vQEbZ.png" group-title="ROMANIA",Pro X
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-prox/playlist/rum/live_fullhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kWrneym.png" group-title="ROMANIA",Profit
 https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ae1Klb2.png" group-title="ROMANIA",Realitatea TV
