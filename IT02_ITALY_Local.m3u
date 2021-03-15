@@ -155,7 +155,7 @@ http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
 http://213.187.12.18/telepn/telepn.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TeleArena - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/L4tnTmg.png" group-title="ITALY LOCAL",TeleArena - github.com/Free-IPTV
 https://58d921499d3d3.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telebelluno" tvg-logo="" group-title="ITALY LOCAL",Telebelluno
+#EXTINF:-1 tvg-id="" tvg-name="Telebelluno" tvg-logo="https://i.imgur.com/9nclB3w.png" group-title="ITALY LOCAL",Telebelluno
 https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TeleBoario" tvg-logo="https://i.imgur.com/br64bvb.jpg" group-title="ITALY LOCAL",TeleBoario
 http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8
@@ -173,7 +173,7 @@ http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m
 https://streamtechglobal.akamaized.net/hls/live/2024685/telefriuli/Group01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TeleGenova" tvg-logo="https://i.imgur.com/CpAHeA5.jpg" group-title="ITALY LOCAL",TeleGenova
 https://5db313b643fd8.streamlock.net/Telegenova/Telegenova/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telegranda" tvg-logo="" group-title="ITALY LOCAL",Telegranda
+#EXTINF:-1 tvg-id="" tvg-name="Telegranda" tvg-logo="https://i.imgur.com/l2Umbe2.jpg" group-title="ITALY LOCAL",Telegranda
 http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Teleliberta" tvg-logo="https://i.imgur.com/Yz30OZh.jpg" group-title="ITALY LOCAL",Teleliberta
 http://api.new.livestream.com/accounts/17114188/events/4902226/live.m3u8
@@ -205,7 +205,7 @@ https://5cbd3bc28341f.streamlock.net:444/telesud/_definst_/live/playlist.m3u8
 https://diretta.teleterni.it/live/stream_src.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Teletricolore Reggio" tvg-logo="https://i.imgur.com/pDCx9pU.jpg" group-title="ITALY LOCAL",Teletricolore Reggio
 https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K6tTjJC.png" group-title="ITALY LOCAL",TeleTusciaSabina 2000
+#EXTINF:-1 tvg-id="" tvg-name="TeleTusciaSabina 2000" tvg-logo="https://i.imgur.com/K6tTjJC.png" group-title="ITALY LOCAL",TeleTusciaSabina 2000
 http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TeleVenezia" tvg-logo="https://i.imgur.com/RG4o4Ni.png" group-title="ITALY LOCAL",TeleVenezia
 https://59d8c0cee6f3d.streamlock.net/televenezia/televenezia/playlist.m3u8
