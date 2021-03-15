@@ -6869,7 +6869,7 @@ https://live.siete.us:19360/mascumbiatvonline/mascumbiatvonline.m3u8
 #EXTINF:-1 tvg-name="Maxima FM TV HD (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/wlLmHGv.png",Maxima FM TV HD (BR)
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:-1 tvg-name="MESSATIDA TV (GR)" group-title="MUSIC" tvg-logo="https://i.imgur.com/CnKK2Iq.png",MESSATIDA TV (GR)
-https://vod.streams.ovh:3037/stream/play.m3u8.
+https://vod.streams.ovh:3037/stream/play.m3u8
 #EXTINF:-1 tvg-name="MGR TV (GR)" group-title="MUSIC" tvg-logo="https://i.imgur.com/1NVlRVe.png",MGR TV (GR)
 https://vod.streams.ovh:3876/stream/play.m3u8
 #EXTINF:-1 tvg-name="Minimal Techno (US)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",Minimal Techno (US)
