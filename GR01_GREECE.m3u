@@ -21,6 +21,8 @@ https://s.best-tv.gr/HLS/hls/best/1_2/index.m3u8
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="https://i.imgur.com/O6Zqpuq.png" group-title="GREECE",Channel 9
 http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
+#EXTINF:-1 tvg-name="CHOICE" tvg-logo="https://i.imgur.com/jJcNm2I.png" group-title="GREECE",CHOICE
+https://vod.streams.ovh:3528/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ena Channel" tvg-logo="https://i.imgur.com/QyPyIEb.png" group-title="GREECE",Ena Channel
 http://176.9.123.140:1935/1c/stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPT 1" tvg-logo="https://i.imgur.com/0ZPJfZo.png" group-title="GREECE",EPT 1
@@ -43,10 +45,14 @@ http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
 http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Magic TV GR" tvg-logo="http://i.imgur.com/QZQhg6C.png" group-title="GREECE",Magic TV GR
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1 tvg-name="MESSATIDA TV" tvg-logo="https://i.imgur.com/CnKK2Iq.png" group-title="GREECE",MESSATIDA TV
+https://vod.streams.ovh:3037/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Messinia TV (Webradio)" tvg-logo="http://i.imgur.com/nwInqes.png" group-title="GREECE",Messinia TV (Webradio)
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mesogeios TV" tvg-logo="https://i.imgur.com/OnB6n3C.jpg" group-title="GREECE",Mesogeios TV
 http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
+#EXTINF:-1 tvg-name="MGR TV" tvg-logo="https://i.imgur.com/1NVlRVe.png" group-title="GREECE",MGR TV
+https://vod.streams.ovh:3876/stream/play.m3u8
 #EXTINF:-1 tvg-name="MY RADIO TV" tvg-id="" tvg-logo="https://my-radio.gr/img/logo3.png" group-title="GREECE",MY RADIO TV
 https://vdo.alphaserver.gr:3305/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nea TV" tvg-logo="https://i.imgur.com/MCElZyr.jpg" group-title="GREECE",Nea TV
