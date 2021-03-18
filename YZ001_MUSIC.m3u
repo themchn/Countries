@@ -5,6 +5,8 @@ https://
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-name="30A Music (US)" tvg-id="30a-tv.com" group-title="MUSIC" tvg-logo="https://i.imgur.com/gNWg9tl.png",30A Music (US)
 http://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-name="4FUN TV (PL)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/VFs7mdh.jpg",4FUN TV (PL)
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4 TURK BILLBOARD (IR)" tvg-logo="https://i.imgur.com/ZGSSnbX.png" group-title="MUSIC",4 TURK BILLBOARD (IR)
 http://51.210.199.29/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4 TURK MUSIC (IR)" tvg-logo="https://i.imgur.com/hHv1tSI.png" group-title="MUSIC",4 TURK MUSIC (IR)
@@ -123,6 +125,12 @@ http://208.93.117.113/live/Stream1/playlist.m3u8
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1 tvg-id="KISS.uk" tvg-name="Kiss (UK)" tvg-logo="https://i.imgur.com/InXTyza.png" group-title="MUSIC",Kiss (UK)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+#EXTINF:-1 tvg-id="" tvg-name="Kiss Kiss Italia TV (IT)" tvg-logo="https://i.imgur.com/k9mkIKG.jpg" group-title="MUSIC",Kiss Kiss Italia TV (IT)
+https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kiss Kiss Napoli TV (IT)" tvg-logo="https://i.imgur.com/Qawc6g8.jpg" group-title="MUSIC",Kiss Kiss Napoli TV (IT)
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kiss Kiss TV (IT)" tvg-logo="https://i.imgur.com/k9mkIKG.jpg" group-title="MUSIC",Kiss Kiss TV (IT)
+https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KroneHit TV (AT)" tvg-logo="https://i.imgur.com/tLwBOtU.jpg" group-title="MUSIC",KroneHit TV (AT)
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La Mega Mundial (ES)" tvg-logo="https://i.imgur.com/LIIWKYT.png" group-title="MUSIC",La Mega Mundial (ES)
@@ -257,7 +265,7 @@ http://51.210.199.6/hls/stream.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uCQNwdW.jpg" group-title="MUSIC",Radio Number One TV (IT)
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Radionorba TV (IT)" tvg-logo="https://i.imgur.com/er4rnlQ.png" group-title="MUSIC",Radionorba TV (IT)
+#EXTINF:-1 tvg-name="Radionorba TV (IT)" tvg-logo="https://i.imgur.com/NLBLh4j.png" group-title="MUSIC",Radionorba TV (IT)
 https://stream7.xdevel.com/video0s975885-472/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="MUSIC",Radio Pilatus (Webradio) (CH)
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
@@ -287,6 +295,8 @@ https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w1017805
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 tvg-name="Spotlight TV (UK)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/FIuR49I.png",Spotlight TV (UK)
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Steelbird Music (IN)" tvg-logo="https://i.imgur.com/5r4gCMh.jpg" group-title="MUSIC",Steelbird Music (IN)
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="STIRR Music" tvg-name="STIRR Music (US)" tvg-logo="https://i.imgur.com/4ZmofFV.jpg" group-title="MUSIC",STIRR Music (US)
 https://dai.google.com/linear/hls/event/_e1csFnJR6W6y056PyiG6A/master.m3u8
 #EXTINF:-1 tvg-name="Techno Warehouse (US)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",Techno Warehouse (US)
