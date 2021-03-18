@@ -99,6 +99,8 @@ http://w11.streamgb.com:1935/kool/kool/playlist.m3u8
 https://streamcdn.lamuscle.com/lamtv-origin/smil:monsterworkout-tricepspt1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Latest TV (4PM TO 2AM) " tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/qwAkIWp.png",Latest TV (4PM TO 2AM) 
 https://5a0e89631aa14.streamlock.net/LatestTV/LatestTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LCBN TV" tvg-logo="https://i.imgur.com/d8Rl0VD.png" group-title="UK",LCBN TV
+https://itsy.castr.io/edge/live_5363cc905d8e11eab9a8c11483dc3ae6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Loveworld TV" tvg-logo="https://i.imgur.com/8mc9KqX.png" group-title="UK",Loveworld TV
 https://cdn.lwuk.live/live/smil:lwukweb.smil/chunklist_b864000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Luxe TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/8tWhfap.png" group-title="UK",Luxe TV - github.com/Free-IPTV
