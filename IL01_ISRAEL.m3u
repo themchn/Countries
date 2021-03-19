@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="*** ISRAEL - github.com/Free-IPTV" group-title="ISRAEL" tvg-logo="https://i.imgur.com/IZCtGmD.png",*** ISRAEL - github.com/Free-IPTV
 http://
+#EXTINF:-1 tvg-id="" tvg-name="Channel 20" tvg-logo="https://i.imgur.com/14ohB15.jpg" group-title="ISRAEL",Channel 20
+https://dvr.ch20-cdnwiz.com/mobilehls/dvr_low/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hala TV Israel" tvg-logo="https://i.imgur.com/iZ6qgDg.png" group-title="ISRAEL",Hala TV Israel
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hidabroot Israel" tvg-logo="https://i.imgur.com/lD3bhwl.png" group-title="ISRAEL",Hidabroot Israel
