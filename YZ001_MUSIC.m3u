@@ -43,8 +43,6 @@ https://1f0e60dbce3043279c491fe51983361d.mediatailor.us-west-2.amazonaws.com/v1/
 https://eb8029576dd74625b1d49e34afc1febb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_plex/932c2e9d-348a-4633-8a43-5e590398fde7/5.m3u8
 #EXTINF:-1 tvg-name="Best Cable Music (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/I0MxUm2.jpg",Best Cable Music (BR)
 https://live.siete.us:19360/bestcablemusic/bestcablemusic.m3u8
-#EXTINF:-1 tvg-name="Bluegrass 4U (US)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/wha8zxc.png",Bluegrass 4U (US)
-https://nimble.dashstreams.net/onestudio/bluegrassmusic4u/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Box Hits (UK)" tvg-logo="https://i.imgur.com/Q0Y3sT5.png" group-title="MUSIC",Box Hits (UK)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-name="Canal 38 HD (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/ZTClYwb.jpg",Canal 38 HD (BR)
@@ -69,8 +67,6 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cusano TV (IT)" tvg-logo="https://i.imgur.com/3XdJEie.png" group-title="MUSIC",Cusano TV (IT)
 https://stream9.xdevel.com/video0s975363-691/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D5 TV (FR)" tvg-logo="https://i.imgur.com/cThInij.png" group-title="MUSIC",D5 TV (FR)
-http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="DanceTrippin (US) " tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",DanceTrippin (US)
 https://10999-2.b.cdn13.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Deejay TV (IT)" tvg-logo="https://i.imgur.com/0XHqGSb.png" group-title="MUSIC",Deejay TV (IT)
@@ -79,8 +75,6 @@ https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-name="DELUXEMUSIC (DE)" tvg-id="DeLuxeMusic.de" group-title="MUSIC" tvg-logo="https://i.imgur.com/Y9Y2YYx.png",DELUXEMUSIC (DE)
 https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DBM (FR)" tvg-logo="https://i.imgur.com/KOlCUJ9.jpg" group-title="MUSIC",DBM (FR)
-https://edge6.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dibi TV (RO)" tvg-logo="https://i.imgur.com/gnu7LIn.png" group-title="MUSIC",Dibi TV (RO)
 http://82.76.210.127:1935/dibitv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Ditty TV (US)" tvg-id="DittyTV.com" group-title="MUSIC" tvg-logo="https://i.imgur.com/p5rREUo.png",Ditty TV (US)
