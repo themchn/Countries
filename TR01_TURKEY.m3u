@@ -135,7 +135,7 @@ http://live.arkumedia.com:1935/kanal34tv/kanal34tv/playlist.m3u8
 https://waw2.artiyerelmedya.net/kanal68/bant1/chunks.m3u8?hash=3e0bbf2c55e462f4edf05c003ecdfcb6
 #EXTINF:-1 tvg-name="Kanal Alanya" tvg-id="" tvg-logo="https://i.imgur.com/sXiUnTl.jpg" group-title="TURKEY",Kanal Alanya
 https://broadcasttr.com:446/kanala/bant1/chunklist_w343770598.m3u8?hash=2ed1974639ec674a33ed440298136dcd
-#EXTINF:-4 tvg-id="KanalD.tr" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da806" group-title="TURKEY",,Kanal D HD
+#EXTINF:-4 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/DbMjtYN.png" group-title="TURKEY",,Kanal D HD
 https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanal Ege" tvg-id="" tvg-logo="https://i.imgur.com/AAkX8oV.png" group-title="TURKEY",Kanal Ege
 https://59cba4d34b678.streamlock.net/canlitv/kanalege/playlist.m3u8

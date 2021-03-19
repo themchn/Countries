@@ -3,7 +3,7 @@
 https://
 #EXTINF:-1 tvg-id="" tvg-name="Kanal Hovedstaden" tvg-logo="https://i.imgur.com/hATNB38.jpg" group-title="DENMARK",Kanal Hovedstaden
 https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.transcoder.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KKR TV" tvg-logo="http://kkrtv.dk/wp-content/uploads/2015/09/kkrtv-logo-navi.png" group-title="DENMARK",KKR TV
+#EXTINF:-1 tvg-id="" tvg-name="KKR TV" tvg-logo="https://i.imgur.com/9kJz4IJ.png" group-title="DENMARK",KKR TV
 http://stream.kkr.dk/live/ngrp:kkr_adaptive/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KVF" tvg-tvg-logo="https://i.imgur.com/Nb93Skv.jpg" group-title="DENMARK",KVF
 https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
