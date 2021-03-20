@@ -76,7 +76,7 @@ https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-name="DELUXEMUSIC (DE)" tvg-id="DeLuxeMusic.de" group-title="MUSIC" tvg-logo="https://i.imgur.com/Y9Y2YYx.png",DELUXEMUSIC (DE)
 https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Deutsches Musik Fernsehen (DE)" tvg-logo="https://i.imgur.com/fw5O4PK.png" group-title="MUSIC",Deutsches Musik Fernsehen (DE)
-http://tv.artcom-venture.de:1322/dmf/tv_720.m3u8:
+http://tv.artcom-venture.de:1322/dmf/tv_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dibi TV (RO)" tvg-logo="https://i.imgur.com/gnu7LIn.png" group-title="MUSIC",Dibi TV (RO)
 http://82.76.210.127:1935/dibitv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Ditty TV (US)" tvg-id="DittyTV.com" group-title="MUSIC" tvg-logo="https://i.imgur.com/p5rREUo.png",Ditty TV (US)
@@ -357,7 +357,7 @@ https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XITE (BE)" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="MUSIC",XITE (BE)
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-#EXTINF:-1 tvg-name="Xtra TV HD (UA)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/w1Lc150.jpg",Xtra TV HD (UA)
+#EXTINF:-1 tvg-name="Xtra TV HD (ES)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/w1Lc150.jpg",Xtra TV HD (ES)
 https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/playlist.m3u8
 #EXTINF:-1 tvg-name="XTV Music HD (CI)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/Gh3UlFo.jpg",XTV Music HD (CI)
 https://tls.cdnz.cl/xtvmusic/xtvmusic/playlist.m3u8
