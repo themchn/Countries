@@ -9,8 +9,14 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Apollon"  tvg-logo="https://i.imgur.com/RTZKRUV.jpg" group-title="ALBANIA",Apollon
 http://185.80.224.14:99/Apollon-WEB/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBF Music TV" tvg-logo="https://i.imgur.com/IPaY8cY.png" group-title="ALBANIA",BBF Music TV
+http://79.106.48.2:4040/live/bbfottpp1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUROAL" tvg-logo="https://i.imgur.com/qLaEmIT.png" group-title="ALBANIA",EUROAL
 http://5.135.92.131:1935/live/euroAl/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN TV" tvg-logo="https://i.imgur.com/qqi80Zx.png" group-title="ALBANIA",IN TV
+http://79.106.48.2:4040/live/intvpp1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MCN" tvg-logo="https://i.imgur.com/QY38LbJ.png" group-title="ALBANIA",MCN
+http://79.106.48.2:4040/live/mcnpp1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 24 Albania" tvg-logo="https://i.imgur.com/ctEpu0b.png" group-title="ALBANIA",NEWS 24 Albania
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Opoja TV"  tvg-logo="https://i.imgur.com/De7sZf6.jpg" group-title="ALBANIA",Opoja TV
@@ -31,8 +37,14 @@ http://edge01eu.ekranet.com/rtsh2hd1/index.m3u8
 http://edge01eu.ekranet.com/rtsh3hd1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Film" tvg-logo="https://i.imgur.com/ZN5Nyx5.png" group-title="ALBANIA",RTSH Film
 https://tvlive.rtsh.dev/live/rtsh_film_mob_p2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Gjirokastra" tvg-logo="https://i.imgur.com/IdiGGWG.png" group-title="ALBANIA",RTSH Gjirokastra
+https://tvlive.rtsh.dev/live/rtsh_gjirokastra_mob_p1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Kids" tvg-logo="https://i.imgur.com/rqvY7yR.png" group-title="ALBANIA",RTSH Kids
 https://tvlive.rtsh.dev/live/rtsh_femije_ott_p1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Korça" tvg-logo="https://i.imgur.com/7XyN6Li.png" group-title="ALBANIA",RTSH Korça
+https://tvlive.rtsh.dev/live/rtsh_korca_ott_p2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Kukesi" tvg-logo="https://i.imgur.com/QCu0SdX.png" group-title="ALBANIA",RTSH Kukesi
+https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Muzike" tvg-logo="https://i.imgur.com/dzD11t4.png" group-title="ALBANIA",RTSH Muzike
 https://tvlive.rtsh.dev/live/rtsh_muzike_mob_p2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Plus" tvg-logo="https://i.imgur.com/2dsNgMQ.png" group-title="ALBANIA",RTSH Plus
@@ -51,3 +63,5 @@ http://edge01eu.ekranet.com/scantv/index.m3u8
 http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Dielli" tvg-logo="https://i.imgur.com/XQkIM5j.jpg" group-title="ALBANIA",TV Dielli
 http://51.15.180.159:8081/play/hls/dielli/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zjarr TV" tvg-logo="https://i.imgur.com/NBTUV4w.jpg" group-title="ALBANIA",Zjarr TV
+http://edge01eu.ekranet.com/zjarrtv/index.m3u8
