@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="*** CZECH REPUBLIC - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/cRl8w0t.png" group-title="CZECH REPUBLIC",*** CZECH REPUBLIC - github.com/Free-IPTV
 http://
-#EXTINF:-1 tvg-id="" tvg-name="ČT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/1200px-%C4%8CT1_logo_2012.svg.png" group-title="CZECH REPUBLIC",ČT 1
-https://ivys-vst12-2.o2tv.cz/af/3a771f775055b5deb1199c9faf2c2721/1616258733770/aa17ed755eed3fe79124ae0dd797b932a/dna-102-tv-pc-W10800/rel/1506v1102.k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ČT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/1200px-%C4%8CT2_logo_2012.svg.png" group-title="CZECH REPUBLIC",ČT 2
-https://ivys-vst14-2.o2tv.cz/af/90f5cb2970772f72e22a4c8929dd1c9d/1616258961360/a43fe713390b9d3156e7e598630cfe866/dna-202-tv-pc-W10800/rel/1506v1102.k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ČT 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/%C4%8CT24_logo.png" group-title="CZECH REPUBLIC",ČT 24
-https://ivys-vst14-2.o2tv.cz/af/7f1bedba2eb5f502185e8fa65b13f89f/1616257441868/a6858ae130d556566d065a05763a1f028/dna-2402-tv-pc-W10800/rel/1506v1102.k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ČT Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_Sport_logo_2012.svg/800px-%C4%8CT_Sport_logo_2012.svg.png" group-title="CZECH REPUBLIC",ČT Sport
-https://ivys-vst14-2.o2tv.cz/af/1bd9c0785e65b3407e5ee6e8886fce4c/1616259079744/a17b91290631ccf431cb985dbc073d60a/dna-402-tv-pc-W10800/rel/1506v1102.k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ČT :D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/%C4%8CT-D_logo.svg" group-title="CZECH REPUBLIC",ČT :D
-https://ivys-vst14-2.o2tv.cz/af/f7740de3b31ae73bcb557cf94237ad5f/1616259551573/ad4aab1bfe0f3d6ef9053083204498f27/dna-502-tv-pc-W10800/rel/1506v1102.k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ČT Art" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%C4%8CT_Art_logo.svg/1280px-%C4%8CT_Art_logo.svg.png" group-title="CZECH REPUBLIC",ČT Art
-https://ivys-vst12-2.o2tv.cz/af/cd307895178355257604962d253c302f/1616259977183/af44933ba29cec2a90de0159239ed6da0/dna-602-tv-pc-W10800/rel/1506v1102.k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Elektrika TV" tvg-logo="https://i.imgur.com/rl09RVe.png" group-title="CZECH REPUBLIC",Elektrika TV
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FashionTV Czech&Slovak" tvg-logo="https://i.imgur.com/2sXdYxa.png" group-title="CZECH REPUBLIC",FashionTV Czech&Slovak
