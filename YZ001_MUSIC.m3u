@@ -75,6 +75,8 @@ https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-name="DELUXEMUSIC (DE)" tvg-id="DeLuxeMusic.de" group-title="MUSIC" tvg-logo="https://i.imgur.com/Y9Y2YYx.png",DELUXEMUSIC (DE)
 https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Deutsches Musik Fernsehen (DE)" tvg-logo="https://i.imgur.com/fw5O4PK.png" group-title="MUSIC",Deutsches Musik Fernsehen (DE)
+http://tv.artcom-venture.de:1322/dmf/tv_720.m3u8:
 #EXTINF:-1 tvg-id="" tvg-name="Dibi TV (RO)" tvg-logo="https://i.imgur.com/gnu7LIn.png" group-title="MUSIC",Dibi TV (RO)
 http://82.76.210.127:1935/dibitv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Ditty TV (US)" tvg-id="DittyTV.com" group-title="MUSIC" tvg-logo="https://i.imgur.com/p5rREUo.png",Ditty TV (US)
@@ -125,10 +127,12 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a/
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kiss Kiss Napoli TV (IT)" tvg-logo="https://i.imgur.com/Qawc6g8.jpg" group-title="MUSIC",Kiss Kiss Napoli TV (IT)
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kiss Kiss TV (IT)" tvg-logo="https://i.imgur.com/k9mkIKG.jpg" group-title="MUSIC",Kiss Kiss TV (IT)
-https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kiss Kiss TV (IT)" tvg-logo="https://i.imgur.com/pETXOU7.jpg" group-title="MUSIC",Kiss Kiss TV (IT)
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream_300p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KroneHit TV (AT)" tvg-logo="https://i.imgur.com/tLwBOtU.jpg" group-title="MUSIC",KroneHit TV (AT)
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KurdMax Music (IQ)" tvg-logo="https://i.imgur.com/4kp56qN.jpg" group-title="MUSIC",KurdMax Music (IQ)
+https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La Mega Mundial (ES)" tvg-logo="https://i.imgur.com/LIIWKYT.png" group-title="MUSIC",La Mega Mundial (ES)
 https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
 #EXTINF:-1 tvg-name="Latido Music HD (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/p3n3CZP.jpg",Latido Music HD (BR)
@@ -320,6 +324,8 @@ http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TZiK (FR)" tvg-logo="https://i.imgur.com/6Iw1YRL.png" group-title="MUSIC",TZiK (FR)
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1QEigQ6.jpg" group-title="MUSIC",Unwind (US)
+#EXTINF:-1 tvg-id="" tvg-name="UpperA Balkan TV (AT)" tvg-logo="https://i.imgur.com/bMtY57i.jpg" group-title="MUSIC",UpperA Balkan TV (AT)
+http://89.187.168.245:8080/live/sUPPERchannel2/tracks-v1a1/index.m3u8
 https://fc68583ae7094821b6ab3b44c50c7740.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_plex/3c8fb5fb-b196-45cc-9284-40da26a04a98/5.m3u8
 #EXTINF:-1 tvg-name="V2Beat TV (UK) - github.com/Free-IPTV" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/PXhzoPd.jpg",V2Beat TV (UK) - github.com/Free-IPTV
 https://abr.de1se01.v2beat.live/playlist.m3u8
