@@ -6,7 +6,7 @@ https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.tr
 #EXTINF:-1 tvg-id="" tvg-name="KKR TV" tvg-logo="https://i.imgur.com/9kJz4IJ.png" group-title="DENMARK",KKR TV
 http://stream.kkr.dk/live/ngrp:kkr_adaptive/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KVF" tvg-tvg-logo="https://i.imgur.com/Nb93Skv.jpg" group-title="DENMARK",KVF
-https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
+https://w2.kringvarp.fo/uttanlands/480/manifest.m3u8
 #EXTINF:-1 tvg-name="TV2 Bornholm" tvg-id="TV2bornholm.dk" group-title="DENMARK" tvg-logo="https://i.imgur.com/ylB5ea2.jpg",TV2 Bornholm
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 #EXTINF:-1 tvg-name="TV2 Fyn" tvg-id="TV2fyn.dk" group-title="DENMARK" tvg-logo="https://i.imgur.com/wamEY0w.png",TV2 Fyn
