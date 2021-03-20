@@ -11,6 +11,8 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 http://51.210.199.29/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4 TURK MUSIC (IR)" tvg-logo="https://i.imgur.com/hHv1tSI.png" group-title="MUSIC",4 TURK MUSIC (IR)
 http://51.210.199.30/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="7X Music (IN)" tvg-logo="https://i.imgur.com/eIBkWc9.png" group-title="MUSIC",7X Music (IN)
+http://skystar.livebox.co.in/7xtvChannelhls/7xtv7973090372.m3u8
 #EXTINF:-1 tvg-name="80's Loop (US)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/jxY0QSw.png",80's Loop (US)
 https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="90's Loop (US)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/jxY0QSw.png",90's Loop (US)
@@ -43,6 +45,8 @@ https://1f0e60dbce3043279c491fe51983361d.mediatailor.us-west-2.amazonaws.com/v1/
 https://eb8029576dd74625b1d49e34afc1febb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_plex/932c2e9d-348a-4633-8a43-5e590398fde7/5.m3u8
 #EXTINF:-1 tvg-name="Best Cable Music (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/I0MxUm2.jpg",Best Cable Music (BR)
 https://live.siete.us:19360/bestcablemusic/bestcablemusic.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Biz Music (UZ)" tvg-logo="https://i.imgur.com/dDoqgKo.jpg" group-title="MUSIC",Biz Music (UZ)
+https://st.biztv.uz/hls/m_mid/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Box Hits (UK)" tvg-logo="https://i.imgur.com/Q0Y3sT5.png" group-title="MUSIC",Box Hits (UK)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-name="Canal 38 HD (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/ZTClYwb.jpg",Canal 38 HD (BR)
