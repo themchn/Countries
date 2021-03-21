@@ -19,6 +19,10 @@ https://streamer104.neterra.tv/n1tv/n1tv.smil/playlist.m3u8
 http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fr1SYxZ.png" group-title="BULGARIA",MM TV
 https://streamer103.neterra.tv/mmtv/mmtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nova News" tvg-logo="https://i.imgur.com/F7B6pHf.jpg" group-title="BULGARIA",Nova News
+https://e109-ts.cdn.bg/ntv/fls/NNHD.stream/playlist.m3u8?at=2b9c5997fb03eae680842243f5cd64c5
+#EXTINF:-1 tvg-id="" tvg-name="Nova TV" tvg-logo="https://i.imgur.com/nCqYfVQ.png" group-title="BULGARIA",Nova TV
+https://e6-ts.cdn.bg/ntv-inter/fls/ntv_1.stream/playlist.m3u8?at=2b9c5997fb03eae680842243f5cd64c5
 #EXTINF:-1 tvg-id="" tvg-name="This is Bulgaria" tvg-logo="https://i.imgur.com/FxLjPLh.jpg" group-title="BULGARIA",This is Bulgaria
 https://streamer103.neterra.tv/thisisbulgaria/community.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/7E4Kia6.jpg" group-title="BULGARIA",Travel TV - github.com/Free-IPTV
