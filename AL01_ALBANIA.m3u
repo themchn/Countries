@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** ALBANIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/zc8XdgT.jpg" group-title="ALBANIA",*** ALBANIA - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="*** ALBANIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/gWTuVrE.png" group-title="ALBANIA",*** ALBANIA - github.com/Free-IPTV
 http://
 #EXTINF:-1 tvg-id="" tvg-name="ALB MUSIC"  tvg-logo="https://i.imgur.com/7TWTJfG.png" group-title="ALBANIA",ALB MUSIC
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
