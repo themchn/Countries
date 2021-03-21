@@ -17,20 +17,12 @@ https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist/cze/live_xq.m3u8
 https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist/cze/live_xq.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Polar TV" tvg-logo="https://i.imgur.com/VrtBSPr.png" group-title="CZECH REPUBLIC",Polar TV
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Prima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Prima_2013.png" group-title="CZECH REPUBLIC",Prima
-https://prima-ott-live-sec.ssl.cdn.cra.cz/jJsqbC1DTUHTfX2h6TbvMA==,1616347891/channels/prima_family/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN Prima NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cnn-prima-news-2020.png" group-title="CZECH REPUBLIC",CNN Prima NEWS
 https://prima-ott-live-sec.ssl.cdn.cra.cz/rjMQ7dF4QovAGLrLKkJ5sg==,1616348080/channels/prima_cnn/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Prima Zoom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Prima_ZOOM_logo.svg/640px-Prima_ZOOM_logo.svg.png" group-title="CZECH REPUBLIC",Prima Zoom
-https://prima-ott-live-sec.ssl.cdn.cra.cz/3GF8JW235lZKKGOrOYSrXQ==,1616348213/channels/prima_zoom/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Prima LOVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Prima_Love_logo_2018.png" group-title="CZECH REPUBLIC",Prima LOVE
-https://prima-ott-live-sec.ssl.cdn.cra.cz/Yu84oXhESOVefSGX7IDUmw==,1616348393/channels/prima_love/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Prima Krimi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Prima_Krimi.png" group-title="CZECH REPUBLIC",Prima Krimi
-https://prima-ott-live-sec.ssl.cdn.cra.cz/OiyBxQtRjXe9dfZ01ChyOg==,1616348525/channels/prima_krimi/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Prima Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Prima_Max_logo.svg.png" group-title="CZECH REPUBLIC",Prima Max
-https://prima-ott-live-sec.ssl.cdn.cra.cz/Y8zEwDL6UOA_Csg6QBkdSA==,1616348614/channels/prima_max/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Prima Cool" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Prima_Cool_logo_zelen%C3%A9.png" group-title="CZECH REPUBLIC",Prima Cool
-https://prima-ott-live-sec.ssl.cdn.cra.cz/ULED2f7nr9enKo6y_SMM5Q==,1616348707/channels/prima_cool/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prima Cool" tvg-logo="https://i.imgur.com/utrXpdh.png" group-title="CZECH REPUBLIC",Prima Cool
+http://92.62.234.223/104/mystream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prima Love" tvg-logo="https://i.imgur.com/cLkLCw9.png" group-title="CZECH REPUBLIC",Prima Love
+http://92.62.234.223/101/mystream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retro Music Television" tvg-logo="https://i.imgur.com/csU5Kbg.png" group-title="CZECH REPUBLIC",Retro Music Television
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTM plus" tvg-logo="https://i.imgur.com/tt3A546.jpg" group-title="CZECH REPUBLIC",RTM plus
