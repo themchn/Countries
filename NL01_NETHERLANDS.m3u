@@ -95,5 +95,5 @@ https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
 https://ms7.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KrEBHLw.jpg" group-title="NETHERLANDS",ZO!34
 https://streams.uitzending.tv/zo34/zo34/playlist.m3u8
-#EXTINF:-1 tvg-id="Zuid West TV" tvg-name="Zuid West TV" tvg-shift="0" radio="" tvg-logo="https://www.zuidwesttv.nl/images/zwtv_fb.png" group-title="NETHERLANDS",Zuid West TV 
+#EXTINF:-1 tvg-id="Zuid West TV" tvg-name="Zuid West TV" tvg-logo="https://i.imgur.com/ncpOZ4e.png" group-title="NETHERLANDS",Zuid West TV 
 https://olon.ctl.cdn.ebsd.ericsson.net/L8B/2cc7091a/dc57b750.isml/.m3u8

@@ -3,7 +3,7 @@
 http://
 #EXTINF:-1 tvg-id="" tvg-name="Canal Motor" tvg-logo="https://i.imgur.com/BHm0wem.png" group-title="NORWAY",Canal Motor
 http://digicom.hls.iptvdc.com/canalmotor/pl.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Frikanalen" tvg-logo="" group-title="NORWAY",Frikanalen
+#EXTINF:-1 tvg-id="" tvg-name="Frikanalen" tvg-logo="https://i.imgur.com/lovXUoi.png" group-title="NORWAY",Frikanalen
 https://frikanalen.no/stream/stream_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 10 - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/XZHqsMw.png" group-title="NORWAY",Kanal 10 - github.com/Free-IPTV
 http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8

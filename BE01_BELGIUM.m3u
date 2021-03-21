@@ -3,7 +3,7 @@
 http://
 #EXTINF:-1 tvg-id="" tvg-name="A T V" tvg-logo="https://i.imgur.com/iWXUmje.jpg" group-title="BELGIUM",A T V
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
-#EXTINF:-1 tvg-id="BEL Radio PROS (Webradio)" tvg-name="BEL Radio PROS" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c8/01/37519/1/c175.png" group-title="BELGIUM",BEL Radio PROS (Webradio)
+#EXTINF:-1 tvg-id="BEL Radio PROS (Webradio)" tvg-name="BEL Radio PROS" tvg-logo="https://i.imgur.com/JUeZ4aw.png" group-title="BELGIUM",BEL Radio PROS (Webradio)
 https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.m3u8
 #EXTINF:-1 tvg-id="BEL RTL" tvg-name="BEL RTL" tvg-logo="https://i.ibb.co/VmQ5bzM/5107.jpg" group-title="BELGIUM",BEL RTL
 http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
@@ -23,7 +23,7 @@ https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
 https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
 #EXTINF:-1 tvg-id="een BE" tvg-name="Een" tvg-logo="https://i.imgur.com/hWfo6az.png" group-title="BELGIUM",Een
 https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
-#EXTINF:-1 tvg-id="Fun Radio" tvg-name="Fun Radio (Webradio)" tvg-logo="https://www.funradio.be/wp-content/themes/rise/assets/img/funradio.png" group-title="BELGIUM",Fun Radio (Webradio)
+#EXTINF:-1 tvg-id="Fun Radio" tvg-name="Fun Radio (Webradio)" tvg-logo="https://i.imgur.com/JLH5l3o.png" group-title="BELGIUM",Fun Radio (Webradio)
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
 #EXTINF:-1 tvg-id="Ketnet BE" tvg-name="Ketnet" tvg-logo="https://i.imgur.com/Du0YAJS.png" group-title="BELGIUM",Ketnet
 https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8
@@ -33,17 +33,17 @@ http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
 #EXTINF:-1 tvg-id="MaTele" tvg-name="MaTele" tvg-logo="https://i.ibb.co/m48XZS7/matele.png" group-title="BELGIUM",MaTele
 https://594a365b4a1b2.streamlock.net/matele/live/chunklist_w1413980839.m3u8
-#EXTINF:-1 tvg-id="MNM" tvg-name="MNM (Webradio)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mnm_logo.svg/180px-Mnm_logo.svg.png" group-title="BELGIUM",MNM (Webradio)
+#EXTINF:-1 tvg-id="MNM" tvg-name="MNM (Webradio)" tvg-logo="https://i.imgur.com/jFutfrd.png" group-title="BELGIUM",MNM (Webradio)
 https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
 #EXTINF:-1 tvg-id="NoTele" tvg-name="NoTele" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="BELGIUM",NoTele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Q-Music (Webradio)" tvg-logo="https://i.imgur.com/s0CZjmi.png" group-title="BELGIUM",Q-Music (Webradio)
 https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
-#EXTINF:-1 tvg-id="Radio Contact" tvg-name="Radio Contact (Webradio)" tvg-logo="https://www.radiocontact.be/GED/00110000/118600/118657.png" group-title="BELGIUM",Radio Contact (Webradio)
+#EXTINF:-1 tvg-id="Radio Contact" tvg-name="Radio Contact (Webradio)" tvg-logo="https://i.imgur.com/ciN3kvF.png" group-title="BELGIUM",Radio Contact (Webradio)
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Pros (Webradio)" tvg-logo="https://i.imgur.com/RMjFeGE.png" group-title="BELGIUM",Radio Pros (Webradio)
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYRy2pz.png" group-title="BELGIUM",ROB TV
+#EXTINF:-1 tvg-id="" tvg-name="ROB TV" tvg-logo="https://i.imgur.com/wYRy2pz.png" group-title="BELGIUM",ROB TV
 http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
 #EXTINF:-1 tvg-id="RTL TVI" tvg-name="RTL TVI" tvg-logo="https://i.imgur.com/yjtxdmh.png" group-title="BELGIUM",RTL TVI
 http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
