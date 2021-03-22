@@ -1,20 +1,36 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="*** ALBANIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/gWTuVrE.png" group-title="ALBANIA",*** ALBANIA - github.com/Free-IPTV
 http://
-#EXTINF:-1 tvg-id="" tvg-name="ALB MUSIC"  tvg-logo="https://i.imgur.com/7TWTJfG.png" group-title="ALBANIA",ALB MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="https://i.imgur.com/XfBb8Pj.png" group-title="ALBANIA",ABC News
+http://51.195.88.12:4050/live/abcnewsmob/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALB MUSIC" tvg-logo="https://i.imgur.com/7TWTJfG.png" group-title="ALBANIA",ALB MUSIC
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALBUK TV"  tvg-logo="https://i.imgur.com/juC4lkA.jpg" group-title="ALBANIA",ALBUK TV
+#EXTINF:-1 tvg-id="" tvg-name="ALBUK TV" tvg-logo="https://i.imgur.com/juC4lkA.jpg" group-title="ALBANIA",ALBUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALPO" tvg-logo="https://i.imgur.com/00hiXCL.png" group-title="ALBANIA",ALPO
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apollon"  tvg-logo="https://i.imgur.com/RTZKRUV.jpg" group-title="ALBANIA",Apollon
+#EXTINF:-1 tvg-id="" tvg-name="Apollon" tvg-logo="https://i.imgur.com/RTZKRUV.jpg" group-title="ALBANIA",Apollon
 http://185.80.224.14:99/Apollon-WEB/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATD USA" tvg-logo="https://i.imgur.com/qZtN1WI.jpg" group-title="ALBANIA",ATD USA
+http://46.99.146.236/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBF Music TV" tvg-logo="https://i.imgur.com/IPaY8cY.png" group-title="ALBANIA",BBF Music TV
 http://79.106.48.2:4040/live/bbfottpp1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Drita TV" tvg-logo="https://i.imgur.com/N4WAwFh.png" group-title="ALBANIA",Drita TV
+https://framtetv.online/DRITATV-webstreamlive44/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUROAL" tvg-logo="https://i.imgur.com/qLaEmIT.png" group-title="ALBANIA",EUROAL
 http://5.135.92.131:1935/live/euroAl/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews Albania" tvg-logo="https://i.imgur.com/hTBah1z.jpg" group-title="ALBANIA",Euronews Albania
+http://51.195.88.12:4050/live/euronewsmobpp2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN TV" tvg-logo="https://i.imgur.com/qqi80Zx.png" group-title="ALBANIA",IN TV
 http://79.106.48.2:4040/live/intvpp1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KLAN" tvg-logo="https://i.imgur.com/pWoMc0r.png" group-title="ALBANIA",KLAN
+http://79.106.73.244:4040/live/klanhdmob/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KLAN Music" tvg-logo="https://i.imgur.com/gs7WFyI.png" group-title="ALBANIA",KLAN Music
+http://79.106.48.2:4040/live/klanmusicmob/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KLAN News" tvg-logo="https://i.imgur.com/NMtr8Z4.jpg" group-title="ALBANIA",KLAN News
+http://51.195.88.12:4050/live/klannewsmobpp3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KLAN Plus" tvg-logo="https://i.imgur.com/xg23eK4.jpg" group-title="ALBANIA",KLAN Plus
+http://51.195.88.12:4050/live/klanplusmobpp3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MCN" tvg-logo="https://i.imgur.com/QY38LbJ.png" group-title="ALBANIA",MCN
 http://79.106.48.2:4040/live/mcnpp1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 24 Albania" tvg-logo="https://i.imgur.com/ctEpu0b.png" group-title="ALBANIA",NEWS 24 Albania
@@ -27,12 +43,24 @@ https://tv.oranews.tv/live/oranews/index.m3u8
 https://tv.oranews.tv/live/ora/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Peace TV" tvg-logo="https://i.imgur.com/lP4HZL0.png" group-title="ALBANIA",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premium TV" tvg-logo="https://i.imgur.com/XLeth50.jpg" group-title="ALBANIA",Premium TV
+http://premium-channel.tv:88/live/kali.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Report TV" tvg-logo="https://i.imgur.com/Ac4Hfui.jpg" group-title="ALBANIA",Report TV
+http://51.195.88.12:4050/live/reportmobpp3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTK 1" tvg-logo="https://i.imgur.com/HyyO4Qw.png" group-title="ALBANIA",RTK 1
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTK 2" tvg-logo="https://i.imgur.com/QZSxxH9.png" group-title="ALBANIA",RTK 2
+http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTK 3" tvg-logo="https://i.imgur.com/Jaep9ly.png" group-title="ALBANIA",RTK 3
+http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTK 4" tvg-logo="https://i.imgur.com/mEsYfFv.png" group-title="ALBANIA",RTK 4
+http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH 1" tvg-logo="https://i.imgur.com/hNxtuJu.png" group-title="ALBANIA",RTSH 1
 http://edge01eu.ekranet.com/rtshhd_low/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH 2" tvg-logo="https://i.imgur.com/2hKfbpy.png" group-title="ALBANIA",RTSH 2
 http://edge01eu.ekranet.com/rtsh2hd1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 24" tvg-logo="https://i.imgur.com/66xEHM3.png" group-title="ALBANIA",RTSH 24
+https://tvlive.rtsh.dev/live/rtsh_24_ott_p3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH 3" tvg-logo="https://i.imgur.com/uYVw4JJ.png" group-title="ALBANIA",RTSH 3
 http://edge01eu.ekranet.com/rtsh3hd1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Film" tvg-logo="https://i.imgur.com/ZN5Nyx5.png" group-title="ALBANIA",RTSH Film
@@ -53,12 +81,14 @@ https://tvlive.rtsh.dev/live/rtsh_plus_ott_p1/playlist.m3u8
 https://tvlive.rtsh.dev/live/rtsh_shqip_ott_p2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Sport" tvg-logo="https://i.imgur.com/o6O1WTo.png" group-title="ALBANIA",RTSH Sport
 https://tvlive.rtsh.dev/live/sport_mob_ppp2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV Dukagjini"  tvg-logo="https://i.imgur.com/guTYOSD.png" group-title="ALBANIA",RTV Dukagjini
-https://thanos.gjirafa.com/live/DpTlD159VIIRWtzFOvUI70nftnyosgUE/ygqkzt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV Dukagjini" tvg-logo="https://i.imgur.com/guTYOSD.png" group-title="ALBANIA",RTV Dukagjini
+https://jaguar.gjirafa.com/live/dCynrjRK8sEsrYu0zDtDg8l4KaXbFpXl/ygqkzt480/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV Ilirida" tvg-logo="https://i.imgur.com/YCSyNmj.png" group-title="ALBANIA",RTV Ilirida
 http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCAN TV" tvg-logo="https://i.imgur.com/Y2hdXVt.png" group-title="ALBANIA",SCAN TV
 http://edge01eu.ekranet.com/scantv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SYRI TV" tvg-logo="https://i.imgur.com/cjgfqxP.jpg" group-title="ALBANIA",SYRI TV
+http://51.195.88.12:4050/live/syritvmob/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 7" tvg-logo="https://i.imgur.com/88NYxNV.png" group-title="ALBANIA",TV 7
 http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Dielli" tvg-logo="https://i.imgur.com/XQkIM5j.jpg" group-title="ALBANIA",TV Dielli

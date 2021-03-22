@@ -81,8 +81,6 @@ https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LCI" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="FRANCE",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-name="LEEEKO TV" tvg-id="" tvg-logo="https://i.imgur.com/3qPONzi.jpg" group-title="FRANCE",LEEEKO TV
-http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Luxe TV" tvg-logo="https://i.imgur.com/8tWhfap.png" group-title="FRANCE",Luxe TV
 https://alchimie-luxe-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MDL" tvg-logo="https://i.imgur.com/QjjVd1M.jpg" group-title="FRANCE",MDL
@@ -149,6 +147,8 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plus
 plugin://plugin.video.youtube/play/?video_id=t6wgCy7kwPU
 #EXTINF:-1 tvg-id="" tvg-name="TV7 Colmar" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="FRANCE",TV7 Colmar
 https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV78" tvg-logo="https://i.imgur.com/exg3R3y.png" group-title="FRANCE",TV78
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVPI" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="FRANCE",TVPI
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVR - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/d8k69pg.png" group-title="FRANCE",TVR - github.com/Free-IPTV
@@ -157,3 +157,5 @@ https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="viaMirabelle" tvg-logo="https://i.imgur.com/YXUMEbi.png" group-title="FRANCE",viaMirabelle
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="https://i.imgur.com/RUwN62I.jpg" group-title="FRANCE",W9
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/05.m3u8
