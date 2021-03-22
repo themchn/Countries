@@ -75,6 +75,8 @@ http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
 https://stream9.xdevel.com/video0s975363-691/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="DanceTrippin (US) " tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",DanceTrippin (US)
 https://10999-2.b.cdn13.com/live/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DBM (FR)" tvg-logo="https://i.imgur.com/KOlCUJ9.jpg" group-title="MUSIC",DBM (FR)
+https://edge6.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Deejay TV (IT)" tvg-logo="https://i.imgur.com/0XHqGSb.png" group-title="MUSIC",Deejay TV (IT)
 https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 #EXTINF:-1 tvg-name="DeepHouse District (US)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",DeepHouse District (US)
