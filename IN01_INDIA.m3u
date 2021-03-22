@@ -53,7 +53,7 @@ https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNBC TV18" tvg-logo="https://i.imgur.com/NudUR3c.png" group-title="INDIA",CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN NEWS" tvg-logo="blob:https://imgur.com/59ff0fb4-7614-4d92-864d-d37463a5dbc0" group-title="INDIA",CNN NEWS
+#EXTINF:-1 tvg-id="" tvg-name="CNN NEWS" tvg-logo="https://i.imgur.com/35B3PzD.png" group-title="INDIA",CNN NEWS
 https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD Malayalam" tvg-logo="https://i.imgur.com/8tLwiRX.jpg" group-title="INDIA",DD Malayalam
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
