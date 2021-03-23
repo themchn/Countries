@@ -23,6 +23,10 @@ https://secondradio.de:7070/ostrock?nc=1613902505298
 https://webstream.schlagerparadies.de/schlagerparadies128k.mp3
 #EXTINF:-1 tvg-name="Rock Antenne" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/eZKNvkT.png",Rock Antenne
 https://stream.rockantenne.de/rockantenne/stream/mp3
+#EXTINF:-1 tvg-name="****** ALBANIA ******" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/gWTuVrE.png",****** ALBANIA ******
+https://
+#EXTINF:-1 tvg-name="TOP GOLD" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/MN7jL8S.jpg",TOP GOLD
+https://live.topgold.al/topgold
 #EXTINF:-1 tvg-name="****** USA ******" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/FDdeKor.png",****** USA ******
 https://
 #EXTINF:-1 tvg-name="Fun Radio 92.7 Alabama" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/uHm1KSm.png",Fun Radio 92.7 Alabama

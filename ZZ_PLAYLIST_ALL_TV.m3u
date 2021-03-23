@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="GERMANY (Partly GEO-Blocked outside DE) github.com/Free-IPTV" group-title="GERMANY" tvg-logo="https://i.imgur.com/xku2oyd.png",GERMANY (Partly GEO-Blocked outside DE) - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" tvg-logo="http://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/black/84x48.png" group-title="GERMANY",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" tvg-logo="http://logos.zattic.com/images/channels/logos/42a29350387ee5fda8fe/black/84x48.png" group-title="GERMANY",ZDF HD
@@ -76,7 +76,7 @@ https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.de" group-title="GERMANY" tvg-logo="https://i.imgur.com/yka7yJm.png",Nickelodeon
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
 #EXTINF:-1 tvg-name="*** GERMANY SG TV PLUS - github.com/Free-IPTV" group-title="GERMANY SG TV PLUS" tvg-logo="https://i.imgur.com/xku2oyd.png",*** GERMANY SG TV PLUS - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Action Movies DE" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="GERMANY SG TV PLUS",Action Movies DE
 https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Action Movies AT" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="GERMANY SG TV PLUS",Action Movies AT
@@ -200,7 +200,7 @@ https://younghollywood-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZooMoo (EU)" tvg-logo="https://i.imgur.com/85LA7Zm.png" group-title="GERMANY SG TV PLUS",ZooMoo (EU)
 https://rockentertainment-zoomoo-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="*** PLUTO Germany - github.com/Free-IPTV" group-title="GERMANY PLUTO" tvg-logo="https://i.imgur.com/xku2oyd.png",*** PLUTO Germany - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="5ede45d077746000072be0fe" group-title="GERMANY PLUTO" tvg-name="Auction Hunters" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png" ,Auction Hunters
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede45d077746000072be0fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5d767ae7b456c8cf265ce922" group-title="GERMANY PLUTO" tvg-name="Animals" tvg-logo="https://images.pluto.tv/channels/5d767ae7b456c8cf265ce922/colorLogoPNG.png" ,Animals
@@ -294,7 +294,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1efdbf9
 #EXTINF:-1 tvg-id="5e8b5e43f294f8000793c3d7" group-title="GERMANY PLUTO" tvg-name="Victorious" tvg-logo="https://images.pluto.tv/channels/5e8b5e43f294f8000793c3d7/colorLogoPNG.png",Victorious
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="*** Pluto DE Sport - github.com/Free-IPTV" group-title="GERMANY PLUTO" tvg-logo="https://i.imgur.com/xku2oyd.png",*** Pluto DE Sport - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="5be1be871843b56328bc3ef1" group-title="GERMANY PLUTO" tvg-name="Action Sports" tvg-logo="https://images.pluto.tv/channels/5be1be871843b56328bc3ef1/colorLogoPNG.png" ,Action Sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5f760c3d41aa2d0007bfde19" group-title="GERMANY PLUTO" tvg-name="Auto Motor Sport" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" ,Auto Motor Sport
@@ -322,7 +322,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2a961b
 #EXTINF:-1 tvg-id="5ad9b7aae738977e2c312132" group-title="GERMANY PLUTO" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/5ad9b7aae738977e2c312132/colorLogoPNG.png" ,World Poker Tour
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="*** Pluto DE MTV Channels - github.com/Free-IPTV" group-title="GERMANY PLUTO" tvg-logo="https://i.imgur.com/xku2oyd.png",*** Pluto DE MTV Channels - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="5f984784ccb4de0007dfad74" group-title="GERMANY PLUTO" tvg-name="Clubbing TV" tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png" ,Clubbing TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5db6a697d5f34a000934cd13" group-title="GERMANY PLUTO" tvg-name="MTV Catfish" tvg-logo="https://images.pluto.tv/channels/5db6a697d5f34a000934cd13/colorLogoPNG.png" ,MTV Catfish
@@ -344,7 +344,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5caf32c2a
 #EXTINF:-1 tvg-id="5f98471110cca20007d39f76" group-title="GERMANY PLUTO" tvg-name="MTV Unplugged" tvg-logo="https://images.pluto.tv/channels/5f98471110cca20007d39f76/colorLogoPNG.png" ,MTV Unplugged
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="*** Pluto DE KIDS - github.com/Free-IPTV" group-title="GERMANY PLUTO" tvg-logo="https://i.imgur.com/xku2oyd.png",*** Pluto DE KIDS - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="600adbdf8c554e00072125c9" group-title="GERMANY PLUTO" tvg-name="Avatar" tvg-logo="https://images.pluto.tv/channels/600adbdf8c554e00072125c9/colorLogoPNG.png" ,Avatar
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600adbdf8c554e00072125c9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5e8b551ddcd25500072c4dad" group-title="GERMANY PLUTO" tvg-name="Beyblade Burst nick" tvg-logo="https://images.pluto.tv/channels/5e8b551ddcd25500072c4dad/colorLogoPNG.png" ,Beyblade Burst nick
@@ -384,7 +384,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b8
 #EXTINF:-1 tvg-id="5f0d668b872e4400073acc68" group-title="GERMANY PLUTO" tvg-name="Totally Turtles nick" tvg-logo="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png" ,Totally Turtles nick
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="*** GERMANY Etc. - github.com/Free-IPTV" group-title="GERMANY Etc" tvg-logo="https://i.imgur.com/xku2oyd.png",*** GERMANY Etc. - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name=Deutsche Welle English tvg-id="DeutscheWelleDE.de" group-title="GERMANY Etc" tvg-logo="https://i.imgur.com/PXxEUkz.png",Deutsche Welle English
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-name="Health.TV" tvg-id="" tvg-logo="https://i.imgur.com/3rzr3zm.png" group-title="GERMANY Etc",Health.TV
@@ -396,7 +396,7 @@ https://5ce9406b73c33.streamlock.net/SudTirolTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Tesas TV - github.com/Free-IPTV" tvg-id="" tvg-logo="https://i.imgur.com/xEGCX1f.png" group-title="GERMANY Etc",Tesas TV - github.com/Free-IPTV
 https://jola.live:16200/tesastv.m3u8
 #EXTINF:-1 tvg-name="*** GERMANY LOCAL - github.com/Free-IPTV" group-title="GERMANY LOCAL" tvg-logo="https://i.imgur.com/xku2oyd.png",*** GERMANY LOCAL - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="Alex Berlin" tvg-id="" group-title="GERMANY LOCAL" tvg-logo="https://i.imgur.com/eTmHk4e.png",Alex Berlin
 https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="allgäu.tv Kempten" tvg-id="allgäu.tv" group-title="GERMANY LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png",allgäu.tv Kempten
@@ -594,7 +594,7 @@ https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
 #EXTINF:-1 tvg-name="Parlamentsfernsehen 2" tvg-id="" group-title="GERMANY LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png",Parlamentsfernsehen 2
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
 #EXTINF:-1 tvg-name="*** AUSTRIA - github.com/Free-IPTV" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/RqwwAU5.png",*** AUSTRIA - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="Antenne Vorarlberg (Webradio)" tvg-id="" tvg-logo="https://i.imgur.com/TpBbZwq.png" group-title="AUSTRIA",Antenne Vorarlberg (Webradio)
 http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="dorf tv" tvg-id="" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/4xOAHTJ.png",dorf tv
@@ -628,7 +628,7 @@ http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
 #EXTINF:-1 tvg-name="W24 TV" tvg-id="w24.at" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/xZ0lI0U.png",W24 TV
 https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w89103916_b2176000_slger.m3u8
 #EXTINF:-1 tvg-name="*** RK AUSTRIA - github.com/Free-IPTV" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/7krfGOy.jpg",*** RK AUSTRIA - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Action Movies - AT" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="AUSTRIA",Action Movies - AT
 https://rakuten-actionmovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Movies - AT" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="AUSTRIA",Comedy Movies - AT
@@ -642,7 +642,7 @@ https://rakuten-family-5-at.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Spotlight - AT" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="AUSTRIA",Spotlight - AT
 https://rakuten-spotlight-5-at.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="*** SWITZERLAND - github.com/Free-IPTV" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/eqVr8td.jpg",*** SWITZERLAND - github.com/Free-IPTV
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index-s32.m3u8
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="Canal 9" tvg-id="Kanal9.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/nQVDOVb.png",Canal 9
 https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
 #EXTINF:-1 tvg-id="CanalAlphaJU.ch" tvg-name="Canal Alpha Jura" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="SWITZERLAND",Canal Alpha Jura
@@ -700,7 +700,7 @@ http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-name="TVO (CH)" tvg-id="TVO.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/gbX8z28.png",TVO (CH)
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-name="*** RK CH - github.com/Free-IPTV" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/7krfGOy.jpg",*** RK CH - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Action Movies - CH" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="SWITZERLAND",Action Movies - CH
 https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Movies - CH" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="SWITZERLAND",Comedy Movies - CH
@@ -714,11 +714,11 @@ https://rakuten-family-4-ch.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Spotlight - CH" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="SWITZERLAND",Spotlight - CH
 https://rakuten-spotlight-4-ch.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="*** LIECHTENSTEIN - github.com/Free-IPTV" group-title="LIECHTENSTEIN" tvg-logo="https://i.imgur.com/Cs6U2K4.png",*** LIECHTENSTEIN - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="Kommu TV" tvg-id="KommuTV.li" group-title="LIECHTENSTEIN" tvg-logo="https://i.imgur.com/hNA8pC9.png",Kommu TV
 http://31.10.19.12:8066/live/999/0.m3u8
 #EXTINF:-1 tvg-name="*** USA - github.com/Free-IPTV" group-title="USA" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="30A TV" tvg-logo="https://i.imgur.com/SHEJFbx.png" group-title="USA",30A TV
 https://30a-tv.com/my999.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="30A TV MUSIC" tvg-logo="https://i.imgur.com/SHEJFbx.png" group-title="USA",30A TV MUSIC
@@ -1096,7 +1096,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="https://i.imgur.com/85LA7Zm.png" group-title="USA",ZooMoo
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="***USA Local TV - github.com/Free-IPTV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA Local TV - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5MfhbGP.png" group-title="USA LOCAL",7News - Boston
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Akaku 53 (Hawaii)" tvg-logo="https://i.imgur.com/y7qpxAT.jpg" group-title="USA LOCAL",Akaku 53 (Hawaii)
@@ -1246,13 +1246,13 @@ http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="WSVN FOX 7 (Florida)" tvg-logo="https://i.imgur.com/zQlK5ux.png" group-title="USA LOCAL",WSVN FOX 7 (Florida)
 https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8
 #EXTINF:-1 tvg-name="*** USA GALXY TV - github.com/Free-IPTV" group-title="USA GALXY TV" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA GALXY TV - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Galxy TV" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="USA GALXY TV",Galxy TV
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Watch it Kid" tvg-logo="https://i.imgur.com/DAhbkLv.png" group-title="USA GALXY TV",Watch it Kid
 https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
 #EXTINF:-1 tvg-name="*** USA DISTRO - github.com/Free-IPTV" group-title="USA DISTRO" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA DISTRO - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d8mJYu0.png" group-title="USA DISTRO",Bollywood TV
 https://a.jsrdn.com/broadcast/d5b45/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BPS22GM.png" group-title="USA DISTRO",Brit Asia Live (US Eastern)
@@ -1320,7 +1320,7 @@ https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oitvOug.png" group-title="USA DISTRO",World Of Free Sports TV
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 #EXTINF:-1 tvg-name="*** USA MYTVTOGO - github.com/Free-IPTV" group-title="USA MYTVTOGO" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA MYTVTOGO - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="Action Sports 4U" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="https://i.imgur.com/K2XHhWW.png",Action Sports 4U
 https://nimble.dashstreams.net/onestudio/actionsportstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmSyxeP.png" group-title="USA MYTVTOGO",American Classic TV
@@ -1346,7 +1346,7 @@ https://nimble.dashstreams.net/onestudio/myoktv/playlist.m3u8
 #EXTINF:-1 tvg-name="Network - Planet Cannabis Shopping - github.com/Free-IPTV" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="https://i.imgur.com/ZAnZFKx.png",Network - Planet Cannabis Shopping - github.com/Free-IPTV
 https://nimble.dashstreams.net/onestudio/planetshopping/playlist.m3u8
 #EXTINF:-1 tvg-name="*** PLUTO USA - github.com/Free-IPTV" group-title="USA PLUTO" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** PLUTO USA - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="70s Cinema" tvg-logo="http://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="USA PLUTO",70s Cinema
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="80s Rewind" tvg-logo="http://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" group-title="USA PLUTO",80s Rewind
@@ -1904,7 +1904,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fc312
 #EXTINF:-1 tvg-name="Yu-Gi-Oh" tvg-logo="http://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="USA PLUTO",Yu-Gi-Oh
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="*** USA REDBOX - github.com/Free-IPTV" group-title="USA REDBOX" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA REDBOX - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJGaOdW.png" group-title="USA REDBOX",American Classics
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/OjBnAUM.png" group-title="USA REDBOX",The Asylum
@@ -1988,7 +1988,7 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/RJUkEen.png" group-title="USA REDBOX",Toon Goggles (Redbox)
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="*** USA ROKU - github.com/Free-IPTV" group-title="USA ROKU" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA ROKU - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="USA ROKU",A+E Crime 360
 https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/HoiEo8f.png" group-title="USA ROKU",Cine Romántico
@@ -2058,7 +2058,7 @@ https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="USA ROKU",Wipeout Xtra
 https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="*** USA STIRR - github.com/Free-IPTV" group-title="USA STIRR" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA  STIRR - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="2020 Live" tvg-name="2020 Live" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/e155b2ff-61dc-44c2-9d2a-26b0f69ebc5b-small3x1_stirr_0120_epg_2020LIVE_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",2020 Live
 https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
 #EXTINF:-1 tvg-id="21 Jump Street" tvg-name="21 Jump Street" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/fff115ea-8e29-48e9-b8bc-42c97e53a29f-small3x1_stirr_1219_epg_21jumpstreet_1920x1080_v2.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",21 Jump Street
@@ -2296,7 +2296,7 @@ https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
 #EXTINF:-1 tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b0bcc7de-1b66-4bb0-aaba-f6b124b6446e-small3x1_STIRR_Logo_0520_WorldPokerTour_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",World Poker Tour
 https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
 #EXTINF:-1 tvg-name="*** USA STiRR Cities - github.com/Free-IPTV" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA STiRR Cities - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Stirr City National
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Alabama: Birmingham
@@ -2498,7 +2498,7 @@ https://dai.google.com/linear/hls/event/a6lsWNYDQwyM9fjytUCrcw/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Wisconsin: Milwaukee
 https://dai.google.com/linear/hls/event/jWaxnXHPQjGX1yTxuFxpuw/master.m3u8
 #EXTINF:-1 tvg-name="*** USA TVS - github.com/Free-IPTV" group-title="USA TVS" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA TVS  - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Boxing Network
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Classic Movies
@@ -2558,7 +2558,7 @@ http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Women´s Sports Network
 https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-name="*** USA FILMRISE - github.com/Free-IPTV" group-title="USA FILMRISE"  tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA FILMRISE - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="Filmrise Classics" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71te2lAHq5L._SY355_.png" group-title="USA FILMRISE",Filmrise Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
 #EXTINF:-1 tvg-name="Filmrise Family" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L._SY355_.png" group-title="USA FILMRISE",Filmrise Family
@@ -2572,7 +2572,7 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/
 #EXTINF:-1 tvg-name="FilmRise Sci-Fi" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="USA FILMRISE",FilmRise Sci-Fi
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
 #EXTINF:-1 tvg-name="*** USA BUMBLEBEE - github.com/Free-IPTV" group-title="USA Bumblebee" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA BUMBLEBEE - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="Animals Live" tvg-logo="https://i.imgur.com/mJZHoUj.png" group-title="USA Bumblebee",Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 #EXTINF:-1 tvg-name="Aurora Live" tvg-logo="https://i.imgur.com/vNrFKse.png" group-title="USA Bumblebee",Aurora Live
@@ -2666,7 +2666,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2267fd5eeee0f5a4094c0/
 #EXTINF:-1 tvg-name="Waterfalls Live" tvg-logo="https://i.imgur.com/b0jl5EG.png" group-title="USA Bumblebee",Waterfalls Live
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
 #EXTINF:-1 tvg-name="*** USA UDU TV - github.com/Free-IPTV" group-title="USA UDU" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA UDU TV - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="Action" tvg-logo="https://i.imgur.com/tZgazoF.png" group-title="USA UDU", Action
 https://5c8eaf7647284895b269fd13a40d410c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89af95de69db1f20935d98/playlist.m3u8
 #EXTINF:-1 tvg-name="Comedy" tvg-logo="https://i.imgur.com/cSVlBb0.png" group-title="USA UDU", Comedy
@@ -2682,7 +2682,7 @@ https://7f6c646754a74e90b9afad0ed13b1e32.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-name="Thriller" tvg-logo="https://i.imgur.com/rDY2LWP.png" group-title="USA UDU", Thriller
 https://d57cdb1c61b14a8da311d2c9d4513546.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89ae7966822c1f43b457fe/playlist.m3u8
 #EXTINF:-1 tvg-name="*** USA AMC - github.com/Free-IPTV" group-title="USA AMC" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA AMC - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="AMC Absolute Reality" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="USA AMC",AMC Absolute Reality
 https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="AMC IFC Film Picks" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="USA AMC",AMC IFC Film Picks
@@ -2694,7 +2694,7 @@ https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="AMC Slightly off" tvg-logo="" group-title="USA AMC",AMC Slightly off
 https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="*** USA GINIKO - github.com/Free-IPTV" group-title="USA GINIKO" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA GINIKO - github.com/Free-IPTV
-https://nrpus.bozztv.com/36bay2/gusa-alright/index.m3u8
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="Alright TV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA GINIKO",Alright TV
 https://nrpus.bozztv.com/36bay2/gusa-alright/index.m3u8
 #EXTINF:-1 tvg-name="Answers That Count" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA GINIKO",Answers That Count
@@ -5672,17 +5672,23 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1  tvg-name="ZOUGLA TV" tvg-logo="https://i.imgur.com/AmW9d6H.jpg" group-title="GREECE",ZOUGLA TV
 https://zouglalive-lh.akamaihd.net/i/zouglalive_1@340792/master.m3u8
 #EXTINF:-1 tvg-name="*** ALBANIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/gWTuVrE.png" group-title="ALBANIA",*** ALBANIA - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="https://i.imgur.com/XfBb8Pj.png" group-title="ALBANIA",ABC News
 http://51.195.88.12:4050/live/abcnewsmob/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALB MUSIC" tvg-logo="https://i.imgur.com/7TWTJfG.png" group-title="ALBANIA",ALB MUSIC
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALB Swiss" tvg-logo="https://i.imgur.com/vCQovgl.jpg" group-title="ALBANIA",ALB Swiss
+http://62.210.188.65:8181/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALBDREAMS TV" tvg-logo="https://i.imgur.com/3hGevWa.png" group-title="ALBANIA",ALBDREAMS TV
+http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALBUK TV" tvg-logo="https://i.imgur.com/juC4lkA.jpg" group-title="ALBANIA",ALBUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALPO" tvg-logo="https://i.imgur.com/00hiXCL.png" group-title="ALBANIA",ALPO
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Apollon" tvg-logo="https://i.imgur.com/RTZKRUV.jpg" group-title="ALBANIA",Apollon
 http://185.80.224.14:99/Apollon-WEB/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ART Media" tvg-logo="https://i.imgur.com/VkVwXci.png" group-title="ALBANIA",ART Media
+http://artiptv.xyz:8080/hls/artmedia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATD USA" tvg-logo="https://i.imgur.com/qZtN1WI.jpg" group-title="ALBANIA",ATD USA
 http://46.99.146.236/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBF Music TV" tvg-logo="https://i.imgur.com/IPaY8cY.png" group-title="ALBANIA",BBF Music TV
@@ -5705,6 +5711,8 @@ http://51.195.88.12:4050/live/klannewsmobpp3/playlist.m3u8
 http://51.195.88.12:4050/live/klanplusmobpp3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MCN" tvg-logo="https://i.imgur.com/QY38LbJ.png" group-title="ALBANIA",MCN
 http://79.106.48.2:4040/live/mcnpp1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Neser TV" tvg-logo="https://i.imgur.com/mpkrwBx.png" group-title="ALBANIA",Neser TV
+https://nesertv.live/ntv/livesream/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 24 Albania" tvg-logo="https://i.imgur.com/ctEpu0b.png" group-title="ALBANIA",NEWS 24 Albania
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Opoja TV"  tvg-logo="https://i.imgur.com/De7sZf6.jpg" group-title="ALBANIA",Opoja TV
@@ -5753,8 +5761,6 @@ https://tvlive.rtsh.dev/live/rtsh_plus_ott_p1/playlist.m3u8
 https://tvlive.rtsh.dev/live/rtsh_shqip_ott_p2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Sport" tvg-logo="https://i.imgur.com/o6O1WTo.png" group-title="ALBANIA",RTSH Sport
 https://tvlive.rtsh.dev/live/sport_mob_ppp2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV Dukagjini" tvg-logo="https://i.imgur.com/guTYOSD.png" group-title="ALBANIA",RTV Dukagjini
-https://jaguar.gjirafa.com/live/dCynrjRK8sEsrYu0zDtDg8l4KaXbFpXl/ygqkzt480/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV Ilirida" tvg-logo="https://i.imgur.com/YCSyNmj.png" group-title="ALBANIA",RTV Ilirida
 http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCAN TV" tvg-logo="https://i.imgur.com/Y2hdXVt.png" group-title="ALBANIA",SCAN TV
@@ -5765,10 +5771,12 @@ http://51.195.88.12:4050/live/syritvmob/playlist.m3u8
 http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Dielli" tvg-logo="https://i.imgur.com/XQkIM5j.jpg" group-title="ALBANIA",TV Dielli
 http://51.15.180.159:8081/play/hls/dielli/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Johaniter" tvg-logo="https://i.imgur.com/CcPBKet.png" group-title="ALBANIA",TV Johaniter
+https://framtetv.online/tvjohaniter/web225/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zjarr TV" tvg-logo="https://i.imgur.com/NBTUV4w.jpg" group-title="ALBANIA",Zjarr TV
 http://edge01eu.ekranet.com/zjarrtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="*** FRANCE - github.com/Free-IPTV" group-title="FRANCE" tvg-logo="https://i.imgur.com/OPau00Q.png",*** FRANCE - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A2i TV" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="FRANCE",A2i TV
 https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A2i Music" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="FRANCE",A2i Music
@@ -7293,6 +7301,10 @@ https://secondradio.de:7070/ostrock?nc=1613902505298
 https://webstream.schlagerparadies.de/schlagerparadies128k.mp3
 #EXTINF:-1 tvg-name="Rock Antenne" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/eZKNvkT.png",Rock Antenne
 https://stream.rockantenne.de/rockantenne/stream/mp3
+#EXTINF:-1 tvg-name="****** ALBANIA ******" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/gWTuVrE.png",****** ALBANIA ******
+https://
+#EXTINF:-1 tvg-name="TOP GOLD" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/MN7jL8S.jpg",TOP GOLD
+https://live.topgold.al/topgold
 #EXTINF:-1 tvg-name="****** USA ******" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/FDdeKor.png",****** USA ******
 https://
 #EXTINF:-1 tvg-name="Fun Radio 92.7 Alabama" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/uHm1KSm.png",Fun Radio 92.7 Alabama
