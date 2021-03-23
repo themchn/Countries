@@ -197,23 +197,27 @@ https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC + (HU)" tvg-logo="https://i.imgur.com/yKJmkNk.png" group-title="MUSIC",MUSIC + (HU)
 http://s02.diazol.hu:10192/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik AMVA 2020 Serbia (RS)" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik AMVA 2020 Serbia (RS)
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik AMVA 2020 (RS)" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik AMVA 2020 (RS)
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik Cafe&Club Serbia (RS)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/yRgMvpz.png",Muzzik Cafe&Club Serbia (RS)
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Cafe&Club (RS)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/yRgMvpz.png",Muzzik Cafe&Club (RS)
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik Gen Z Serbia (RS)" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik Gen Z Serbia (RS)
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Gen Z (RS)" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik Gen Z (RS)
 https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik HipHop Serbia (RS)" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik HipHop Serbia (RS)
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik HipHop (RS)" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik HipHop (RS)
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik Mediteraneo Serbia (RS)" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik Mediteraneo Serbia (RS)
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Jeka (RS)" tvg-logo="https://i.imgur.com/T4krOKH.jpg" group-title="MUSIC",Muzzik Jeka (RS)
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Mediteraneo (RS)" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik Mediteraneo (RS)
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik OKK Serbia (RS)" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik OKK Serbia (RS)
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik OKK (RS)" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik OKK (RS)
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik Rock&Roll Serbia (RS)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/yRgMvpz.png",Muzzik Rock&Roll Serbia (RS)
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Replay (RS)" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik Replay (RS)
+https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Rock&Roll (RS)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/yRgMvpz.png",Muzzik Rock&Roll (RS)
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik TV Serbia (RS)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/yRgMvpz.png",Muzzik TV Serbia (RS)
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik TV (RS)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/yRgMvpz.png",Muzzik TV (RS)
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik Worldwide Serbia (RS)" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik Worldwide Serbia (RS)
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Worldwide (RS)" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik Worldwide (RS)
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 tvg-name="MY RADIO TV (GR)" tvg-id="" tvg-logo="https://my-radio.gr/img/logo3.png" group-title="MUSIC",MY RADIO TV (GR)
 https://vdo.alphaserver.gr:3305/stream/play.m3u8
