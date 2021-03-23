@@ -1,16 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="*** ALBANIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/gWTuVrE.png" group-title="ALBANIA",*** ALBANIA - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="https://i.imgur.com/XfBb8Pj.png" group-title="ALBANIA",ABC News
 http://51.195.88.12:4050/live/abcnewsmob/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALB MUSIC" tvg-logo="https://i.imgur.com/7TWTJfG.png" group-title="ALBANIA",ALB MUSIC
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALB Swiss" tvg-logo="https://i.imgur.com/vCQovgl.jpg" group-title="ALBANIA",ALB Swiss
+http://62.210.188.65:8181/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALBDREAMS TV" tvg-logo="https://i.imgur.com/3hGevWa.png" group-title="ALBANIA",ALBDREAMS TV
+http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALBUK TV" tvg-logo="https://i.imgur.com/juC4lkA.jpg" group-title="ALBANIA",ALBUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALPO" tvg-logo="https://i.imgur.com/00hiXCL.png" group-title="ALBANIA",ALPO
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Apollon" tvg-logo="https://i.imgur.com/RTZKRUV.jpg" group-title="ALBANIA",Apollon
 http://185.80.224.14:99/Apollon-WEB/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ART Media" tvg-logo="https://i.imgur.com/VkVwXci.png" group-title="ALBANIA",ART Media
+http://artiptv.xyz:8080/hls/artmedia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATD USA" tvg-logo="https://i.imgur.com/qZtN1WI.jpg" group-title="ALBANIA",ATD USA
 http://46.99.146.236/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBF Music TV" tvg-logo="https://i.imgur.com/IPaY8cY.png" group-title="ALBANIA",BBF Music TV
@@ -33,6 +39,8 @@ http://51.195.88.12:4050/live/klannewsmobpp3/playlist.m3u8
 http://51.195.88.12:4050/live/klanplusmobpp3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MCN" tvg-logo="https://i.imgur.com/QY38LbJ.png" group-title="ALBANIA",MCN
 http://79.106.48.2:4040/live/mcnpp1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Neser TV" tvg-logo="https://i.imgur.com/mpkrwBx.png" group-title="ALBANIA",Neser TV
+https://nesertv.live/ntv/livesream/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 24 Albania" tvg-logo="https://i.imgur.com/ctEpu0b.png" group-title="ALBANIA",NEWS 24 Albania
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Opoja TV"  tvg-logo="https://i.imgur.com/De7sZf6.jpg" group-title="ALBANIA",Opoja TV
@@ -81,8 +89,6 @@ https://tvlive.rtsh.dev/live/rtsh_plus_ott_p1/playlist.m3u8
 https://tvlive.rtsh.dev/live/rtsh_shqip_ott_p2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Sport" tvg-logo="https://i.imgur.com/o6O1WTo.png" group-title="ALBANIA",RTSH Sport
 https://tvlive.rtsh.dev/live/sport_mob_ppp2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV Dukagjini" tvg-logo="https://i.imgur.com/guTYOSD.png" group-title="ALBANIA",RTV Dukagjini
-https://jaguar.gjirafa.com/live/dCynrjRK8sEsrYu0zDtDg8l4KaXbFpXl/ygqkzt480/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV Ilirida" tvg-logo="https://i.imgur.com/YCSyNmj.png" group-title="ALBANIA",RTV Ilirida
 http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCAN TV" tvg-logo="https://i.imgur.com/Y2hdXVt.png" group-title="ALBANIA",SCAN TV
@@ -93,5 +99,7 @@ http://51.195.88.12:4050/live/syritvmob/playlist.m3u8
 http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Dielli" tvg-logo="https://i.imgur.com/XQkIM5j.jpg" group-title="ALBANIA",TV Dielli
 http://51.15.180.159:8081/play/hls/dielli/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Johaniter" tvg-logo="https://i.imgur.com/CcPBKet.png" group-title="ALBANIA",TV Johaniter
+https://framtetv.online/tvjohaniter/web225/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zjarr TV" tvg-logo="https://i.imgur.com/NBTUV4w.jpg" group-title="ALBANIA",Zjarr TV
 http://edge01eu.ekranet.com/zjarrtv/index.m3u8
