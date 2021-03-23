@@ -197,23 +197,23 @@ https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC + (HU)" tvg-logo="https://i.imgur.com/yKJmkNk.png" group-title="MUSIC",MUSIC + (HU)
 http://s02.diazol.hu:10192/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik AMVA 2020 Serbia (RS)" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIC",Muzzik AMVA 2020 Serbia (RS)
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik AMVA 2020 Serbia (RS)" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik AMVA 2020 Serbia (RS)
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik Cafe&Club Serbia (RS)" tvg-id="" group-title="MUSIC" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik Cafe&Club Serbia (RS)
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Cafe&Club Serbia (RS)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/yRgMvpz.png",Muzzik Cafe&Club Serbia (RS)
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik Gen Z Serbia (RS)" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIC",Muzzik Gen Z Serbia (RS)
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Gen Z Serbia (RS)" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik Gen Z Serbia (RS)
 https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik HipHop Serbia (RS)" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIC",Muzzik HipHop Serbia (RS)
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik HipHop Serbia (RS)" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik HipHop Serbia (RS)
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik Mediteraneo Serbia (RS)" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIC",Muzzik Mediteraneo Serbia (RS)
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Mediteraneo Serbia (RS)" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik Mediteraneo Serbia (RS)
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik OKK Serbia (RS)" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIC",Muzzik OKK Serbia (RS)
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik OKK Serbia (RS)" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik OKK Serbia (RS)
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik Rock&Roll Serbia (RS)" tvg-id="" group-title="MUSIC" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik Rock&Roll Serbia (RS)
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Rock&Roll Serbia (RS)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/yRgMvpz.png",Muzzik Rock&Roll Serbia (RS)
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik TV Serbia (RS)" tvg-id="" group-title="MUSIC" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik TV Serbia (RS)
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik TV Serbia (RS)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/yRgMvpz.png",Muzzik TV Serbia (RS)
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik Worldwide Serbia (RS)" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIC",Muzzik Worldwide Serbia (RS)
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Worldwide Serbia (RS)" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik Worldwide Serbia (RS)
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 tvg-name="MY RADIO TV (GR)" tvg-id="" tvg-logo="https://my-radio.gr/img/logo3.png" group-title="MUSIC",MY RADIO TV (GR)
 https://vdo.alphaserver.gr:3305/stream/play.m3u8
@@ -293,6 +293,8 @@ https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rwanda Television RTV (RW)" tvg-logo="https://i.imgur.com/VkaCr2d.png" group-title="MUSIC",Rwanda Television RTV (RW)
 https://5c46fa289c89f.streamlock.net/rtv/rtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sexy Kpop TV (BR)" tvg-logo="https://i.imgur.com/jsQmxyV.jpg" group-title="MUSIC",Sexy Kpop TV (BR)
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-name="SKY FOLK (MK)" tvg-logo="https://i.imgur.com/8JY3Tcj.jpg" group-title="MUSIC",SKY FOLK (MK)
 http://www.skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-name="Sonus FM TV (US)" tvg-id="Sonus FM TV" tvg-logo="https://i.imgur.com/GcCzcpE.png" group-title="MUSIC",Sonus FM TV (US)
