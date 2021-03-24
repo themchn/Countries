@@ -46,7 +46,7 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy
 #EXTINF:-1 tvg-id="Telebasel HD CH" tvg-name="Telebasel" tvg-logo="https://i.imgur.com/mMXYqtm.png" group-title="SWITZERLAND",Telebasel
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
 #EXTINF:-1 tvg-name="TeleBarn" tvg-id="TeleBarn.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg",TeleBarn
-https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
+http://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_0mc3z57p/st/0/t/H7i-ISuONrDR9Xn78tI2iw/index-s32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TeleBielingue" tvg-logo="https://i.imgur.com/bPpWJj2.png" group-title="SWITZERLAND",TeleBielingue
 https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
 #EXTINF:-1 tvg-id="TeleTicino.ch" tvg-name="TeleTicino" tvg-logo="https://i.imgur.com/HuPkeOg.jpg" group-title="SWITZERLAND",TeleTicino
