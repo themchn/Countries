@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="*** FRANCE - github.com/Free-IPTV" group-title="FRANCE" tvg-logo="https://i.imgur.com/OPau00Q.png",*** FRANCE - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A2i TV" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="FRANCE",A2i TV
 https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A2i Music" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="FRANCE",A2i Music
@@ -97,6 +97,8 @@ https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
 https://alchimie-mysurf-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nancy Web TV" tvg-logo="https://i.imgur.com/W43rv1R.jpg" group-title="FRANCE",Nancy Web TV
 https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc&token=
+#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits" tvg-logo="https://i.imgur.com/mcgIxUN.png" group-title="FRANCE",NRJ Hits
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Obosso TV" tvg-logo="https://i.imgur.com/UTo9vCc.jpg" group-title="FRANCE",Obosso TV
 https://edge4.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8?spark=f033d292-cb89-4c69-bcad-4cfb4c160d9d&token=
 #EXTINF:-1 tvg-id="" tvg-name="ONE GOLF" tvg-logo="https://i.imgur.com/CKnSeT7.png" group-title="FRANCE",ONE GOLF
