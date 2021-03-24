@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="*** MUSIC - github.com/Free-IPTV" group-title="MUSIC" tvg-logo="https://i.imgur.com/ehHqQgP.png",*** MUSIC - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1  tvg-name="1Mus (BLR)"  tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="MUSIC",1Mus (BLR)
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-name="30A Music (US)" tvg-id="30a-tv.com" group-title="MUSIC" tvg-logo="https://i.imgur.com/gNWg9tl.png",30A Music (US)
@@ -231,14 +231,16 @@ https://vdo.alphaserver.gr:3305/stream/play.m3u8
 http://haititivi.com:8088/haititv/tele6NY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nancy Web TV (FR)" tvg-logo="https://i.imgur.com/W43rv1R.jpg" group-title="MUSIC",Nancy Web TV (FR)
 https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc&token=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ymFMMn8.png" group-title="MUSIC",Neural Focused (US)
+https://1d75125ffd43490eb970a2f3f575e96c.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_plex/35cba159-09d0-4e37-bf3c-99cd99ec425b/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NG RADIO (GR)" tvg-logo="http://i.imgur.com/pK2p5ey.png" group-title="MUSIC",NG RADIO (GR)
 http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nojoum TV (IR)" tvg-logo="https://i.imgur.com/6ttWNu0.jpg" group-title="MUSIC",Nojoum TV (IR)
 http://51.210.199.41/hls/stream.m3u8
 #EXTINF:-1 tvg-name="NRG TV (GR)" tvg-id="" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="MUSIC",NRG TV (GR)
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ymFMMn8.png" group-title="MUSIC",Neural Focused (US)
-https://1d75125ffd43490eb970a2f3f575e96c.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_plex/35cba159-09d0-4e37-bf3c-99cd99ec425b/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits (FR)" tvg-logo="https://i.imgur.com/mcgIxUN.png" group-title="MUSIC",NRJ Hits (FR)
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Obosso TV (FR)" tvg-logo="https://i.imgur.com/UTo9vCc.jpg" group-title="MUSIC",Obosso TV (FR)
 https://edge4.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8?spark=f033d292-cb89-4c69-bcad-4cfb4c160d9d&token=
 #EXTINF:-1 tvg-name="Ocko TV (CZ)" tvg-id="Ocko TV" group-title="MUSIC" tvg-logo="https://i.imgur.com/jKPRYdM.png",Ocko TV (CZ)
