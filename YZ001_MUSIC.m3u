@@ -73,6 +73,8 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cusano TV (IT)" tvg-logo="https://i.imgur.com/3XdJEie.png" group-title="MUSIC",Cusano TV (IT)
 https://stream9.xdevel.com/video0s975363-691/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DanceStar TV (UK)" tvg-logo="https://i.imgur.com/xLqyZQQ.png" group-title="MUSIC",DanceStar TV (UK)
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 #EXTINF:-1 tvg-name="DanceTrippin (US) " tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",DanceTrippin (US)
 https://10999-2.b.cdn13.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DBM (FR)" tvg-logo="https://i.imgur.com/KOlCUJ9.jpg" group-title="MUSIC",DBM (FR)
@@ -101,6 +103,8 @@ https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/
 http://5.135.92.131:1935/live/euroAl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eurtz6A.png" group-title="MUSIC",Euro Indie Music Chart (IT)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EuroLatina TV (ES)" tvg-logo="https://i.imgur.com/DYbZsa3.jpg" group-title="MUSIC",EuroLatina TV (ES)
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOLX Music (SI) (Not until Kodi 19!)" tvg-logo="https://i.imgur.com/R9f5Fmx.png" group-title="MUSIC",FOLX Music (SI) (Not until Kodi 19!)
 https://serve-first.folxplay.tv/folx/ch-4/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOLX Slovenija (Not until Kodi 19!)" tvg-logo="https://i.imgur.com/R9f5Fmx.png" group-title="MUSIC",FOLX Slovenija (Not until Kodi 19!)
@@ -123,7 +127,7 @@ https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
 https://10999-1.b.cdn13.com/hls/new/community/community-542.mp4/index.m3u8
 #EXTINF:-1 tvg-name="Ilirida RTV (AL)" tvg-logo="https://i.imgur.com/YCSyNmj.png" group-title="MUSIC",Ilirida RTV (AL)
 http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
-#EXTINF:-1 tvg-name="Karibena HD (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/a8yMvcV.png",Karibena HD (BR)
+#EXTINF:-1 tvg-name="Karibena HD (PE)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/a8yMvcV.png",Karibena HD (PE)
 https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
 #EXTINF:-1 tvg-name="Kayhan TV (AF)" tvg-logo="https://i.imgur.com/QKv5ivv.jpg" group-title="AFGHANISTAN",Kayhan TV (AF)
 http://208.93.117.113/live/Stream1/playlist.m3u8
@@ -197,6 +201,8 @@ https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC + (HU)" tvg-logo="https://i.imgur.com/yKJmkNk.png" group-title="MUSIC",MUSIC + (HU)
 http://s02.diazol.hu:10192/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Top (AR)" tvg-logo="https://i.imgur.com/h8wq2Xo.png" group-title="MUSIC",Music Top (AR)
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Muzzik AMVA 2020 (RS)" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik AMVA 2020 (RS)
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Muzzik Cafe&Club (RS)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/yRgMvpz.png",Muzzik Cafe&Club (RS)
@@ -237,6 +243,10 @@ https://1d75125ffd43490eb970a2f3f575e96c.mediatailor.us-west-2.amazonaws.com/v1/
 https://edge4.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8?spark=f033d292-cb89-4c69-bcad-4cfb4c160d9d&token=
 #EXTINF:-1 tvg-name="Ocko TV (CZ)" tvg-id="Ocko TV" group-title="MUSIC" tvg-logo="https://i.imgur.com/jKPRYdM.png",Ocko TV (CZ)
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ON TV (PT)" tvg-logo="https://i.imgur.com/2heM5qk.png" group-title="MUSIC",ON TV (PT)
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Onda Digital (PE)" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="MUSIC",Onda Digital (PE)
+http://184.154.28.210:1935/ondadigital/ondadigital/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ONE1 Slovenija (SI) (Not until Kodi 19!)" tvg-logo="https://i.imgur.com/fHbHbEH.png" group-title="MUSIC",ONE1 Slovenija (SI) (Not until Kodi 19!)
 https://serve-first.folxplay.tv/folx/ch-6/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gMj1BQR.jpg" group-title="MUSIC",Only 90s Kids will understand (US)
@@ -261,6 +271,8 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EAkvIw8.jpg" group-title="MUSIC",Pure Rock (US)
 http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio 21 TV (DE)" tvg-logo="https://i.imgur.com/1fpKgyM.png" group-title="MUSIC",Radio 21 TV (DE)
+http://playback.akamaized.net/streams/22300508_6675945_lsiw5eowwgereeh9wmp_1/master.m3u8?dw=32&hdnts=exp=1616546536~acl=/streams/22300508_6675945_lsiw5eowwgereeh9wmp_1/master.m3u8*~hmac=8030ac61bd4e7284d40c182ec1d229bea13447e031e813af3d20844d197b8c5d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yz3LSXo.png" group-title="MUSIC",Radio 51 Lombardia (IT)
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Contact (BE)" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="MUSIC",Radio Contact (BE)
@@ -293,6 +305,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-name="Rewind HD (CI) - github.com/Free-IPTV" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/Ni2jlBi.png",Rewind HD (CI) - github.com/Free-IPTV
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rock TV (RO)" tvg-logo="https://i.imgur.com/F69gAWa.png" group-title="MUSIC",Rock TV (RO)
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
 #EXTINF:-1 tvg-name="RTL 102.5 BEST (IT)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/E4G6PiA.png",RTL 102.5 BEST (IT)
 https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rwanda Television RTV (RW)" tvg-logo="https://i.imgur.com/VkaCr2d.png" group-title="MUSIC",Rwanda Television RTV (RW)
@@ -327,7 +341,7 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TILEMOUSIKI (GR)" tvg-id="" tvg-logo="https://i.imgur.com/wb4pLkW.jpg" group-title="MUSIC",TILEMOUSIKI (GR)
 http://iptv1.gripfs.tk:8080/channel/709bb160/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.KzXTu4AXEXc0KBtLr1OMj2VVhkIK3OJeN8fyEW9yEfqM6FYVxqw-URTKK028zIuM-fArvKHG_hW2LevFtPa7ug
-#EXTINF:-1 tvg-name="TOP Latino (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/OsNy30r.png",TOP Latino (BR)
+#EXTINF:-1 tvg-name="TOP Latino (PE)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/OsNy30r.png",TOP Latino (PE)
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Top Music (BR)" tvg-logo="https://i.imgur.com/G1oaOXY.gif" group-title="MUSIC",Top Music (BR)
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
