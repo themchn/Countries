@@ -37,6 +37,8 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KeTbnHf.png" group-title="BRAZIL",IURD TV
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yfXcjuE.png" group-title="BRAZIL",LONDRINA TV
+https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybdp3qq.png" group-title="BRAZIL",Mundo TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sJoBFNp.png" group-title="BRAZIL",Novo Tempo
@@ -75,6 +77,8 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="BRAZIL",SBT Tailândia (PA)
 https://5e36c064a2f6a.streamlock.net:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jsQmxyV.jpg" group-title="BRAZIL",Sexy Kpop TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GQgWuoU.png" group-title="BRAZIL",TopTV Paraná
 https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1pZUGb4.png" group-title="BRAZIL",TV Aberta SP
