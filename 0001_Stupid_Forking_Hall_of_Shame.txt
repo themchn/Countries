@@ -1,0 +1,75 @@
+Stupid Forking and HALL OF SHAME
+
+HALL OF SHAME No. 1:
+
+iptvmate - This idiot is especially thirsty! He was warned by me!
+
+He copies the complete M3Us from me without permission, he doesn't even change the file names. 
+The M3U's are a 1: 1 copy of my files as of the status (date) in the respective articles:
+
+https://iptvmate.net/germany-iptv-channels-playlists/
+
+https://iptvmate.net/united-states-iptv-channels-playlists/
+
+https://iptvmate.net/brazil-iptv-channels-playlists/
+
+and so on, he is unable to create something himself, he steals it and then offers it as something of his own on his homepage!
+
+HALL OF SHAME No. 2:
+
+Maggy - The user was warned publicly by me and other!
+
+Until recently he used many of my M3U's without my permission to then offer them as something of his own in this forum!
+
+Not only I, others such as Apsat have already warned him!
+
+https://forums.whirlpool.net.au/thread/9nk6qzy3?p=9#r175 
+
+What this insolent user in the vuplus forum did not know before, i have an account in the forum! I downloaded the files adapted
+for VU +, except for the iptv_xumo.rar, copied everything from my repo without asking me!
+
+https://www.vuplus-support.org/wbb4/index.php?thread/141764-iptv-free-web-tv-webcam-userbouquets/&postID=2065618#post2065618
+
+There are also other postings with M3Us that he has abused for his  profiling in the forum, but he does not deserve any further
+attention!
+
+HALL OF SHAME No. 3?
+
+EVERYONE I catch copying my M3Us without my permission, distributing them on the Internet or misusing them 
+for the purposes of their own profiling will end up here on this page! Also here within Github there are 2 specialists
+who have a keen eye on!
+
+---
+
+STUPID FORKING
+
+What annoys not only me but also others is the stupid creation of a fork!
+
+You can read here what also annoys others about the forks
+
+At the moment there are 56 forks from my repo. Again, most of them were just created stupidly as without using the sense of a fork.
+
+https://github.com/isaacs/github/issues/1280
+
+At the moment there are 56 forks from my repo. Again, most of them were just created stupidly as without using the sense of a fork.
+
+Anyone who creates a fork of my repo and does NOT have the status Contributor after a few days will be blocked from now on!
+
+There are a few specialists at Github who have nothing of their own, only have forks and are not the forks contributors to any.
+
+Only these users are contributors: 
+
+https://github.com/Free-IPTV/Countries/graphs/contributors
+
+Only 3 users  (not contributor) have at least participated via issues. With the other forks, where nothing happens.
+
+I'm really tired of this stupid forking, from now on it will be blocked. I'll block these 43 users shortly, it's annoying!
+
+
+
+
+
+
+
+
+
