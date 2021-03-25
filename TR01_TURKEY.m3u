@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="*** TURKEY - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/WxJSQp8.png" group-title="TURKEY",*** TURKEY - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="24 TV" tvg-id="24 TV" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="TURKEY",24 TV
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ada TV" tvg-logo="https://i.imgur.com/d8op3Wh.jpg" group-title="TURKEY",Ada TV
@@ -175,6 +175,16 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtfgdbkwkjllolive/broadcast_5b167
 https://milyontv-live.ercdn.net/milyontv/milyontv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Milli Piyango TV" tvg-logo="https://i.imgur.com/uLGUXS6.png" group-title="TURKEY",Milli Piyango TV
 plugin://plugin.video.youtube/play/?video_id=WKypAM4TlfE
+#EXTINF:-1 tvg-id="" tvg-name="NR1" tvg-logo="https://i.imgur.com/u3Chhy5.png" group-title="TURKEY",NR1
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1 Ask HD" tvg-logo="https://i.imgur.com/qC5o6kT.png" group-title="TURKEY",NR1 Ask HD
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1 Damar HD" tvg-logo="https://i.imgur.com/Qc1DK1l.png" group-title="TURKEY",NR1 Damar HD
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1 Dance HD" tvg-logo="https://i.imgur.com/VJGSyrP.png" group-title="TURKEY",NR1 Dance HD
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1 Turk" tvg-logo="https://i.imgur.com/Wx93JBZ.png" group-title="TURKEY",NR1 Turk
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV TK" tvg-logo="https://i.imgur.com/RblkzCm.jpg" group-title="TURKEY",NTV
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ON4 TV" tvg-logo="https://i.imgur.com/bl1nBNQ.jpg" group-title="TURKEY",ON4 TV

@@ -237,6 +237,16 @@ https://1d75125ffd43490eb970a2f3f575e96c.mediatailor.us-west-2.amazonaws.com/v1/
 http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nojoum TV (IR)" tvg-logo="https://i.imgur.com/6ttWNu0.jpg" group-title="MUSIC",Nojoum TV (IR)
 http://51.210.199.41/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1 (TR)" tvg-logo="https://i.imgur.com/u3Chhy5.png" group-title="MUSIC",NR1 (TR)
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1 Ask HD (TR)" tvg-logo="https://i.imgur.com/qC5o6kT.png" group-title="MUSIC",NR1 Ask HD (TR)
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1 Damar HD (TR)" tvg-logo="https://i.imgur.com/Qc1DK1l.png" group-title="MUSIC",NR1 Damar HD (TR)
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1 Dance HD (TR)" tvg-logo="https://i.imgur.com/VJGSyrP.png" group-title="MUSIC",NR1 Dance HD (TR)
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1 Turk (TR)" tvg-logo="https://i.imgur.com/Wx93JBZ.png" group-title="MUSIC",NR1 Turk (TR)
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="NRG TV (GR)" tvg-id="" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="MUSIC",NRG TV (GR)
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NRJ Hits (FR)" tvg-logo="https://i.imgur.com/mcgIxUN.png" group-title="MUSIC",NRJ Hits (FR)
