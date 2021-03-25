@@ -115,7 +115,7 @@ https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WZra Kids TV" tvg-logo="https://i.imgur.com/7sUmqv2.png" group-title="GREECE",WZra Kids TV
 http://wpso.com:1936/hls/kidshd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Xalastra" tvg-logo="http://i.imgur.com/LgQBtTh.jpg" group-title="GREECE",Xalastra
+#EXTINF:-1 tvg-name="Xalastra" tvg-logo="https://i.imgur.com/cdT9deo.jpg" group-title="GREECE",Xalastra
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Xplore TV" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="GREECE",Xplore TV
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
