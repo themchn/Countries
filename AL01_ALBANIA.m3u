@@ -20,7 +20,7 @@ http://artiptv.xyz:8080/hls/artmedia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATD USA" tvg-logo="https://i.imgur.com/qZtN1WI.jpg" group-title="ALBANIA",ATD USA
 http://46.99.146.236/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBF Music TV" tvg-logo="https://i.imgur.com/IPaY8cY.png" group-title="ALBANIA",BBF Music TV
-http://79.106.48.2:4040/live/bbfottpp1/playlist.m3u8
+http://51.195.88.12:4050/live/bbfottpp1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Drita TV" tvg-logo="https://i.imgur.com/N4WAwFh.png" group-title="ALBANIA",Drita TV
 https://framtetv.online/DRITATV-webstreamlive44/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUROAL" tvg-logo="https://i.imgur.com/qLaEmIT.png" group-title="ALBANIA",EUROAL
@@ -28,17 +28,17 @@ http://5.135.92.131:1935/live/euroAl/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euronews Albania" tvg-logo="https://i.imgur.com/hTBah1z.jpg" group-title="ALBANIA",Euronews Albania
 http://51.195.88.12:4050/live/euronewsmobpp2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN TV" tvg-logo="https://i.imgur.com/qqi80Zx.png" group-title="ALBANIA",IN TV
-http://79.106.48.2:4040/live/intvpp1/playlist.m3u8
+http://51.195.88.12:4050/live/intvpp1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KLAN" tvg-logo="https://i.imgur.com/pWoMc0r.png" group-title="ALBANIA",KLAN
 http://79.106.73.244:4040/live/klanhdmob/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KLAN Music" tvg-logo="https://i.imgur.com/gs7WFyI.png" group-title="ALBANIA",KLAN Music
-http://79.106.48.2:4040/live/klanmusicmob/playlist.m3u8
+http://51.195.88.12:4050/live/klanmusicmob/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KLAN News" tvg-logo="https://i.imgur.com/NMtr8Z4.jpg" group-title="ALBANIA",KLAN News
 http://51.195.88.12:4050/live/klannewsmobpp3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KLAN Plus" tvg-logo="https://i.imgur.com/xg23eK4.jpg" group-title="ALBANIA",KLAN Plus
 http://51.195.88.12:4050/live/klanplusmobpp3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MCN" tvg-logo="https://i.imgur.com/QY38LbJ.png" group-title="ALBANIA",MCN
-http://79.106.48.2:4040/live/mcnpp1/playlist.m3u8
+http://51.195.88.12:4050/live/mcnpp1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Neser TV" tvg-logo="https://i.imgur.com/mpkrwBx.png" group-title="ALBANIA",Neser TV
 https://nesertv.live/ntv/livesream/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 24 Albania" tvg-logo="https://i.imgur.com/ctEpu0b.png" group-title="ALBANIA",NEWS 24 Albania
@@ -92,9 +92,11 @@ https://tvlive.rtsh.dev/live/sport_mob_ppp2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV Ilirida" tvg-logo="https://i.imgur.com/YCSyNmj.png" group-title="ALBANIA",RTV Ilirida
 http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCAN TV" tvg-logo="https://i.imgur.com/Y2hdXVt.png" group-title="ALBANIA",SCAN TV
-http://edge01eu.ekranet.com/scantv/index.m3u8
+http://51.195.88.12:4050/live/scanmobpp2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SYRI TV" tvg-logo="https://i.imgur.com/cjgfqxP.jpg" group-title="ALBANIA",SYRI TV
 http://51.195.88.12:4050/live/syritvmob/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TopEstrada TV" tvg-logo="https://i.imgur.com/8Q1uoF7.png" group-title="ALBANIA",TopEstrada TV
+http://live.topestrada.com/live/topestrada/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 7" tvg-logo="https://i.imgur.com/88NYxNV.png" group-title="ALBANIA",TV 7
 http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Dielli" tvg-logo="https://i.imgur.com/XQkIM5j.jpg" group-title="ALBANIA",TV Dielli
