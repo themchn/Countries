@@ -360,9 +360,9 @@ http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TZiK (FR)" tvg-logo="https://i.imgur.com/6Iw1YRL.png" group-title="MUSIC",TZiK (FR)
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1QEigQ6.jpg" group-title="MUSIC",Unwind (US)
+https://fc68583ae7094821b6ab3b44c50c7740.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_plex/3c8fb5fb-b196-45cc-9284-40da26a04a98/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UpperA Balkan TV (AT)" tvg-logo="https://i.imgur.com/bMtY57i.jpg" group-title="MUSIC",UpperA Balkan TV (AT)
 http://89.187.168.245:8080/live/sUPPERchannel2/tracks-v1a1/index.m3u8
-https://fc68583ae7094821b6ab3b44c50c7740.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_plex/3c8fb5fb-b196-45cc-9284-40da26a04a98/5.m3u8
 #EXTINF:-1 tvg-name="V2Beat TV (UK) - github.com/Free-IPTV" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/PXhzoPd.jpg",V2Beat TV (UK) - github.com/Free-IPTV
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-name="VEVO 2K (US)" tvg-logo="https://i.imgur.com/SG96HGW.jpg" group-title="MUSIC",VEVO 2K (US)
