@@ -85,7 +85,7 @@ https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV (UK)" tvg-name="ITV" tvg-logo="https://i.imgur.com/SsgOgRF.png" group-title="UK",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1 tvg-id="kerang.uk" tvg-name="Kerrang" tvg-logo="https://i.imgur.com/z8T3Q48.png" group-title="UK",Kerrang
+#EXTINF:-1 tvg-id="" tvg-name="Kerrang" tvg-logo="https://i.imgur.com/z8T3Q48.png" group-title="UK",Kerrang
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1 tvg-id="" tvg-name="Kid Gamer TV" tvg-logo="https://i.imgur.com/dSPmDU7.png" group-title="UK",Kid Gamer TV
 https://studio71-samsung-uk.amagi.tv/playlist.m3u8
