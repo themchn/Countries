@@ -2,6 +2,24 @@ Stupid Forking and HALL OF SHAME
 
 HALL OF SHAME No. 1:
 
+Hi @alirezaaziz,
+
+You can be really proud to have ended up here! You have copied complete entries of our m3u's, you can see well with all streams with the IP 51.210.199.x.
+
+https://github.com/iptv-org/iptv/pull/2282#issuecomment-808138484
+
+The ID (link) for tvg-logo = is generated when the link for the graphic is created on the imgur homepage. This link is an UNIQUE link and is only generated once, it never appears again!!!
+
+You are even so three, you have now created your own repo, in which all the copied entries 1:1 can also be found!
+
+https://github.com/alirezaaziz/deu/blob/main/iran.m3u
+
+If you are not able to create something yourself here at Github, but only to copy it stupidly from others, you are at the wrong place here at Github! If I catch you here on Github again that you are experiencing something without my permission, I promise you a shit storm and you will be reported on Github!
+
+Finally read the Readme in my Repo carefully and write it behind your ears!!!
+
+HALL OF SHAME No. 2:
+
 iptvmate - This idiot is especially thirsty! He was warned by me!
 
 He copies the complete M3Us from me without permission, he doesn't even change the file names. 
@@ -15,7 +33,7 @@ https://iptvmate.net/brazil-iptv-channels-playlists/
 
 and so on, he is unable to create something himself, he steals it and then offers it as something of his own on his homepage!
 
-HALL OF SHAME No. 2:
+HALL OF SHAME No. 3:
 
 Maggy - The user was warned publicly by me and other!
 
@@ -28,12 +46,10 @@ https://forums.whirlpool.net.au/thread/9nk6qzy3?p=9#r175
 What this insolent user in the vuplus forum did not know before, i have an account in the forum! I downloaded the files adapted
 for VU +, except for the iptv_xumo.rar, copied everything from my repo without asking me!
 
-https://www.vuplus-support.org/wbb4/index.php?thread/141764-iptv-free-web-tv-webcam-userbouquets/&postID=2065618#post2065618
+Link removed, on March 26th, 2021 the postings with the entries of our m3u's copied by us were removed from the forum! But WE keep an eye on the user Maggy!
 
 There are also other postings with M3Us that he has abused for his  profiling in the forum, but he does not deserve any further
 attention!
-
-HALL OF SHAME No. 3?
 
 EVERYONE I catch copying my M3Us without my permission, distributing them on the Internet or misusing them 
 for the purposes of their own profiling will end up here on this page! Also here within Github there are 2 specialists
@@ -64,12 +80,5 @@ https://github.com/Free-IPTV/Countries/graphs/contributors
 Only 3 users  (not contributor) have at least participated via issues. With the other forks, where nothing happens.
 
 I'm really tired of this stupid forking, from now on it will be blocked. I'll block these 43 users shortly, it's annoying!
-
-
-
-
-
-
-
 
 
