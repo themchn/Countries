@@ -83,8 +83,8 @@ https://waw2.artiyerelmedya.net/ertv/bant1/chunks.m3u8
 http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ETV Manisa" tvg-logo="https://i.imgur.com/mU505C6.png" group-title="TURKEY",ETV Manisa
 https://broadcasttr.com:446/manisaetv/bant1/chunklist.m3u8
-#EXTINF:-1 tvg-id="eutv" tvg-logo="https://js.kanald.com.tr/assets/dist/img/eurod.png?v=4" group-title="TURKEY",,EURO D HD
-#https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURO D" tvg-logo="https://js.kanald.com.tr/assets/dist/img/eurod.png?v=4" group-title="TURKEY",EURO D HD
+https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EuroStar" tvg-logo="https://i.imgur.com/NWlQk2n.jpg" group-title="TURKEY",EuroStar
 https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Finans Turk TV" tvg-logo="https://i.imgur.com/G7uDQBv.png" group-title="TURKEY",Finans Turk TV
@@ -135,7 +135,7 @@ http://live.arkumedia.com:1935/kanal34tv/kanal34tv/playlist.m3u8
 https://waw2.artiyerelmedya.net/kanal68/bant1/chunks.m3u8?hash=3e0bbf2c55e462f4edf05c003ecdfcb6
 #EXTINF:-1 tvg-name="Kanal Alanya" tvg-id="" tvg-logo="https://i.imgur.com/sXiUnTl.jpg" group-title="TURKEY",Kanal Alanya
 https://broadcasttr.com:446/kanala/bant1/chunklist_w343770598.m3u8?hash=2ed1974639ec674a33ed440298136dcd
-#EXTINF:-4 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/DbMjtYN.png" group-title="TURKEY",,Kanal D HD
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D HD" tvg-logo="https://i.imgur.com/DbMjtYN.png" group-title="TURKEY",Kanal D HD
 https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanal Ege" tvg-id="" tvg-logo="https://i.imgur.com/AAkX8oV.png" group-title="TURKEY",Kanal Ege
 https://59cba4d34b678.streamlock.net/canlitv/kanalege/playlist.m3u8
@@ -163,7 +163,7 @@ https://waw2.artiyerelmedya.net/lifetv/bant1/chunks.m3u8
 https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Mar TV" tvg-id="" tvg-logo="https://i.imgur.com/KqWGaZ6.png" group-title="TURKEY",Mar TV
 http://marmaratv.canliyayin.org/P324353563/marmaratv/playlist.m3u8
-#EXTINF:-1 tvg-name="Masa Ile Koca Ayi " tvg-id="" tvg-logo="https://i.imgur.com/gBux0ff.jpg" group-title="TURKEY",Masa Ile Koca Ayi 
+#EXTINF:-1 tvg-name="Masa Ile Koca Ayi" tvg-id="" tvg-logo="https://i.imgur.com/gBux0ff.jpg" group-title="TURKEY",Masa Ile Koca Ayi 
 plugin://plugin.video.youtube/play/?video_id=arU54ho2EAc
 #EXTINF:-1 tvg-name="Mavi Karadeniz TV" tvg-id="" tvg-logo="https://i.imgur.com/AgZG6oT.jpg" group-title="TURKEY",Mavi Karadeniz TV
 https://waw2.artiyerelmedya.net/mavikaradeniz/bant1/chunks.m3u8
@@ -215,13 +215,13 @@ https://live.sportstv.com.tr/hls/low/sportstv_sd/index.m3u8?hash=ff9087a17e9ff7a
 https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="Tempo TV" tvg-id="" tvg-logo="https://i.imgur.com/oVJ9jhX.png" group-title="TURKEY",Tempo TV
 https://waw2.artiyerelmedya.net/tempotv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="tivi TURK" tvg-logo="https://i.imgur.com/GLxHjHi.jpg" group-title="TURKEY",tivi TÜRK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GLxHjHi.jpg" group-title="TURKEY",tivi TÜRK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-name="Ton TV" tvg-id="https://i.imgur.com/O9eHm7T.jpg" tvg-logo="https://i.imgur.com/pasDZ6u.jpg" group-title="TURKEY",Ton TV
 https://waw2.artiyerelmedya.net/tontv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC TR" tvg-logo="https://i.imgur.com/vtedYFm.png" group-title="TURKEY",TLC TR
 https://pa9agxjg.rocketcdn.com/tlctv.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8ee" group-title="TURKEY",,TGRT EU	
+#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8ee" group-title="TURKEY",TGRT EU	
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTINF:-1 tvg-name="TRT Haber" tvg-id="TRT Haber" tvg-logo="https://i.imgur.com/BVEBIYq.jpg" group-title="TURKEY",TRT Haber
 https://tv-trthaber.live.trt.com.tr/master_720.m3u8
