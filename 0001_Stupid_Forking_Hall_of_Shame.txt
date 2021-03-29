@@ -22,18 +22,19 @@ https://github.com/alirezaaziz/deu/issues/1
 
 HALL OF SHAME No. 2:
 
-iptvmate - This idiot is especially thirsty! He was warned by me!
+iptvmate - This guy is especially thirsty! He was warned by me!
 
 He copies the complete M3Us from me without permission, he doesn't even change the file names. 
-The M3U's are a 1: 1 copy of my files as of the status (date) in the respective articles:
+The M3U's are a 1: 1 copy of my files as of the status (date) in the respective articles. 
+We made enough print screens beforehand from this!
 
-https://iptvmate.net/germany-iptv-channels-playlists/
+After the guy was informed, he changed them all on March 25th!!!
 
-https://iptvmate.net/united-states-iptv-channels-playlists/
+It is really poor that some guys only stop stealing once they have been published!
 
-https://iptvmate.net/brazil-iptv-channels-playlists/
+We will continue to keep an eye on his doings.
 
-and so on, he is unable to create something himself, he steals it and then offers it as something of his own on his homepage!
+https://iptvmate.net
 
 HALL OF SHAME No. 3:
 
@@ -50,10 +51,7 @@ for VU +, except for the iptv_xumo.rar, copied everything from my repo without a
 
 Link removed, on March 26th, 2021 the postings with the entries of our m3u's copied by us are no longer to be seen in the forum. But there are also areas that are not visible to visitors, we also keep an eye on them, with a user account in the forum! But WE keep an eye on the user Maggy!
 
-There are also other postings with M3Us that he has abused for his  profiling in the forum, but he does not deserve any further
-attention!
-
-At the 28. March, he continued to copy m3u´s and entries from others: Geonsey, tdtchannels.com, FluxusTV and Prenj.
+At the 28. March, he continued to copy m3u´s and entries from others: Geonsey, tdtchannels.com, FluxusTV and Prenj but NO backlinks to their work! This is an absolute No-Go!!!
 
 https://www.vuplus-support.org/wbb4/index.php?thread/143235-astra-19-2e-sat-settings-free-tv-streams/&postID=2092054#post2092054
 
@@ -75,7 +73,7 @@ At the moment there are 56 forks from my repo. Again, most of them were just cre
 
 https://github.com/isaacs/github/issues/1280
 
-At the moment there are 56 forks from my repo. Again, most of them were just created stupidly as without using the sense of a fork.
+At the moment there are 60 forks from my repo. Again, most of them were just created stupidly as without using the sense of a fork.
 
 Anyone who creates a fork of my repo and does NOT have the status Contributor after a few days will be blocked from now on!
 
@@ -85,8 +83,8 @@ Only these users are contributors:
 
 https://github.com/Free-IPTV/Countries/graphs/contributors
 
-Only 3 users  (not contributor) have at least participated via issues. With the other forks, where nothing happens.
+Only 3 users  (not contributor) have at least participated via issues. With the MOST forks, nothing happened!
 
-I'm really tired of this stupid forking, from now on it will be blocked. I'll block these 43 users shortly, it's annoying!
+I'm really tired of this stupid forking, from now on it will be blocked. I'll block these more than 50 users shortly, it's annoying!
 
 
