@@ -31,6 +31,8 @@ https://alchimie-big-names-4-es.samsung.wurl.com/manifest/playlist.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Butaca TV" tvg-logo="https://i.imgur.com/N4rWfj2.png" group-title="SPAIN",Butaca TV
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cadena Elite" tvg-logo="https://i.imgur.com/eGvnKf2.png" group-title="SPAIN",Cadena Elite
+https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="Caillou" tvg-logo="https://i.imgur.com/4zJqmw6.png" group-title="SPAIN",Caillou
 https://dhx-caillou-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 2000 La Solana" tvg-logo="https://i.imgur.com/UtMrzma.jpg" group-title="SPAIN",Canal 2000 La Solana
@@ -195,6 +197,8 @@ https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 https://5940924978228.streamlock.net/8009/8009/master.m3u8
 #EXTINF:-1 tvg-name="Punt 3 Vall Uixó" tvg-logo="https://i.imgur.com/BDCeJqJ.jpg" group-title="SPAIN",Punt 3 Vall Uixó
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio 3 (Webradio)" tvg-logo="https://i.imgur.com/q7lpl5Z.jpg" group-title="SPAIN",Radio 3 (Webradio)
+https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/rne_c201_lv3_aosv4_gl0.m3u8
 #EXTINF:-1 tvg-name="RT Spain" tvg-logo="https://i.imgur.com/IVKcVbs.png" group-title="SPAIN",RT Spain
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 #EXTINF:-1 tvg-name="RTVCE" tvg-logo="https://i.imgur.com/lOkvaS2.jpg" group-title="SPAIN",RTVCE
@@ -273,6 +277,8 @@ http://momentog-crtvg.flumotion.com/playlist.m3u8
 http://musigal-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-name="Une Vinalopó" tvg-logo="https://i.imgur.com/bucFtkN.png" group-title="SPAIN",Une Vinalopó
 http://78.41.83.88:8880/hls/unesd.m3u8
+#EXTINF:-1 tvg-name="UD Las Palmas TV" tvg-id="" tvg-logo="https://i.imgur.com/tCddWzO.jpg" group-title="SPAIN",UD Las Palmas TV
+https://cdn041.fractalmedia.es/stream/live/udtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unearth" tvg-logo="https://i.imgur.com/bMqTNs1.jpg" group-title="SPAIN",Unearth
 https://alchimie-unearth-3-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Urban Revolution" tvg-logo="https://i.imgur.com/cgL1Y50.png" group-title="SPAIN",Urban Revolution
