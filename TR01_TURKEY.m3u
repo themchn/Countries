@@ -67,8 +67,12 @@ http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ciftci Tv" tvg-logo="https://i.imgur.com/nxcxzLl.png" group-title="TURKEY",Ciftci Tv
 https://waw2.artiyerelmedya.net/ciftcitv/bant1/chunks.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
+#EXTINF:-1 tvg-id="" tvg-name="CINE 5" tvg-logo="https://i.imgur.com/WhCn8wl.png" group-title="TURKEY",CINE 5
+https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8
 #EXTINF:-1 tvg-name="DIM TV" tvg-id="" tvg-logo="https://i.imgur.com/LdecnDA.jpg" group-title="TURKEY",DIM TV
 https://waw2.artiyerelmedya.net/dimtv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://i.imgur.com/cvudtvZ.jpg" group-title="TURKEY",DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dost TV" tvg-logo="https://i.imgur.com/Sqd22lP.jpg" group-title="TURKEY",Dost TV
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:-1 tvg-name="DRT TV" tvg-id="" tvg-logo="https://i.imgur.com/uOMuhrI.jpg" group-title="TURKEY",DRT TV
@@ -267,8 +271,6 @@ plugin://plugin.video.youtube/play/?video_id=M0eAO5YMDXQ
 https://waw2.artiyerelmedya.net/tva/bant1/chunks.m3u8?hash=2ed1974639ec674a33ed440298136dcd
 #EXTINF:-1 tvg-name="TV DEN" tvg-id="" tvg-logo="https://i.imgur.com/PFWOkNh.png" group-title="TURKEY",TV DEN
 https://canli.tvden.com.tr/hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://i.imgur.com/mKe15ft.jpg" group-title="TURKEY",TV8
-https://tv8-tb-live.ercdn.net/tv8-geo/tv8int_720p.m3u8?e=1617007174&st=JWLa6QVBykxaQmaSs0n2tA
 #EXTINF:-1 tvg-id="" tvg-name="TVnet" tvg-logo="https://i.imgur.com/A4Up4Uj.jpg" group-title="TURKEY",TVnet
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UcanKus TV" tvg-logo="https://i.imgur.com/4SQAn3U.jpg" group-title="TURKEY",UçanKuş TV
