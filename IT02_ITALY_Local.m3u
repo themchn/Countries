@@ -195,7 +195,7 @@ https://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8
 https://live.livevideosolution.it/telecupole/dd6d85e5b7452f7b85a099509292b421.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telefoggia" tvg-logo="https://i.imgur.com/ImvO2rV.png" group-title="ITALY LOCAL",Telefoggia
 http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telefriuli" tvg-logo="http://beyondprod.it/images/telefriuli_positivo.jpg" group-title="ITALY LOCAL",Telefriuli
+#EXTINF:-1 tvg-id="" tvg-name="Telefriuli" tvg-logo="https://i.imgur.com/AxqSU62.png" group-title="ITALY LOCAL",Telefriuli
 https://streamtechglobal.akamaized.net/hls/live/2024685/telefriuli/Group01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TeleGenova" tvg-logo="https://i.imgur.com/CpAHeA5.jpg" group-title="ITALY LOCAL",TeleGenova
 https://5db313b643fd8.streamlock.net/Telegenova/Telegenova/playlist.m3u8

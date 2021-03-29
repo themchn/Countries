@@ -27,6 +27,8 @@ https://framtetv.online/DRITATV-webstreamlive44/index.m3u8
 http://5.135.92.131:1935/live/euroAl/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euronews Albania" tvg-logo="https://i.imgur.com/hTBah1z.jpg" group-title="ALBANIA",Euronews Albania
 http://51.195.88.12:4050/live/euronewsmobpp2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Frame TV" tvg-logo="https://i.imgur.com/qKndrmB.jpg" group-title="ALBANIA",Frame TV
+http://195.154.252.221:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN TV" tvg-logo="https://i.imgur.com/qqi80Zx.png" group-title="ALBANIA",IN TV
 http://51.195.88.12:4050/live/intvpp1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KLAN" tvg-logo="https://i.imgur.com/pWoMc0r.png" group-title="ALBANIA",KLAN
@@ -64,31 +66,31 @@ http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTK 4" tvg-logo="https://i.imgur.com/mEsYfFv.png" group-title="ALBANIA",RTK 4
 http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH 1" tvg-logo="https://i.imgur.com/hNxtuJu.png" group-title="ALBANIA",RTSH 1
-http://edge01eu.ekranet.com/rtshhd_low/index.m3u8
+https://tvlive.rtsh.dev/out/u/22_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH 2" tvg-logo="https://i.imgur.com/2hKfbpy.png" group-title="ALBANIA",RTSH 2
-http://edge01eu.ekranet.com/rtsh2hd1/index.m3u8
+https://tvlive.rtsh.dev/out/u/105_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH 24" tvg-logo="https://i.imgur.com/66xEHM3.png" group-title="ALBANIA",RTSH 24
-https://tvlive.rtsh.dev/live/rtsh_24_ott_p3/playlist.m3u8
+https://tvlive.rtsh.dev/out/u/44_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH 3" tvg-logo="https://i.imgur.com/uYVw4JJ.png" group-title="ALBANIA",RTSH 3
-http://edge01eu.ekranet.com/rtsh3hd1/index.m3u8
+https://tvlive.rtsh.dev/out/u/107_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Film" tvg-logo="https://i.imgur.com/ZN5Nyx5.png" group-title="ALBANIA",RTSH Film
-https://tvlive.rtsh.dev/live/rtsh_film_mob_p2/playlist.m3u8
+https://tvlive.rtsh.dev/out/u/101_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Gjirokastra" tvg-logo="https://i.imgur.com/IdiGGWG.png" group-title="ALBANIA",RTSH Gjirokastra
-https://tvlive.rtsh.dev/live/rtsh_gjirokastra_mob_p1/playlist.m3u8
+https://tvlive.rtsh.dev/out/u/56_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Kids" tvg-logo="https://i.imgur.com/rqvY7yR.png" group-title="ALBANIA",RTSH Kids
-https://tvlive.rtsh.dev/live/rtsh_femije_ott_p1/playlist.m3u8
+https://tvlive.rtsh.dev/out/u/77_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Korça" tvg-logo="https://i.imgur.com/7XyN6Li.png" group-title="ALBANIA",RTSH Korça
-https://tvlive.rtsh.dev/live/rtsh_korca_ott_p2/playlist.m3u8
+https://tvlive.rtsh.dev/out/u/53_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Kukesi" tvg-logo="https://i.imgur.com/QCu0SdX.png" group-title="ALBANIA",RTSH Kukesi
-https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p1/playlist.m3u8
+https://tvlive.rtsh.dev/out/u/89_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Muzike" tvg-logo="https://i.imgur.com/dzD11t4.png" group-title="ALBANIA",RTSH Muzike
-https://tvlive.rtsh.dev/live/rtsh_muzike_mob_p2/playlist.m3u8
+https://tvlive.rtsh.dev/out/u/99_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Plus" tvg-logo="https://i.imgur.com/2dsNgMQ.png" group-title="ALBANIA",RTSH Plus
-https://tvlive.rtsh.dev/live/rtsh_plus_ott_p1/playlist.m3u8
+https://tvlive.rtsh.dev/out/u/73_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Shqip" tvg-logo="https://i.imgur.com/EjXxjaP.png" group-title="ALBANIA",RTSH Shqip
-https://tvlive.rtsh.dev/live/rtsh_shqip_ott_p2/playlist.m3u8
+https://tvlive.rtsh.dev/out/u/103_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Sport" tvg-logo="https://i.imgur.com/o6O1WTo.png" group-title="ALBANIA",RTSH Sport
-https://tvlive.rtsh.dev/live/sport_mob_ppp2/playlist.m3u8
+https://tvlive.rtsh.dev/out/u/27_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV Ilirida" tvg-logo="https://i.imgur.com/YCSyNmj.png" group-title="ALBANIA",RTV Ilirida
 http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCAN TV" tvg-logo="https://i.imgur.com/Y2hdXVt.png" group-title="ALBANIA",SCAN TV
