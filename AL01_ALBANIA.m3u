@@ -104,6 +104,6 @@ http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Dielli" tvg-logo="https://i.imgur.com/XQkIM5j.jpg" group-title="ALBANIA",TV Dielli
 http://51.15.180.159:8081/play/hls/dielli/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Johaniter" tvg-logo="https://i.imgur.com/CcPBKet.png" group-title="ALBANIA",TV Johaniter
-https://framtetv.online/tvjohaniter/web225/tracks-v1a1/index.m3u8
+https://framtetv.online/tvjohaniter/abaniaboadband/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zjarr TV" tvg-logo="https://i.imgur.com/NBTUV4w.jpg" group-title="ALBANIA",Zjarr TV
 http://edge01eu.ekranet.com/zjarrtv/index.m3u8
