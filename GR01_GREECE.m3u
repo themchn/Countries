@@ -27,6 +27,8 @@ http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
 #EXTINF:-1 tvg-name="CHOICE" tvg-logo="https://i.imgur.com/jJcNm2I.png" group-title="GREECE",CHOICE
 https://vod.streams.ovh:3528/stream/play.m3u8
+#EXTINF:-1 tvg-name="Corfu TV" tvg-logo="https://i.imgur.com/eUdbUzx.png" group-title="GREECE",Corfu TV
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 tvg-name="Delta TV" tvg-logo="https://i.imgur.com/FTmYaQh.png" group-title="GREECE",Delta TV
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ena Channel" tvg-logo="https://i.imgur.com/QyPyIEb.png" group-title="GREECE",Ena Channel
@@ -37,10 +39,16 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8
 #EXTINF:-1 tvg-name="EPT 3" tvg-logo="https://i.imgur.com/Q6d14g7.png" group-title="GREECE",EPT 3
 https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3.m3u8
-#EXTINF:-1 tvg-name="EPT Sports" tvg-logo="https://i.imgur.com/e5lHvXX.png" group-title="GREECE",EPT Sports
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
+#EXTINF:-1 tvg-name="EPT Sports" tvg-logo="https://i.imgur.com/iRNPqoI.png" group-title="GREECE",EPT Sports
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
+#EXTINF:-1 tvg-name="EPT Sports 2" tvg-logo="https://i.imgur.com/Qy1XcYK.png" group-title="GREECE",EPT Sports 2
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2.m3u8
+#EXTINF:-1 tvg-name="EPT Sports 3" tvg-logo="https://i.imgur.com/GhOOWAC.png" group-title="GREECE",EPT Sports 3
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ERT World - github.com/Free-IPTV" tvg-logo="http://i.imgur.com/uet8P2n.jpg" group-title="GREECE",ERT World - github.com/Free-IPTV
 http://wpso.com:1936/hls/wzra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Extra" tvg-logo="https://i.imgur.com/oL9wDvk.png" group-title="GREECE",Extra
+https://extratv.streamings.gr/live/tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Tv Greece" tvg-logo="https://i.imgur.com/k2aV1A0.jpg" group-title="GREECE",Fox Tv Greece
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy GR" tvg-logo="https://i.imgur.com/JbK4Z0J.png" group-title="GREECE",Galaxy GR
@@ -49,6 +57,8 @@ https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
 https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Groovy" tvg-logo="https://i.imgur.com/0iklNh2.png" group-title="GREECE",Groovy
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="High TV" tvg-logo="https://i.imgur.com/cs00CS3.png" group-title="GREECE",High TV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 tvg-id="Ionian TV GR" tvg-name="Ionian TV"  tvg-logo="https://i.imgur.com/MqlvQug.png" group-title="GREECE",Ionian TV
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Irida TV" tvg-logo="https://i.imgur.com/gn5sdCt.png" group-title="GREECE",Irida TV
