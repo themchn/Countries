@@ -1,6 +1,21 @@
-Stupid Forking and HALL OF SHAME
+HALL OF SHAME and Stupid Forking 
 
 HALL OF SHAME No. 1:
+
+They can be really proud to landing here! 
+
+https://github.com/iptv-org/iptv
+
+Now that our rules have been violated twice, a well-known repo has now also made it into this list!
+Why do yourself work when you can simply copy the work of others!
+
+https://github.com/iptv-org/iptv/pull/2282#issuecomment-808138484
+
+https://github.com/iptv-org/iptv/issues/2317
+
+This repo is already known, because of a rule violation (Illegal streams, Copyright violation), it is NOT the first time!
+
+HALL OF SHAME No. 2:
 
 Hi @alirezaaziz,
 
@@ -20,7 +35,7 @@ Finally read the Readme in my Repo carefully and write it behind your ears!!!
 
 https://github.com/alirezaaziz/deu/issues/1
 
-HALL OF SHAME No. 2:
+HALL OF SHAME No. 3:
 
 iptvmate - This guy is especially thirsty! He was warned by me!
 
@@ -40,7 +55,7 @@ We will continue to keep an eye on his doings.
 
 https://iptvmate.net
 
-HALL OF SHAME No. 3:
+HALL OF SHAME No. 4:
 
 Maggy - The user was warned publicly by me and other!
 
@@ -77,7 +92,7 @@ At the moment there are 56 forks from my repo. Again, most of them were just cre
 
 https://github.com/isaacs/github/issues/1280
 
-At the moment there are 60 forks from my repo. Again, most of them were just created stupidly as without using the sense of a fork.
+At the moment there are more than 60 forks from my repo. Again, most of them were just created stupidly as without using the sense of a fork.
 
 Anyone who creates a fork of my repo and does NOT have the status Contributor after a few days will be blocked from now on!
 
