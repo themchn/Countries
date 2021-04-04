@@ -1,328 +1,329 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="GERMANY (Partly GEO-Blocked) github.com/Free-IPTV" group-title="GERMANY" tvg-logo="https://i.imgur.com/xku2oyd.png",GERMANY (Partly GEO-Blocked) - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name=" Das Erste Say thank you to IPTV-ORG!" tvg-id="ARD.de" tvg-logo="https://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/black/84x48.png" group-title="GERMANY",Das Erste Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="Das Erste Say thank you to IPTV-ORG!" tvg-id="ARD.de" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="GERMANY",Das Erste Say thank you to IPTV-ORG!
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-name="*** GERMANY SG TV PLUS - github.com/Free-IPTV" group-title="GERMANY SG TV PLUS" tvg-logo="https://i.imgur.com/xku2oyd.png",*** GERMANY SG TV PLUS - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drama Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="GERMANY SG TV PLUS",Drama Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="Drama Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="GERMANY SG TV PLUS",Drama Say thank you to IPTV-ORG!
 https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="*** PLUTO Germany - github.com/Free-IPTV" group-title="GERMANY PLUTO" tvg-logo="https://i.imgur.com/xku2oyd.png",*** PLUTO Germany - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="5d767ae7b456c8cf265ce922" group-title="GERMANY PLUTO" tvg-name="Animals" tvg-logo="https://images.pluto.tv/channels/5d767ae7b456c8cf265ce922/colorLogoPNG.png",Animals Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="5d767ae7b456c8cf265ce922" group-title="GERMANY PLUTO" tvg-name="Animals" tvg-logo="https://i.imgur.com/Eer3cMw.png",Animals Say thank you to IPTV-ORG!
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="*** GERMANY Etc. - github.com/Free-IPTV" group-title="GERMANY Etc" tvg-logo="https://i.imgur.com/xku2oyd.png",*** GERMANY Etc. - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="Muxx.tv Say thank you to IPTV-ORG!" tvg-id="" tvg-logo="https://i.imgur.com/QUOxNbF.png" group-title="GERMANY Etc",Muxx.tv Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="Muxx.tv Say thank you to IPTV-ORG!" tvg-id="" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="GERMANY Etc",Muxx.tv Say thank you to IPTV-ORG!
 https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="*** GERMANY LOCAL - github.com/Free-IPTV" group-title="GERMANY LOCAL" tvg-logo="https://i.imgur.com/xku2oyd.png",*** GERMANY LOCAL - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="Alex Berlin Say thank you to IPTV-ORG!" tvg-id="" group-title="GERMANY LOCAL" tvg-logo="https://i.imgur.com/eTmHk4e.png",Alex Berlin Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="Alex Berlin Say thank you to IPTV-ORG!" tvg-id="" group-title="GERMANY LOCAL" tvg-logo="https://i.imgur.com/Eer3cMw.png",Alex Berlin Say thank you to IPTV-ORG!
 https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="*** AUSTRIA - github.com/Free-IPTV" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/RqwwAU5.png",*** AUSTRIA - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="dorf tv Say thank you to IPTV-ORG!" tvg-id="" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/4xOAHTJ.png",dorf tv Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="dorf tv Say thank you to IPTV-ORG!" tvg-id="" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/Eer3cMw.png",dorf tv Say thank you to IPTV-ORG!
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
 #EXTINF:-1 tvg-name="*** SWITZERLAND - github.com/Free-IPTV" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/eqVr8td.jpg",*** SWITZERLAND - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="Canal 9 Say thank you to IPTV-ORG!" tvg-id="Kanal9.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/nQVDOVb.png",Canal 9 Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="Canal 9 Say thank you to IPTV-ORG!" tvg-id="Kanal9.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/Eer3cMw.png",Canal 9 Say thank you to IPTV-ORG!
 https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
 #EXTINF:-1 tvg-name="*** LIECHTENSTEIN - github.com/Free-IPTV" group-title="LIECHTENSTEIN" tvg-logo="https://i.imgur.com/Cs6U2K4.png",*** LIECHTENSTEIN - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="Kommu TV Say thank you to IPTV-ORG!" tvg-id="KommuTV.li" group-title="LIECHTENSTEIN" tvg-logo="https://i.imgur.com/hNA8pC9.png",Kommu TV Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="Kommu TV Say thank you to IPTV-ORG!" tvg-id="KommuTV.li" group-title="LIECHTENSTEIN" tvg-logo="https://i.imgur.com/Eer3cMw.png",Kommu TV Say thank you to IPTV-ORG!
 http://31.10.19.12:8066/live/999/0.m3u8
 #EXTINF:-1 tvg-name="*** USA - github.com/Free-IPTV" group-title="USA" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="30A Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/SHEJFbx.png" group-title="USA",30A Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="30A Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="USA",30A Say thank you to IPTV-ORG!
 https://30a-tv.com/my999.m3u8
 #EXTINF:-1 tvg-name="***USA Local TV - github.com/Free-IPTV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA Local TV - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5MfhbGP.png" group-title="USA LOCAL",7News Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="USA LOCAL",7News Say thank you to IPTV-ORG!
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
 #EXTINF:-1 tvg-name="*** USA GALXY TV - github.com/Free-IPTV" group-title="USA GALXY TV" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA GALXY TV - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dungeon Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/mDRWtq0.png" group-title="USA GALXY TV",Dungeon Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="Dungeon Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="USA GALXY TV",Dungeon Say thank you to IPTV-ORG!
 https://content.uplynk.com/channel/5688add7ce704ce1a27ab62bb44044b9.m3u8
 #EXTINF:-1 tvg-name="*** USA DISTRO - github.com/Free-IPTV" group-title="USA DISTRO" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA DISTRO - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0DvV4gl.png" group-title="USA DISTRO",Brut Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="USA DISTRO",Brut Say thank you to IPTV-ORG!
 https://a.jsrdn.com/broadcast/baac3e801e/+0000/c.m3u8
 #EXTINF:-1 tvg-name="*** USA MYTVTOGO - github.com/Free-IPTV" group-title="USA MYTVTOGO" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA MYTVTOGO - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="Action Say thank you to IPTV-ORG!" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="https://i.imgur.com/K2XHhWW.png",Action Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="Action Say thank you to IPTV-ORG!" tvg-id="" group-title="USA MYTVTOGO" tvg-logo="https://i.imgur.com/Eer3cMw.png",Action Say thank you to IPTV-ORG!
 https://nimble.dashstreams.net/onestudio/actionsportstv/playlist.m3u8
 #EXTINF:-1 tvg-name="*** PLUTO USA - github.com/Free-IPTV" group-title="USA PLUTO" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** PLUTO USA - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="70s Say thank you to IPTV-ORG!" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="USA PLUTO",70s Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="70s Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="USA PLUTO",70s Say thank you to IPTV-ORG!
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="*** USA REDBOX - github.com/Free-IPTV" group-title="USA REDBOX" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA REDBOX - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bJGaOdW.png" group-title="USA REDBOX",American Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="USA REDBOX",American Say thank you to IPTV-ORG!
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="*** USA ROKU - github.com/Free-IPTV" group-title="USA ROKU" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA ROKU - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="USA ROKU",Crime Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="USA ROKU",Crime Say thank you to IPTV-ORG!
 https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="*** USA STIRR - github.com/Free-IPTV" group-title="USA STIRR" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA  STIRR - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="AFV Say thank you to IPTV-ORG!" tvg-name="AFV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/1c6dcab5-c101-4b1d-8af3-d2f4d31ff511-small3x1_STIRR_Logo_0520_AFV_1920x1080_EPG.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",AFV Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="AFV Say thank you to IPTV-ORG!" tvg-name="AFV" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="USA STIRR",AFV Say thank you to IPTV-ORG!
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 #EXTINF:-1 tvg-name="*** USA STiRR Cities - github.com/Free-IPTV" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA STiRR Cities - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" group-title="USA STIRR" tvg-logo="https://i.imgur.com/7JgPJxx.png",Stirr Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" group-title="USA STIRR" tvg-logo="https://i.imgur.com/Eer3cMw.png",Stirr Say thank you to IPTV-ORG!
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 #EXTINF:-1 tvg-name="*** USA TVS - github.com/Free-IPTV" group-title="USA TVS" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA TVS  - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",Horror Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="USA TVS",Horror Say thank you to IPTV-ORG!
 https://nrpus.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
 #EXTINF:-1 tvg-name="*** USA FILMRISE - github.com/Free-IPTV" group-title="USA FILMRISE"  tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA FILMRISE - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="Filmrise  Say thank you to IPTV-ORG!" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71te2lAHq5L._SY355_.png" group-title="USA FILMRISE",Filmrise  Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="Filmrise  Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="USA FILMRISE",Filmrise  Say thank you to IPTV-ORG!
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
 #EXTINF:-1 tvg-name="*** USA BUMBLEBEE - github.com/Free-IPTV" group-title="USA Bumblebee" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA BUMBLEBEE - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="Animals  Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/mJZHoUj.png" group-title="USA Bumblebee",Animals   Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="Animals  Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="USA Bumblebee",Animals   Say thank you to IPTV-ORG!
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 #EXTINF:-1 tvg-name="*** USA UDU TV - github.com/Free-IPTV" group-title="USA UDU" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA UDU TV - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="Crime   Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/DelC3oV.png" group-title="USA UDU",Crime   Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="Crime Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="USA UDU",Crime Say thank you to IPTV-ORG!
 https://210a3c3b5dbc49aaae871dee45d83603.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89adc6bc70441f38fca7bd/playlist.m3u8
 #EXTINF:-1 tvg-name="*** USA AMC - github.com/Free-IPTV" group-title="USA AMC" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA AMC - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="AMC Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="USA AMC",AMC Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="AMC Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="USA AMC",AMC Say thank you to IPTV-ORG!
 https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="*** USA GINIKO - github.com/Free-IPTV" group-title="USA GINIKO" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA GINIKO - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="C3 Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA GINIKO",C3 Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="C3 Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="USA GINIKO",C3 Say thank you to IPTV-ORG!
 https://nrpus.bozztv.com/36bay2/gusa-c3/index.m3u8
 #EXTINF:-1 tvg-name="*** CANADA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/XO7BLqf.png" group-title="CANADA",*** CANADA - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="5AAB TV Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="CANADA",5AAB TV Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="5AAB TV Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="CANADA",5AAB TV Say thank you to IPTV-ORG!
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-name="*** GEM ONLINE - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/XO7BLqf.png" group-title="GEM ONLINE",*** GEM ONLINE - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="GEM 24B Say thank you to IPTV-ORG!" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM 24B Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="GEM 24B Say thank you to IPTV-ORG!" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/Eer3cMw.png",GEM 24B Say thank you to IPTV-ORG!
 https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist.m3u8
 #EXTINF:-1 tvg-name="*** BRAZIL - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/4IRPTyM.png" group-title="BRAZIL",*** BRAZIL - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DXwyj7S.png" group-title="BRAZIL",98 Live Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="BRAZIL",98 Live Say thank you to IPTV-ORG!
+https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
 #EXTINF:-1 tvg-name="*** PLUTO BR - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/4IRPTyM.png" group-title="BRAZIL PLUTO",*** PLUTO BR - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f5141c1605ddf000748eb1b" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png",FailArmy Say thank you to IPTV-ORG!
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f5141c1605ddf000748eb1b" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/Eer3cMw.png",FailArmy Say thank you to IPTV-ORG!
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="*** MEXICO - github.com/Free-IPTV" group-title="MEXICO" tvg-logo="https://i.imgur.com/O8x5LLR.jpg",*** MEXICO - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alcarria Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" group-title="MEXICO",Alcarria Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="Alcarria Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="MEXICO",Alcarria Say thank you to IPTV-ORG!
 http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-name="*** MEXICO PLUTO - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/O8x5LLR.jpg" group-title="MEXICO PLUTO",*** MEXICO PLUTO - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="5e67e20c93312100076f3ffe" tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="MEXICO PLUTO",Babar Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="5e67e20c93312100076f3ffe" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="MEXICO PLUTO",Babar Say thank you to IPTV-ORG!
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-name="*** AUSTRALIA - github.com/Free-IPTV" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/lqiMPkK.png",*** AUSTRALIA - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="Ausbiz Say thank you to IPTV-ORG!" tvg-id="tv.7ausbiz" tvg-logo="https://i.imgur.com/8hYBj3q.png" group-title="AUSTRALIA",Ausbiz Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="Ausbiz Say thank you to IPTV-ORG!" tvg-id="tv.7ausbiz" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="AUSTRALIA",Ausbiz Say thank you to IPTV-ORG!
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 tvg-name="*** NEWZEALAND - github.com/Free-IPTV" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/bqrxeDu.png",*** NEWZEALAND - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="Firstlight Say thank you to IPTV-ORG!" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/2TKL6BX.png",Firstlight Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="Firstlight Say thank you to IPTV-ORG!" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/Eer3cMw.png",Firstlight Say thank you to IPTV-ORG!
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="*** JAPAN - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/RCEdG3K.png" group-title="JAPAN",*** JAPAN - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Animax Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/gt8cB0G.jpg" group-title="JAPAN",Animax Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="Animax Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="JAPAN",Animax Say thank you to IPTV-ORG!
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
 #EXTINF:-1 tvg-name="*** INDIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/bopCE0h.png" group-title="INDIA",*** INDIA - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="5aab Say thank you to IPTV-ORG! " tvg-logo="https://i.imgur.com/rh8znmF.jpg" group-title="INDIA",5aab Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="5aab Say thank you to IPTV-ORG! " tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="INDIA",5aab Say thank you to IPTV-ORG!
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-name="*** CHINA - github.com/Free-IPTV" group-title="CHINA" tvg-logo="https://i.imgur.com/6mKCDf1.png",*** CHINA - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aniu TV Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/N8YdX6W.png" group-title="CHINA",Aniu TV Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="Aniu TV Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="CHINA",Aniu TV Say thank you to IPTV-ORG!
 http://cclive.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 tvg-name="*** TAIWAN - github.com/Free-IPTV" group-title="TAIWAN" tvg-logo="https://i.imgur.com/KXcPGuA.png",*** TAIWAN - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CTS Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/VMLLsWs.jpg" group-title="TAIWAN",CTS Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="CTS Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="TAIWAN",CTS Say thank you to IPTV-ORG!
 plugin://plugin.video.youtube/play/?video_id=PQLMD4iHhG8
 #EXTINF:-1 tvg-name="*** SINGAPORE - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/EWAThw2.png" group-title="SINGAPORE",*** SINGAPORE - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CNA https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4" tvg-logo="https://i.imgur.com/sP727kx.png" group-title="SINGAPORE",CNA https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CNA https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="SINGAPORE",CNA https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 plugin://plugin.video.youtube/play/?video_id=XWq5kBlakcQ
 #EXTINF:-1 tvg-name="*** KOREA - github.com/Free-IPTV" group-title="KOREA" tvg-logo="https://i.imgur.com/3lx0R7g.png",*** KOREA - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="KCTV Say thank you to IPTV-ORG!" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/aYmkkM2.png",KCTV Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="KCTV Say thank you to IPTV-ORG!" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/Eer3cMw.png",KCTV Say thank you to IPTV-ORG!
 plugin://plugin.video.youtube/play/?video_id=wSGVaSDgkdY
 #EXTINF:-1 tvg-name="*** ENGLAND - github.com/Free-IPTV" group-title="UK" tvg-logo="https://i.imgur.com/vKXvAZx.png",*** ENGLAND - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beano Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/XvBi1Ou.png" group-title="UK",Beano Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="Beano Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="UK",Beano Say thank you to IPTV-ORG!
 https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="*** UK PLUTO - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/vKXvAZx.png" group-title="UK PLUTO",*** PLUTO UK - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="5e8db96bccae160007c71eec" tvg-logo="https://images.pluto.tv/channels/5e8db96bccae160007c71eec/colorLogoPNG.png" group-title="UK PLUTO",Andromeda Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="5e8db96bccae160007c71eec" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="UK PLUTO",Andromeda Say thank you to IPTV-ORG!
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8db96bccae160007c71eec/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="*** IRELAND - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/IF4p2pM.png" group-title="IRELAND",*** IRELAND - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="RTE Say thank you to IPTV-ORG!" tvg-id="RTENewsNow.ie" group-title="IRELAND" tvg-logo="https://i.imgur.com/ySHyGRQ.png",RTE Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="RTE Say thank you to IPTV-ORG!" tvg-id="RTENewsNow.ie" group-title="IRELAND" tvg-logo="https://i.imgur.com/Eer3cMw.png",RTE Say thank you to IPTV-ORG!
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="*** MALTA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/abDNQno.png" group-title="MALTA",*** MALTA - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="One Say thank you to IPTV-ORG!" tvg-id="" group-title="MALTA" tvg-logo="https://i.imgur.com/b83uZuP.jpg",One Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="One Say thank you to IPTV-ORG!" tvg-id="" group-title="MALTA" tvg-logo="https://i.imgur.com/Eer3cMw.png",One Say thank you to IPTV-ORG!
 https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/playlist.m3u8
 #EXTINF:-1 tvg-name="*** NETHERLANDS - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/9sNF9uX.png" group-title="NETHERLANDS",*** NETHERLANDS - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wYbO6ch.jpg" group-title="NETHERLANDS",BNR Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="NETHERLANDS",BNR Say thank you to IPTV-ORG!
 https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
 #EXTINF:-1 tvg-name="*** BELGIUM - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/51uhUUT.png" group-title="BELGIUM",*** BELGIUM - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A T V Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/iWXUmje.jpg" group-title="BELGIUM",A T V Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="A T V Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="BELGIUM",A T V Say thank you to IPTV-ORG!
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 #EXTINF:-1 tvg-name="*** LUXEMBOURG - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/eEWsJ3S.png" group-title="LUXEMBOURG",*** LUXENBURG - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="Chamber Say thank you to IPTV-ORG!" tvg-name="Chamber TV" tvg-logo="https://i.imgur.com/thalxo3.jpg" group-title="LUXEMBOURG",Chamber Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="Chamber Say thank you to IPTV-ORG!" tvg-name="Chamber TV" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="LUXEMBOURG",Chamber Say thank you to IPTV-ORG!
 https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="*** DENMARK - github.com/Free-IPTV" group-title="DENMARK" tvg-logo="https://i.imgur.com/UmNJwLI.png",*** DENMARK - github.com/Free-IPTV
 https://
-#EXTINF:-1 tvg-id="" tvg-name="KVF Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Nb93Skv.jpg" group-title="DENMARK",KVF Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="KVF Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="DENMARK",KVF Say thank you to IPTV-ORG!
 https://w2.kringvarp.fo/uttanlands/480/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="*** SWEDEN - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/6RX1gF5.jpg" group-title="SWEDEN",*** SWEDEN - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ATG Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="SWEDEN",ATG Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="ATG Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="SWEDEN",ATG Say thank you to IPTV-ORG!
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="*** NORWAY - github.com/Free-IPTV" group-title="NORWAY" tvg-logo="https://i.imgur.com/kAFLbMA.png",*** NORWAY - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Canal Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/BHm0wem.png" group-title="NORWAY",Canal Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="Canal Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="NORWAY",Canal Say thank you to IPTV-ORG!
 http://digicom.hls.iptvdc.com/canalmotor/pl.m3u8
 #EXTINF:-1 tvg-name="*** ICELAND - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/4DcfPZp.png" group-title="ICELAND",*** ICELAND - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="N4 Say thank you to IPTV-ORG!" tvg-id="N4 - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/bLA64K0.png" group-title="ICELAND",N4 Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="N4 Say thank you to IPTV-ORG!" tvg-id="N4 - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="ICELAND",N4 Say thank you to IPTV-ORG!
 https://live.tv.c.is/n4/index.m3u8
 #EXTINF:-1 tvg-name="*** FINLAND - github.com/Free-IPTV" group-title="FINLAND" tvg-logo="https://i.imgur.com/TiGFekJ.png",*** FINLAND - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Taivas Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/pIYSEUN.jpg" group-title="FINLAND",Taivas Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="Taivas Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="FINLAND",Taivas Say thank you to IPTV-ORG!
 http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/chunklist_w2131949141.m3u8
 #EXTINF:-1 tvg-name="*** LATVIA  - github.com/Free-IPTV" group-title="LATVIA" tvg-logo="https://i.imgur.com/KrIyaMf.png",*** LATVIA  - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chau TV Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/c4q2PQj.png" group-title="LATVIA",Chau TV Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="Chau TV Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="LATVIA",Chau TV Say thank you to IPTV-ORG!
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 tvg-name="*** ESTONIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/mE9gSDt.png" group-title="ESTONIA",*** ESTONIA - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ETV+ Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/L8fGd9d.png" group-title="ESTONIA",ETV+ Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="ETV+ Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="ESTONIA",ETV+ Say thank you to IPTV-ORG!
 https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval2/index.m3u8
 #EXTINF:-1 tvg-name="*** LITHUANIA  - github.com/Free-IPTV" group-title="LITHUANIA" tvg-logo="https://i.imgur.com/t9dFrZw.png",*** LITHUANIA  - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LRT Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/0Mrjo9u.png" group-title="LITHUANIA",LRT Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="LRT Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="LITHUANIA",LRT Say thank you to IPTV-ORG!
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:-1 tvg-name="***UKRAINE  - github.com/Free-IPTV" group-title="UKRAINE" tvg-logo="https://i.imgur.com/kP0PTbp.png",*** UKRAINE  - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arhat Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Qdgntk1.jpg" group-title="UKRAINE",Arhat Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="Arhat Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="UKRAINE",Arhat Say thank you to IPTV-ORG!
 http://arhat.tv/public/720p/index.m3u8
 #EXTINF:-1 tvg-name="*** GEORGIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/LoT13Tk.png" group-title="GEORGIA",*** GEORGIA - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1 TV Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/0LJRlFz.png" group-title="GEORGIA",1 TV Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="1 TV Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="GEORGIA",1 TV Say thank you to IPTV-ORG!
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="*** BELARUS - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/PIBvtP3.png" group-title="BELARUS",*** BELARUS - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="1Mus Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="BELARUS",1Mus Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="1Mus Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="BELARUS",1Mus Say thank you to IPTV-ORG!
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-name="*** BULGARIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/nCmtGS8.png" group-title="BULGARIA",*** BULGARIA - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BTK Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/5Sl6bKi.png" group-title="BULGARIA",BTK Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="BTK Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="BULGARIA",BTK Say thank you to IPTV-ORG!
 http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
 #EXTINF:-1 tvg-name="*** POLAND - github.com/Free-IPTV" group-title="POLAND" tvg-logo="https://i.imgur.com/uxgNIq5.png",*** POLAND - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="4FUN Say thank you to IPTV-ORG!" tvg-id="" group-title="POLAND" tvg-logo="https://i.imgur.com/VFs7mdh.jpg",4FUN Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="4FUN Say thank you to IPTV-ORG!" tvg-id="" group-title="POLAND" tvg-logo="https://i.imgur.com/Eer3cMw.png",4FUN Say thank you to IPTV-ORG!
 https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
 #EXTINF:-1 tvg-name="*** HUNGARY - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/l7pTHPu.png" group-title="HUNGARY",*** HUNGARY - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1Music Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/6CNlnpY.jpg" group-title="HUNGARY",1Music Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="1Music Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="HUNGARY",1Music Say thank you to IPTV-ORG!
 http://1music.hu/1music.m3u8
 #EXTINF:-1 tvg-name="*** CZECH REPUBLIC - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/cRl8w0t.png" group-title="CZECH REPUBLIC",*** CZECH REPUBLIC - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CNN Prima Say thank you to IPTV-ORG!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cnn-prima-news-2020.png" group-title="CZECH REPUBLIC",CNN Prima Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="CNN Prima Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="CZECH REPUBLIC",CNN Prima Say thank you to IPTV-ORG!
 https://prima-ott-live-sec.ssl.cdn.cra.cz/rjMQ7dF4QovAGLrLKkJ5sg==,1616348080/channels/prima_cnn/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-name="*** SLOVAKIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/ajHUvqV.png" group-title="SLOVAKIA",*** SLOVAKIA - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BTV Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/hgdR9cp.png" group-title="SLOVAKIA",BTV Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="BTV Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="SLOVAKIA",BTV Say thank you to IPTV-ORG!
 rtmp://s1.media-planet.sk:80/live/bardejov1
 #EXTINF:-1 tvg-name="*** SLOVENIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/6swAlGR.png" group-title="SLOVENIA",*** SLOVENIA - github.com/Free-IPTV- github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="RTV Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/KgZoFdL.png" group-title="SLOVENIA",RTV Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="RTV Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="SLOVENIA",RTV Say thank you to IPTV-ORG!
 https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 #EXTINF:-1 tvg-name="*** ROMANIA - github.com/Free-IPTV" group-title="ROMANIA" tvg-logo="https://i.imgur.com/ufOC17d.png",*** ROMANIA - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z10bwPn.jpg" group-title="ROMANIA",7TV Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="ROMANIA",7TV Say thank you to IPTV-ORG!
 https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
 #EXTINF:-1 tvg-name="*** TURKEY - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/WxJSQp8.png" group-title="TURKEY",*** TURKEY - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="24 Say thank you to IPTV-ORG!" tvg-id="24 TV" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="TURKEY",24 Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="24 Say thank you to IPTV-ORG!" tvg-id="24 TV" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="TURKEY",24 Say thank you to IPTV-ORG!
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name=vg-name="*** IRAN - github.com/Free-IPTV" group-title="IRAN" tvg-logo="https://i.imgur.com/6Fb1ysK.jpg",*** IRAN - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="11 TV Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Uo3iDXN.jpg" group-title="IRAN",11 TV Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="11 TV Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="IRAN",11 TV Say thank you to IPTV-ORG!
 http://51.210.199.43/hls/stream.m3u8
 #EXTINF:-1 tvg-name="*** IRAQ - github.com/Free-IPTV" group-title="IRAQ" tvg-logo="https://i.imgur.com/PlJDyeH.png",*** IRAQ - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Al-Forat Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/siWfiZR.png" group-title="IRAQ",Al-Forat Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="Al-Forat Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="IRAQ",Al-Forat Say thank you to IPTV-ORG!
 https://5e085b8c1882e.streamlock.net/live/_definst_/alforat.smil/chunklist_w812522658_b512000_slen.m3u8
 #EXTINF:-1 tvg-name="*** AFGHANISTAN - github.com/Free-IPTV" group-title="AFGHANISTAN" tvg-logo="https://i.imgur.com/f7pAUiw.png",*** AFGHANISTAN - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="Andisheh Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/yCFIC60.jpg" group-title="AFGHANISTAN",Andisheh Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="Andisheh Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="AFGHANISTAN",Andisheh Say thank you to IPTV-ORG!
 http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
 #EXTINF:-1 tvg-name=vg-name="*** PAKISTAN - github.com/Free-IPTV" group-title="PAKISTAN" tvg-logo="https://i.imgur.com/mX0sUfc.png",*** PAKISTAN - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="92 Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Ji563Ed.jpg" group-title="PAKISTAN",92 Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="92 Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="PAKISTAN",92 Say thank you to IPTV-ORG!
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-name="*** ISRAEL - github.com/Free-IPTV" group-title="ISRAEL" tvg-logo="https://i.imgur.com/IZCtGmD.png",*** ISRAEL - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="JBS Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Ol5M9ot.png" group-title="ISRAEL",JBS Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="JBS Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="ISRAEL",JBS Say thank you to IPTV-ORG!
 http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="*** GREECE - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/bn9XpG5.png" group-title="GREECE",*** GREECE - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="4E Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/k2LBY9f.png" group-title="GREECE",4E
+#EXTINF:-1 tvg-id="" tvg-name="4E Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="GREECE",4E
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="*** ALBANIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/gWTuVrE.png" group-title="ALBANIA",*** ALBANIA - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ART Media Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/VkVwXci.png" group-title="ALBANIA",ART Media Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="ART Media Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="ALBANIA",ART Media Say thank you to IPTV-ORG!
 http://artiptv.xyz:8080/hls/artmedia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="*** FRANCE - github.com/Free-IPTV" group-title="FRANCE" tvg-logo="https://i.imgur.com/OPau00Q.png",*** FRANCE - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A2i Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="FRANCE",A2i Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="A2i Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="FRANCE",A2i Say thank you to IPTV-ORG!
 https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
 #EXTINF:-1 tvg-name="*** FRANCE PLUTO - github.com/Free-IPTV" group-title="FRANCE PLUTO" tvg-logo="https://i.imgur.com/OPau00Q.png",*** FRANCE PLUTO - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="BET Say thank you to IPTV-ORG!" tvg-id="5f92b5ba040eaa0007074d0a" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f92b5ba040eaa0007074d0a/colorLogoPNG.png",BET Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="BET Say thank you to IPTV-ORG!" tvg-id="5f92b5ba040eaa0007074d0a" group-title="FRANCE PLUTO" tvg-logo="https://i.imgur.com/Eer3cMw.png",BET Say thank you to IPTV-ORG!
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f92b5ba040eaa0007074d0a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="*** MONACO - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/BvK2VEz.png" group-title="MONACO",*** MONACO - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Monaco Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/h3Polon.jpg" group-title="MONACO",Monaco Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="Monaco Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="MONACO",Monaco Say thank you to IPTV-ORG!
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:-1 tvg-name="*** SPAIN - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/acuIUpD.png" group-title="SPAIN",*** SPAIN - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="101TV Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="SPAIN",101TV Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="101TV Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="SPAIN",101TV Say thank you to IPTV-ORG!
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u
 #EXTINF:-1 tvg-name="*** SPAIN PLUTO - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/acuIUpD.png" group-title="SPAIN PLUTO",*** SPAIN PLUTO - github.com/Free-IPTV
-https://
-#EXTINF:-1 tvg-id="5f1acc3e061597000768d4ea" tvg-logo="https://images.pluto.tv/channels/5f1acc3e061597000768d4ea/colorLogoPNG.png" group-title="SPAIN PLUTO",Andrómeda Say thank you to IPTV-ORG!
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-id="5f1acc3e061597000768d4ea" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="SPAIN PLUTO",Andrómeda Say thank you to IPTV-ORG!
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acc3e061597000768d4ea/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-name="*** SPAIN YOWI TV - github.com/Free-IPTV" group-title="SPAIN YOWI" tvg-logo="https://i.imgur.com/acuIUpD.png",*** SPAIN YOWI TV - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3/24 Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/1rtWgqD.jpg" group-title="SPAIN YOWI",3/24 Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="3/24 Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="SPAIN YOWI",3/24 Say thank you to IPTV-ORG!
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1 tvg-name="*** PORTUGAL - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/qjhJNaZ.png" group-title="PORTUGAL",*** PORTUGAL - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caca Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="PORTUGAL",Caca Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="Caca Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="PORTUGAL",Caca Say thank you to IPTV-ORG!
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
 #EXTINF:-1 tvg-name="*** ITALY - github.com/Free-IPTV" group-title="ITALY" tvg-logo="https://i.imgur.com/PzFJG5f.png",*** ITALY - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cine 34 Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/cOpASOB.png" group-title="ITALY",Cine 34 Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="Cine 34 Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="ITALY",Cine 34 Say thank you to IPTV-ORG!
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
 #EXTINF:-1 tvg-name="*** ITALY LOCAL - github.com/Free-IPTV" group-title="ITALY LOCAL" tvg-logo="https://i.imgur.com/PzFJG5f.png",*** ITALY LOCAL - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="12 Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/7w0xhMG.png" group-title="ITALY LOCAL",12 Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="" tvg-name="12 Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="ITALY LOCAL",12 Say thank you to IPTV-ORG!
 https://meridelive01-lh.akamaihd.net/i/tvparma_1@356964/master.m3u8
 #EXTINF:-1 tvg-name="*** MUSIC - github.com/Free-IPTV" group-title="MUSIC" tvg-logo="https://i.imgur.com/ehHqQgP.png",*** MUSIC - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="1Mus (BLR) Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="MUSIC",1Mus (BLR) Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="1Mus (BLR) Say thank you to IPTV-ORG!" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="MUSIC",1Mus (BLR) Say thank you to IPTV-ORG!
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-name="****** GERMANY ******" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/gJGRDcn.jpg",****** GERMANY ******
 https://
-#EXTINF:-1 tvg-name="MDR   Say thank you to IPTV-ORG!" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/Y8Z6chO.png",MDR   Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-name="MDR Say thank you to IPTV-ORG!" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/Eer3cMw.png",MDR Say thank you to IPTV-ORG!
 https://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/mp3/high/stream.mp3

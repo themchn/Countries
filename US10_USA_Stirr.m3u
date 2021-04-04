@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="*** USA STIRR - github.com/Free-IPTV" group-title="USA STIRR" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA  STIRR - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id=" AFV Say thank you to IPTV-ORG!" tvg-name="AFV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/1c6dcab5-c101-4b1d-8af3-d2f4d31ff511-small3x1_STIRR_Logo_0520_AFV_1920x1080_EPG.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",AFV Say thank you to IPTV-ORG!
+#EXTINF:-1 tvg-id="AFV Say thank you to IPTV-ORG!" tvg-name="AFV" tvg-logo="https://i.imgur.com/Eer3cMw.png" group-title="USA STIRR",AFV Say thank you to IPTV-ORG!
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
