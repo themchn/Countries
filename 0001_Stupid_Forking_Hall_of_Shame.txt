@@ -9,13 +9,31 @@ https://github.com/iptv-org/iptv
 Now that our rules have been violated twice, a well-known repo has now also made it into this list!
 Why do yourself work when you can simply copy the work of others!
 
-https://github.com/iptv-org/iptv/pull/2282#issuecomment-808138484
-
+https://github.com/iptv-org
+https://github.com/freearhey (Manages this dubious repo)
+https://github.com/themak1985 (A particularly hard-working thief!)
+https://github.com/iptv-org/iptv/pull/2324
+https://github.com/iptv-org/iptv/pull/2322
+https://github.com/iptv-org/iptv/pull/2320
 https://github.com/iptv-org/iptv/issues/2317
+https://github.com/iptv-org/iptv/pull/2282
 
 This repo is already known, because of a rule violation (Illegal streams, Copyright violation), it is NOT the first time!
 
+DMCA
+https://github.com/iptv-org/iptv/issues/1831
+
 HALL OF SHAME No. 2:
+
+The user (looser) themak1985 is a particularly hard-working thief!
+He can also be really proud to landing here! 
+
+https://github.com/iptv-org/iptv/pull/2322
+
+Very busy copying our work. Thanks to tvg-logo=, we can find a number of streams that he, including the logos that we have integrated into OUR m3u´s stupid copied!
+Haha, the evil tvg-logo= with the unique link from imhur.com unleashed this rabble of thieves
+
+HALL OF SHAME No. 3:
 
 Hi @alirezaaziz,
 
@@ -35,7 +53,7 @@ Finally read the Readme in my Repo carefully and write it behind your ears!!!
 
 https://github.com/alirezaaziz/deu/issues/1
 
-HALL OF SHAME No. 3:
+HALL OF SHAME No. 4:
 
 iptvmate - This guy is especially thirsty! He was warned by me!
 
@@ -55,7 +73,7 @@ We will continue to keep an eye on his doings.
 
 https://iptvmate.net
 
-HALL OF SHAME No. 4:
+HALL OF SHAME No. 5:
 
 Maggy - The user was warned publicly by me and other!
 
