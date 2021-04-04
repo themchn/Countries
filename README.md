@@ -17,7 +17,7 @@ NOW THAT'S THE END WITH THIS CLAWING IN FREE-IPTV/COUNTRIES!
 
 Of course, the honest users, the genuine users of our m3u's, will have no disadvantages because of certain idiots!
 
-# ACCESS OUR NEW PRIVATE REPO
+# ACCESS TO OUR NEW PRIVATE REPO
 
 READ THE PRIVATE REPO RULES BEFORE THE ISSUE
 
