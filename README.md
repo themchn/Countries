@@ -3,7 +3,7 @@
 Thanks for a small donation. :-)
 
 # Countries
-Free legally receivable IPTV channels as .m3u for Kodi. :-)
+Free legally receivable IPTV channels for Kodi, VLC or other media players as .m3u for Kodi. :-)
 
 # IMPOTANT CHANGES!
 
@@ -21,9 +21,7 @@ Of course, the honest users, the genuine users of our m3u's, will have no disadv
 
 READ THE PRIVATE REPO RULES BEFORE THE ISSUE
 
-You write to us via issue here in this repo to get into our new repo. 
-
-# THE FOLLOWING RULES FOR THE NEW PRIVATE MUST BE OBSERVED:
+# THE FOLLOWING RULES FOR THE NEW PRIVATE REPO MUST BE OBSERVED:
 
 1. ONLY CREATE A FORK IF YOU WANT TO WORK WITH ME
 2. A FORK MAY ONLY BE CREATED, IF THEN THERE ALSO COMES A PULL REQUEST
@@ -40,6 +38,8 @@ You write to us via issue here in this repo to get into our new repo.
 3. New users who recently created an account on Github
 
 As usual, the new (private) repo has regular updates and free and LEGAL streams from many countries. :-)
+
+# TO GET INTO THE NEW PRIVATE REPO, CONTACT ME VIA THE MENU "[Issues](https://github.com/Free-IPTV/Countries/issues)" THEN YOU WILL GET FURTHER INFORMATION FOR ACCESS
 
 ----------------------------------------------------------------------------------------------------------
 The old text also here!!!
